@@ -58,6 +58,6 @@ public class Add_two_nums {
     }
 
     public static void main(String[] args) {
-        
+
     }
 }
