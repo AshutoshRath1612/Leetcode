@@ -12,4 +12,5 @@
 - 12.Integer to Roman (<a href="https://leetcode.com/problems/integer-to-roman/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java">Solution</a>)
 - 13.Integer to Roman (<a href="https://leetcode.com/problems/roman-to-integer/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java">Solution</a>)
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
+- 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
