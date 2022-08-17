@@ -16,5 +16,6 @@
 - 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
+- 1295.Find Numbers with Even Number of Digits (<a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_Numbers_with_Even_Number_of_Digits.java">Solution</a>)
 - 1920.Build Array from Permutation (<a href="https://leetcode.com/problems/build-array-from-permutation/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java">Solution</a>)
 
