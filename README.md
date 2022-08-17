@@ -20,4 +20,5 @@
 - 1295.Find Numbers with Even Number of Digits (<a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_Numbers_with_Even_Number_of_Digits.java">Solution</a>)
 - 1672.Richest Customer Wealth (<a href="https://leetcode.com/problems/richest-customer-wealth/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java">Solution</a>)
 - 1920.Build Array from Permutation (<a href="https://leetcode.com/problems/build-array-from-permutation/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java">Solution</a>)
+- 1929.Concatenation of Array (<a href="https://leetcode.com/problems/concatenation-of-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Concatenation_of_Array.java">Solution</a>)
 
