@@ -1,5 +1,8 @@
 package Leetcode;
 
+/*
+Given an array nums of integers, return how many of them contain an even number of digits.
+ */
 public class Find_Numbers_with_Even_Number_of_Digits {
     public static int findNumbers(int[] nums) {
         int count=0;
