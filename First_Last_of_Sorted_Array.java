@@ -49,8 +49,6 @@ public class First_Last_of_Sorted_Array {
         return range;
     }
     public static int findFirstIndex(int []arr ,int start ,int end,int target,boolean startIndex ,int ans){
-//        if (arr.length==1 && arr[0]==target)
-//            return 1;
        if (start<=end){
            int mid =start +(end-start)/2;
            if (mid != arr.length &&arr[mid]==target) {
