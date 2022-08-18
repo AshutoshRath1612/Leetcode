@@ -14,6 +14,7 @@
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
 - 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
 - 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
+- 34.Find First and Last Position of Element in Sorted Array (<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
 - 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
