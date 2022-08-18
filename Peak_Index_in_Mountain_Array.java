@@ -27,7 +27,7 @@ public class Peak_Index_in_Mountain_Array {
         return mid;
     }
     public static void main(String[] args) {
-        int [] arr ={1,2};
+        int [] arr ={1,2,3,4,5,3,1};
         int peak = peakIndexInMountainArray(arr);
         System.out.println(peak);
     }
