@@ -14,11 +14,11 @@ You must solve it in O(log(arr.length)) time complexity.
 public class Peak_Index_in_Mountain_Array {
     public static int peakIndexInMountainArray(int[] arr) {
 
-        return peakIndex(arr,0,arr.length);
+        return peakIndex(arr,0,arr.length-1);
     }
     public static int peakIndex(int []arr , int start ,int end){
         int mid =start +(end-start)/2;
-        if (start<=end){
+        if (start<end){
             if (arr[mid]<arr[mid+1])
                 return peakIndex(arr,mid+1 ,end);
             else if(arr[mid]> arr[mid+1])
@@ -27,7 +27,7 @@ public class Peak_Index_in_Mountain_Array {
         return mid;
     }
     public static void main(String[] args) {
-        int [] arr ={1,2,3,1};
+        int [] arr ={1,2};
         int peak = peakIndexInMountainArray(arr);
         System.out.println(peak);
     }
