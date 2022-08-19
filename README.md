@@ -17,6 +17,7 @@
 - 34.Find First and Last Position of Element in Sorted Array (<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
+- 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
 - 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
