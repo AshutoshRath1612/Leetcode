@@ -28,6 +28,7 @@
 - 1431.Kids With the Greatest Number of Candies (<a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Kid_with_Greatest_Candies.java">Solution</a>)
 - 1470.Shuffle the Array (<a href="https://leetcode.com/problems/shuffle-the-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Shuffle_The_Array.java">Solution</a>)
 - 1480.Running Sum of 1d Array (<a href="https://leetcode.com/problems/running-sum-of-1d-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RunningSum_of_Array.java">Solution</a>)
+- 1512.Number of Good Pairs (<a href="https://leetcode.com/problems/number-of-good-pairs/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_of_Good_Pairs.java">Solution</a>)
 - 1672.Richest Customer Wealth (<a href="https://leetcode.com/problems/richest-customer-wealth/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java">Solution</a>)
 - 1920.Build Array from Permutation (<a href="https://leetcode.com/problems/build-array-from-permutation/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java">Solution</a>)
 - 1929.Concatenation of Array (<a href="https://leetcode.com/problems/concatenation-of-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Concatenation_of_Array.java">Solution</a>)
