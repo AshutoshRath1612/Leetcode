@@ -20,6 +20,7 @@
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
 - 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
 - 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
+- 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
 - 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
