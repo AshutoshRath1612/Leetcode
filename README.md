@@ -16,6 +16,7 @@
 - 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
 - 33.Search in Rotated Sorted Array (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Roated_Array.java">Solution</a>)
 - 34.Find First and Last Position of Element in Sorted Array (<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java">Solution</a>)
+- 34.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
 - 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
