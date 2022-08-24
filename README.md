@@ -24,6 +24,7 @@
 - 268.Missing Number (<a href="https://leetcode.com/problems/missing-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MissingNumber.java">Solution</a>)
 - 326.Power Of Three (<a href="https://leetcode.com/problems/power-of-three/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PoweOf3.java">Solution</a>)
 - 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
+- 448. Find All Numbers Disappeared in an Array (<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/All_NumsDisapperedInArray.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
 - 1095.Find in Mountain Array (<a href="https://leetcode.com/problems/find-in-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_In_Mountain_Array.java">Solution</a>)
