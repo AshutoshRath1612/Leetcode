@@ -26,6 +26,7 @@
 - 287.Find the Duplicate Number (<a href="https://leetcode.com/problems/find-the-duplicate-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java">Solution</a>)
 - 326.Power Of Three (<a href="https://leetcode.com/problems/power-of-three/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PoweOf3.java">Solution</a>)
 - 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
+- 383.Ransom Note (<a href="https://leetcode.com/problems/ransom-note/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RansomNote.java">Solution</a>)
 - 442.Find All Duplicates in an Array (<a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindAllDuplicates.java">Solution</a>)
 - 448.Find All Numbers Disappeared in an Array (<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/All_NumsDisapperedInArray.java">Solution</a>)
 - 645.Set Mismatch (<a href="https://leetcode.com/problems/set-mismatch/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMismatch.java">Solution</a>)
