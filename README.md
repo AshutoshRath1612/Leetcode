@@ -19,6 +19,7 @@
 - 34.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
+- 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
 - 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
 - 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
 - 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
