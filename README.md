@@ -36,6 +36,7 @@
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
 - 867.Transpose Matrix (<a href="https://leetcode.com/problems/transpose-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java">Solution</a>)
 - 896.Monotonic Array (<a href="https://leetcode.com/problems/monotonic-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MonotonicArray.java">Solution</a>)
+- 989.Add to Array-Form of Integer (<a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ArrayFormOfInteger.java">Solution</a>)
 - 1095.Find in Mountain Array (<a href="https://leetcode.com/problems/find-in-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_In_Mountain_Array.java">Solution</a>)
 - 1252.Cells with Odd Values in a Matrix (<a href="https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/CellsWithOddValue.java">Solution</a>)
 - 1295.Find Numbers with Even Number of Digits (<a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_Numbers_with_Even_Number_of_Digits.java">Solution</a>)
