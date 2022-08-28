@@ -32,6 +32,7 @@
 - 442.Find All Duplicates in an Array (<a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindAllDuplicates.java">Solution</a>)
 - 448.Find All Numbers Disappeared in an Array (<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/All_NumsDisapperedInArray.java">Solution</a>)
 - 645.Set Mismatch (<a href="https://leetcode.com/problems/set-mismatch/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMismatch.java">Solution</a>)
+- 704.Binary Search (<a href="https://leetcode.com/problems/binary-search/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/BinarySearch.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
 - 832.Flipping an Image (<a href="https://leetcode.com/problems/flipping-an-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
