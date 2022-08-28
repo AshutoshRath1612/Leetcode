@@ -31,6 +31,7 @@
 - 383.Ransom Note (<a href="https://leetcode.com/problems/ransom-note/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RansomNote.java">Solution</a>)
 - 442.Find All Duplicates in an Array (<a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindAllDuplicates.java">Solution</a>)
 - 448.Find All Numbers Disappeared in an Array (<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/All_NumsDisapperedInArray.java">Solution</a>)
+- 540.Single Element in a Sorted Array (<a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SingleElementInSortedArray.java">Solution</a>)
 - 645.Set Mismatch (<a href="https://leetcode.com/problems/set-mismatch/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMismatch.java">Solution</a>)
 - 704.Binary Search (<a href="https://leetcode.com/problems/binary-search/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/BinarySearch.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
