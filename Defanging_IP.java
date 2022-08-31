@@ -7,19 +7,19 @@ A defanged IP address replaces every period "." with "[.]".
  */
 public class Defanging_IP {
     public static String defangIPaddr(String address) {
-        String str ="";
-        for (int i=0;i<address.length();i++){
-            if (address.charAt(i)=='.'){
-                str+="[.]";
+        StringBuilder sb = new StringBuilder(address);
+        for (int i=0;i<sb.length();i++){
+            if (sb.charAt(i)=='.'){
+                sb.insert(i , '[');
+                sb.insert(i+2,']');
+                i+=2;
             }
-            else
-                str+= address.charAt(i);
         }
-        return str;
+        return sb.toString();
     }
 
     public static void main(String[] args) {
-        String str ="255.100.50.0";
+        String str ="1.1.1.1";
         str = defangIPaddr(str);
         System.out.println(str);
     }
