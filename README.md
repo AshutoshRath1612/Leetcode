@@ -51,6 +51,8 @@
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
 - 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a>
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
+- 231.Power of Two (<a href="https://leetcode.com/problems/power-of-two/">Question</a>
+  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfTwo.java">Solution</a>)
 - 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a>
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
 - 268.Missing Number (<a href="https://leetcode.com/problems/missing-number/">Question</a>
