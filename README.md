@@ -49,6 +49,8 @@
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
 - 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a>
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
+- 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a>
+  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
 - 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a>
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
 - 268.Missing Number (<a href="https://leetcode.com/problems/missing-number/">Question</a>
