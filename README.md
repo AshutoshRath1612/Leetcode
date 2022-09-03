@@ -90,6 +90,7 @@
 - 1732.Find the Highest Altitude (<a href="https://leetcode.com/problems/find-the-highest-altitude/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java">Solution</a>)
 - 1773.Count Items Matching a Rule (<a href="https://leetcode.com/problems/count-items-matching-a-rule/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Count_item_MatchingRule.java">Solution</a>)
 - 1832.Check if the Sentence Is Pangram (<a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Check_IfPangram.java">Solution</a>)
+- 1854.Maximum Population Year (<a href="https://leetcode.com/problems/maximum-population-year/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumPopulationYear.java">Solution</a>)
 - 1920.Build Array from Permutation (<a href="https://leetcode.com/problems/build-array-from-permutation/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java">Solution</a>)
 - 1929.Concatenation of Array (<a href="https://leetcode.com/problems/concatenation-of-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Concatenation_of_Array.java">Solution</a>)
 
