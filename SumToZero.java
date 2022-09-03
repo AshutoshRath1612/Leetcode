@@ -2,6 +2,9 @@ package Leetcode;
 
 import java.util.Arrays;
 
+/*
+Given an integer n, return any array containing n unique integers such that they add up to 0.
+ */
 public class SumToZero {
     public static int[] sumZero(int n) {
         int []arr= new int[n];
