@@ -37,6 +37,8 @@
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
 - 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a>
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
+- 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a>
+  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
 - 55.Jump Game (<a href="https://leetcode.com/problems/jump-game/">Question</a>
   | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a>
