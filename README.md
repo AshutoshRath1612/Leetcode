@@ -8,67 +8,34 @@
 - 3.Longest Substring without Repeating (<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java">Solution</a>)
 - 4.Median of Two Sorted Arrays (<a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java">Solution</a>)
 - 9.Palindrome Number (<a href="https://leetcode.com/problems/palindrome-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java">Solution</a>)
-- 11.Container With Most Water (<a href="https://leetcode.com/problems/container-with-most-water/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java">Solution</a>)
-- 12.Integer to Roman (<a href="https://leetcode.com/problems/integer-to-roman/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java">Solution</a>)
-- 13.Roman to Integer (<a href="https://leetcode.com/problems/roman-to-integer/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java">Solution</a>)
-- 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
-- 17.Letter Combinations of a Phone
-  Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">
-  Solution</a>)
-- 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
-- 26.Remove Duplicates from Sorted Array (<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">
-  Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveDuplicatesFromSortedArray.java">
-  Solution</a>)
-- 27.Remove Element (<a href="https://leetcode.com/problems/remove-element/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveElement.java">Solution</a>)
-- 33.Search in Rotated Sorted Array (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">
-  Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Roated_Array.java">
-  Solution</a>)
-- 34.Find First and Last Position of Element in Sorted
-  Array (<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java">Solution</a>)
-- 41.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
-- 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
-- 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
-- 55.Jump Game (<a href="https://leetcode.com/problems/jump-game/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java">Solution</a>)
-- 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
-- 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
-- 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
-- 152.Maximum Product Subarray (<a href="https://leetcode.com/problems/maximum-product-subarray/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumProductSubarray.java">Solution</a>)
-- 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
-- 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
-- 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
-- 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
-- 231.Power of Two (<a href="https://leetcode.com/problems/power-of-two/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfTwo.java">Solution</a>)
-- 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
-- 268.Missing Number (<a href="https://leetcode.com/problems/missing-number/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MissingNumber.java">Solution</a>)
-- 287.Find the Duplicate Number (<a href="https://leetcode.com/problems/find-the-duplicate-number/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java">Solution</a>)
-- 326.Power Of Three (<a href="https://leetcode.com/problems/power-of-three/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PoweOf3.java">Solution</a>)
-- 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a>
-  | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
+- 11.Container With Most Water (<a href="https://leetcode.com/problems/container-with-most-water/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java">Solution</a>)
+- 12.Integer to Roman (<a href="https://leetcode.com/problems/integer-to-roman/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java">Solution</a>)
+- 13.Roman to Integer (<a href="https://leetcode.com/problems/roman-to-integer/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java">Solution</a>)
+- 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
+- 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
+- 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
+- 26.Remove Duplicates from Sorted Array (<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveDuplicatesFromSortedArray.java">Solution</a>)
+- 27.Remove Element (<a href="https://leetcode.com/problems/remove-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveElement.java">Solution</a>)
+- 33.Search in Rotated Sorted Array (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/"> Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Roated_Array.java">Solution</a>)
+- 34.Find First and Last Position of Element in Sorted Array (<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java">Solution</a>)
+- 41.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
+- 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
+- 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
+- 55.Jump Game (<a href="https://leetcode.com/problems/jump-game/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java">Solution</a>)
+- 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
+- 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
+- 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
+- 152.Maximum Product Subarray (<a href="https://leetcode.com/problems/maximum-product-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumProductSubarray.java">Solution</a>)
+- 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
+- 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
+- 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
+- 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
+- 231.Power of Two (<a href="https://leetcode.com/problems/power-of-two/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfTwo.java">Solution</a>)
+- 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
+- 268.Missing Number (<a href="https://leetcode.com/problems/missing-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MissingNumber.java">Solution</a>)
+- 287.Find the Duplicate Number (<a href="https://leetcode.com/problems/find-the-duplicate-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java">Solution</a>)
+- 326.Power Of Three (<a href="https://leetcode.com/problems/power-of-three/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PoweOf3.java">Solution</a>)
+- 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
 - 383.Ransom Note (<a href="https://leetcode.com/problems/ransom-note/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RansomNote.java">Solution</a>)
 - 442.Find All Duplicates in an Array (<a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindAllDuplicates.java">Solution</a>)
 - 448.Find All Numbers Disappeared in an Array (<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/All_NumsDisapperedInArray.java">Solution</a>)
