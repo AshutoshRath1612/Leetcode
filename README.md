@@ -23,6 +23,7 @@
 - 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
 - 55.Jump Game (<a href="https://leetcode.com/problems/jump-game/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java">Solution</a>)
 - 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
+- 67.Add Binary (<a href="https://leetcode.com/problems/add-binary/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/AddBinary.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
 - 152.Maximum Product Subarray (<a href="https://leetcode.com/problems/maximum-product-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumProductSubarray.java">Solution</a>)
