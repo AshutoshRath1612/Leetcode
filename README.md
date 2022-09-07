@@ -41,6 +41,7 @@
 - 442.Find All Duplicates in an Array (<a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindAllDuplicates.java">Solution</a>)
 - 448.Find All Numbers Disappeared in an Array (<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/All_NumsDisapperedInArray.java">Solution</a>)
 - 540.Single Element in a Sorted Array (<a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SingleElementInSortedArray.java">Solution</a>)
+- 566.Reshape the Matrix (<a href="https://leetcode.com/problems/reshape-the-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReshapeMatrix.java">Solution</a>)
 - 645.Set Mismatch (<a href="https://leetcode.com/problems/set-mismatch/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMismatch.java">Solution</a>)
 - 704.Binary Search (<a href="https://leetcode.com/problems/binary-search/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/BinarySearch.java">Solution</a>)
 - 709.To Lower Case (<a href="https://leetcode.com/problems/to-lower-case/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/toLowerCase.java">Solution</a>)
