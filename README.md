@@ -46,6 +46,7 @@
 - 645.Set Mismatch (<a href="https://leetcode.com/problems/set-mismatch/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMismatch.java">Solution</a>)
 - 704.Binary Search (<a href="https://leetcode.com/problems/binary-search/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/BinarySearch.java">Solution</a>)
 - 709.To Lower Case (<a href="https://leetcode.com/problems/to-lower-case/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/toLowerCase.java">Solution</a>)
+- 728.Self Diving Number (<a href="https://leetcode.com/problems/self-dividing-numbers/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SelfDivingNumber.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
 - 832.Flipping an Image (<a href="https://leetcode.com/problems/flipping-an-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
