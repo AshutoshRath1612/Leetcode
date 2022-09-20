@@ -43,6 +43,7 @@
 - 287.Find the Duplicate Number (<a href="https://leetcode.com/problems/find-the-duplicate-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java">Solution</a>)
 - 326.Power Of Three (<a href="https://leetcode.com/problems/power-of-three/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PoweOf3.java">Solution</a>)
 - 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
+- 367.Valid Perfect Square (<a href="https://leetcode.com/problems/valid-perfect-square/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPerfectSquare.java">Solution</a>)
 - 374.Guess Number Higher or Lower (<a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/GuessNumberHigherOrLower.java">Solution</a>)
 - 383.Ransom Note (<a href="https://leetcode.com/problems/ransom-note/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RansomNote.java">Solution</a>)
 - 442.Find All Duplicates in an Array (<a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindAllDuplicates.java">Solution</a>)
