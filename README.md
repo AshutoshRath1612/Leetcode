@@ -31,6 +31,7 @@
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 152.Maximum Product Subarray (<a href="https://leetcode.com/problems/maximum-product-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumProductSubarray.java">Solution</a>)
 - 153.Find Minimum in Rotated Sorted Array (<a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray.java">Solution</a>)
+- 154.Find Minimum in Rotated Sorted Array II (<a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray_II.java">Solution</a>)
 - 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
 - 167.Two Sum II - Input Array Is Sorted (<a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum_II.java">Solution</a>)
 - 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
