@@ -47,6 +47,7 @@
 - 367.Valid Perfect Square (<a href="https://leetcode.com/problems/valid-perfect-square/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPerfectSquare.java">Solution</a>)
 - 374.Guess Number Higher or Lower (<a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/GuessNumberHigherOrLower.java">Solution</a>)
 - 383.Ransom Note (<a href="https://leetcode.com/problems/ransom-note/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RansomNote.java">Solution</a>)
+- 441.Arranging Coins (<a href="https://leetcode.com/problems/arranging-coins/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ArrangingCoins.java">Solution</a>)
 - 442.Find All Duplicates in an Array (<a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindAllDuplicates.java">Solution</a>)
 - 448.Find All Numbers Disappeared in an Array (<a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/All_NumsDisapperedInArray.java">Solution</a>)
 - 540.Single Element in a Sorted Array (<a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SingleElementInSortedArray.java">Solution</a>)
