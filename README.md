@@ -78,6 +78,7 @@
 - 1470.Shuffle the Array (<a href="https://leetcode.com/problems/shuffle-the-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Shuffle_The_Array.java">Solution</a>)
 - 1480.Running Sum of 1d Array (<a href="https://leetcode.com/problems/running-sum-of-1d-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RunningSum_of_Array.java">Solution</a>)
 - 1512.Number of Good Pairs (<a href="https://leetcode.com/problems/number-of-good-pairs/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_of_Good_Pairs.java">Solution</a>)
+- 1539.Kth Missing Positive Number (<a href="https://leetcode.com/problems/kth-missing-positive-number/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/KthMissingNumber.java">Solution</a>)
 - 1572.Matrix Diagonal Sum (<a href="https://leetcode.com/problems/matrix-diagonal-sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MatrixDiagonalSum.java">Solution</a>)
 - 1672.Richest Customer Wealth (<a href="https://leetcode.com/problems/richest-customer-wealth/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java">Solution</a>)
 - 1732.Find the Highest Altitude (<a href="https://leetcode.com/problems/find-the-highest-altitude/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java">Solution</a>)
