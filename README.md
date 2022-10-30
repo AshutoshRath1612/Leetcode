@@ -28,6 +28,7 @@
 - 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
 - 67.Add Binary (<a href="https://leetcode.com/problems/add-binary/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/AddBinary.java">Solution</a>)
 - 73.Set Matrix to Zero (<a href="https://leetcode.com/problems/set-matrix-zeroes/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java">Solution</a>)
+- 74.Search in 2D matrix (<a href="https://leetcode.com/problems/search-a-2d-matrix">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java">Solution</a>)
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
 - 81.Search in Rotated Sorted Array II (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Rotated_Array_II.java">Solution</a>)
 - 88.Merge Sorted Array (<a href="https://leetcode.com/problems/merge-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java">Solution</a>)
