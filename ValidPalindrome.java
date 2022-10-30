@@ -9,6 +9,7 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 public class ValidPalindrome {
     public static boolean isPalindrome(String s) {
         StringBuilder str = new StringBuilder();
+//        String str = "";
         s = s.toLowerCase();
         for (int i =0;i<s.length();i++){
             if ((s.charAt(i)>=97 && s.charAt(i)<=122)||(s.charAt(i)>=48 && s.charAt(i)<=57)) {
@@ -22,7 +23,7 @@ public class ValidPalindrome {
         return true;
     }
     public static void main(String[] args) {
-        String str = "0P";
+        String str = "A man , a plan , a canal: panama";
         System.out.println(isPalindrome(str));
     }
 }
