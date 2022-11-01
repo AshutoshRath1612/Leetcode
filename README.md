@@ -67,6 +67,7 @@
 - 728.Self Diving Number (<a href="https://leetcode.com/problems/self-dividing-numbers/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SelfDivingNumber.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
 - 754.Reach a Number (<a href="https://leetcode.com/problems/reach-a-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReachANumber.java">Solution</a>)
+- 766.Toeplitz Matrix (<a href="https://leetcode.com/problems/toeplitz-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ToeplitzMatrix.java">Solution</a>)
 - 832.Flipping an Image (<a href="https://leetcode.com/problems/flipping-an-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
 - 867.Transpose Matrix (<a href="https://leetcode.com/problems/transpose-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java">Solution</a>)
