@@ -45,6 +45,7 @@
 - 231.Power of Two (<a href="https://leetcode.com/problems/power-of-two/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfTwo.java">Solution</a>)
 - 232.Queue using Stack (<a href="https://leetcode.com/problems/implement-queue-using-stacks/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/QueueUsingStack.java">Solution</a>)
 - 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
+- 237.Delete Node in Linked List (<a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/DeleteNodeLL.java">Solution</a>)
 - 268.Missing Number (<a href="https://leetcode.com/problems/missing-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MissingNumber.java">Solution</a>)
 - 268.First Bad Version (<a href="https://leetcode.com/problems/first-bad-version/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FirstBadVersion.java">Solution</a>)
 - 287.Find the Duplicate Number (<a href="https://leetcode.com/problems/find-the-duplicate-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java">Solution</a>)
