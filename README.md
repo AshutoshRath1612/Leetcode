@@ -53,6 +53,7 @@
 - 287.Find the Duplicate Number (<a href="https://leetcode.com/problems/find-the-duplicate-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java">Solution</a>)
 - 326.Power Of Three (<a href="https://leetcode.com/problems/power-of-three/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PoweOf3.java">Solution</a>)
 - 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
+- 345.Reverse Vowels of a String (<a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseVowellInString.java">Solution</a>)
 - 349.Intersection of Two Arrays (<a href="https://leetcode.com/problems/intersection-of-two-arrays/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java">Solution</a>)
 - 350.Intersection of Two Arrays II (<a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java">Solution</a>)
 - 367.Valid Perfect Square (<a href="https://leetcode.com/problems/valid-perfect-square/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPerfectSquare.java">Solution</a>)
