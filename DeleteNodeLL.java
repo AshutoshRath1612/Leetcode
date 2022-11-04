@@ -7,6 +7,6 @@ public class DeleteNodeLL {
     }
 
     public static void main(String[] args) {
-        
+
     }
 }
