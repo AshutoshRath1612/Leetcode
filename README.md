@@ -16,6 +16,7 @@
 - 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
 - 18.4Sum (<a href="https://leetcode.com/problems/4sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java">Solution</a>)
 - 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
+- 21.Merge Two Sorted Lists (<a href="https://leetcode.com/problems/merge-two-sorted-lists/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeTwoSortedList.java">Solution</a>)
 - 26.Remove Duplicates from Sorted Array (<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveDuplicatesFromSortedArray.java">Solution</a>)
 - 27.Remove Element (<a href="https://leetcode.com/problems/remove-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveElement.java">Solution</a>)
 - 33.Search in Rotated Sorted Array (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/"> Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Roated_Array.java">Solution</a>)
