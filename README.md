@@ -46,6 +46,7 @@
 - 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
 - 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
 - 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
+- 206.Reverse Linked List (<a href="https://leetcode.com/problems/reverse-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseLinkedList.java">Solution</a>)
 - 217.Contains Duplicate (<a href="https://leetcode.com/problems/contains-duplicate/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ContainsDuplicate.java">Solution</a>)
 - 231.Power of Two (<a href="https://leetcode.com/problems/power-of-two/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfTwo.java">Solution</a>)
 - 232.Queue using Stack (<a href="https://leetcode.com/problems/implement-queue-using-stacks/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/QueueUsingStack.java">Solution</a>)
