@@ -32,6 +32,7 @@
 - 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
 - 67.Add Binary (<a href="https://leetcode.com/problems/add-binary/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/AddBinary.java">Solution</a>)
 - 69.Sqrt(x) (<a href="https://leetcode.com/problems/sqrtx/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Sqrt_x.java">Solution</a>)
+- 70.Climbing Stairs (<a href="https://leetcode.com/problems/climbing-stairs/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ClimbingStairs.java">Solution</a>)
 - 73.Set Matrix to Zero (<a href="https://leetcode.com/problems/set-matrix-zeroes/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java">Solution</a>)
 - 74.Search in 2D matrix (<a href="https://leetcode.com/problems/search-a-2d-matrix">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java">Solution</a>)
 - 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
