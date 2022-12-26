@@ -40,6 +40,7 @@
 - 88.Merge Sorted Array (<a href="https://leetcode.com/problems/merge-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 118.Pascal Triangle (<a href="https://leetcode.com/problems/pascals-triangle/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PascalsTriangle.java">Solution</a>)
+- 121.Best Time to Buy and Sell Stock (<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/BestTimeTOBuySell.java">Solution</a>)
 - 125.Valid Palindrome (<a href="https://leetcode.com/problems/valid-palindrome/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPalindrome.java">Solution</a>)
 - 152.Maximum Product Subarray (<a href="https://leetcode.com/problems/maximum-product-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumProductSubarray.java">Solution</a>)
 - 153.Find Minimum in Rotated Sorted Array (<a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray.java">Solution</a>)
