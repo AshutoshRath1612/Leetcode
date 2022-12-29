@@ -1,6 +1,9 @@
 package Leetcode;
 
 
+import java.util.HashMap;
+import java.util.Hashtable;
+
 /*
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -52,10 +55,20 @@ public class TwoSum {
 
             return sum;
         }
+    public static int[] twoSum2(int[] nums, int target) {
+        HashMap<Integer,Integer> ht = new HashMap<>();
+        for (int i=0;i<nums.length;i++){
+            int remain = target - nums[i];
+            if(ht.containsKey(remain))
+                return new int[]{ht.get(remain),i};
+            ht.put(nums[i],i);
+        }
+        return null;
+    }
     public static void main(String[] args) {
-    int arr[] = {1,2,3,4,5};
-    int target = 7;
-    int sum[] = twoSum(arr, target);
+    int arr[] = {3,3};
+    int target = 6;
+    int sum[] = twoSum2(arr, target);
     System.out.println(sum[0]+ ","+sum[1]);
     }
 }
