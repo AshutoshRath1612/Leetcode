@@ -1,6 +1,7 @@
 package Leetcode;
 
 import java.util.Arrays;
+import java.util.HashMap;
 
 /*
 Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it.
@@ -23,9 +24,23 @@ public class Number_Smaller_Than_Current_Num {
             }
             return arr;
     }
+    public static int[] smallerNumbersThanCurrent2(int[] nums) {
+        int []arr = nums.clone();
+        HashMap<Integer,Integer>hm = new HashMap<>();
+        Arrays.sort(arr);
+        for (int i=0;i<arr.length;i++){
+            if (hm.containsKey(arr[i]))
+                continue;
+            hm.put(arr[i],i);
+        }
+        for (int i=0;i<nums.length;i++){
+            nums[i] = hm.get(nums[i]);
+        }
+        return nums;
+    }
     public static void main(String[] args) {
         int []arr= {7,7,7,7};
-        int []smallnum = smallerNumbersThanCurrent(arr);
+        int []smallnum = smallerNumbersThanCurrent2(arr);
         System.out.println(Arrays.toString(smallnum));
     }
 }
