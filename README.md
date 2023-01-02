@@ -93,6 +93,7 @@
 - 867.Transpose Matrix (<a href="https://leetcode.com/problems/transpose-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java">Solution</a>)
 - 896.Monotonic Array (<a href="https://leetcode.com/problems/monotonic-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MonotonicArray.java">Solution</a>)
 - 888.Fair Candy Swap(<a href="https://leetcode.com/problems/fair-candy-swap/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FairCandyswap.java">Solution</a>)
+- 977.Squares of a Sorted Array (<a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/sqOfSortedArray.java">Solution</a>)
 - 989.Add to Array-Form of Integer (<a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ArrayFormOfInteger.java">Solution</a>)
 - 1051.Height Checker (<a href="https://leetcode.com/problems/height-checker/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/HeightChecker.java">Solution</a>)
 - 1095.Find in Mountain Array (<a href="https://leetcode.com/problems/find-in-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_In_Mountain_Array.java">Solution</a>)
