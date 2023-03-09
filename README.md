@@ -24,6 +24,7 @@
 - 33.Search in Rotated Sorted Array (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/"> Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Roated_Array.java">Solution</a>)
 - 34.Find First and Last Position of Element in Sorted Array (<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java">Solution</a>)
 - 35.Search Insert Position (<a href="https://leetcode.com/problems/search-insert-position/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SearchInsertPosition.java">Solution</a>)
+- 37.Sudoku Solver (<a href="https://leetcode.com/problems/sudoku-solver/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SudokuSolver.java">Solution</a>)
 - 41.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
 - 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
 - 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
