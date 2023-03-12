@@ -101,6 +101,7 @@
 - 832.Flipping an Image (<a href="https://leetcode.com/problems/flipping-an-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
 - 867.Transpose Matrix (<a href="https://leetcode.com/problems/transpose-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java">Solution</a>)
+- 876.Middle of the Linked List (<a href="https://leetcode.com/problems/middle-of-the-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MiddleOFLinkedList.java">Solution</a>)
 - 896.Monotonic Array (<a href="https://leetcode.com/problems/monotonic-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MonotonicArray.java">Solution</a>)
 - 888.Fair Candy Swap(<a href="https://leetcode.com/problems/fair-candy-swap/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FairCandyswap.java">Solution</a>)
 - 977.Squares of a Sorted Array (<a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/sqOfSortedArray.java">Solution</a>)
