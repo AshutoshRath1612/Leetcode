@@ -2,7 +2,10 @@
  Every problem questions of leetcode I have solved yet
  
  Here are the Questions ✊
- 
+ | **Difficulty** | **Challenge** | **Solution** |
+ |:-----:|:---------:|:--------:|
+ |  | []() | [  ]() |
+ | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum.java) |
 - 1.Two Sum (<a href="https://leetcode.com/problems/two-sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum.java">Solution</a>)
 - 2.Add Two Numbers (<a href="https://leetcode.com/problems/add-two-numbers/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java">Solution</a>)
 - 3.Longest Substring without Repeating (<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java">Solution</a>)
@@ -85,6 +88,7 @@
 - 704.Binary Search (<a href="https://leetcode.com/problems/binary-search/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/BinarySearch.java">Solution</a>)
 - 709.To Lower Case (<a href="https://leetcode.com/problems/to-lower-case/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/toLowerCase.java">Solution</a>)
 - 728.Self Diving Number (<a href="https://leetcode.com/problems/self-dividing-numbers/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SelfDivingNumber.java">Solution</a>)
+- 735.Asteroid Collision (<a href="https://leetcode.com/problems/asteroid-collision/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/AstroidCollision.java">Solution</a>)
 - 744.Find Smallest Letter Greater Than Target (<a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Smallest_letter_greater_then_target.java">Solution</a>)
 - 754.Reach a Number (<a href="https://leetcode.com/problems/reach-a-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReachANumber.java">Solution</a>)
 - 766.Toeplitz Matrix (<a href="https://leetcode.com/problems/toeplitz-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ToeplitzMatrix.java">Solution</a>)
