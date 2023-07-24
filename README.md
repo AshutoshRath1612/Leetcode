@@ -27,6 +27,7 @@
 - 35.Search Insert Position (<a href="https://leetcode.com/problems/search-insert-position/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SearchInsertPosition.java">Solution</a>)
 - 37.Sudoku Solver (<a href="https://leetcode.com/problems/sudoku-solver/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SudokuSolver.java">Solution</a>)
 - 41.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
+- 48.Rotate Image (<a href="https://leetcode.com/problems/rotate-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateImage.java">Solution</a>)
 - 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
 - 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
 - 54.Spiral Matrix (<a href="https://leetcode.com/problems/spiral-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix.java">Solution</a>)
