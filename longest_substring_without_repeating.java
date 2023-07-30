@@ -1,6 +1,7 @@
 package Leetcode;
 
 import java.util.HashSet;
+import java.util.Set;
 
 /*
 Given a string s, find the length of the longest substring without repeating characters.
@@ -82,6 +83,26 @@ public class longest_substring_without_repeating {
                     longest=j;
                 }
             }
+        return longest;
+    }
+    public int lengthOfLongestSubstring6(String s) {
+        Set<Character> hs = new HashSet<>();
+        int longest = 0;
+        int leftindex = 0;
+        for(int i=0;i<s.length();i++){
+            char c = s.charAt(i);
+            if(!hs.contains(c)){
+                hs.add(c);
+                longest = Math.max(longest , hs.size());
+            }
+            else{
+                while(s.charAt(leftindex) != s.charAt(i)){
+                    hs.remove(s.charAt(leftindex));
+                    leftindex++;
+                }
+                leftindex++;
+            }
+        }
         return longest;
     }
     public static int lengthOfLongestSubstring(String s) {
