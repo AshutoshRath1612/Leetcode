@@ -6,8 +6,7 @@
  |:-----:|:---------:|:--------:|
  |  | []() | [  ]() |
  | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum.java) |
-- 1.Two Sum (<a href="https://leetcode.com/problems/two-sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum.java">Solution</a>)
-- 2.Add Two Numbers (<a href="https://leetcode.com/problems/add-two-numbers/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java">Solution</a>)
+ | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java) |
 - 3.Longest Substring without Repeating (<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java">Solution</a>)
 - 4.Median of Two Sorted Arrays (<a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java">Solution</a>)
 - 9.Palindrome Number (<a href="https://leetcode.com/problems/palindrome-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java">Solution</a>)
@@ -77,6 +76,7 @@
 - 283.Move Zeroes (<a href="https://leetcode.com/problems/move-zeroes/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MoveZeros.java">Solution</a>)
 - 287.Find the Duplicate Number (<a href="https://leetcode.com/problems/find-the-duplicate-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java">Solution</a>)
 - 326.Power Of Three (<a href="https://leetcode.com/problems/power-of-three/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PoweOf3.java">Solution</a>)
+- 334.Increasing Triplet Subsequence (<a href="https://leetcode.com/problems/increasing-triplet-subsequence/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/IncreasingTripletSubsequence.java">Solution</a>)
 - 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
 - 344.Reverse String (<a href="https://leetcode.com/problems/reverse-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseString.java">Solution</a>)
 - 345.Reverse Vowels of a String (<a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseVowellInString.java">Solution</a>)
