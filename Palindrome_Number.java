@@ -16,6 +16,17 @@ public class Palindrome_Number {
         }
         return true;
     }
+    public boolean isPalindrome1(int x) {
+        if(x<0 || x!=0 && x%10==0)
+            return false;
+        int reverse = 0;
+        int num  = x;
+        while(x>0){
+            reverse = reverse*10 + x%10;
+            x = x/10;
+        }
+        return reverse== num;
+    }
 
     public static void main(String[] args) {
         int a = 12321;
