@@ -75,7 +75,20 @@ public class Integer_to_Roman {
             }
             return str;
             }
-
+    public String intToRoman2(int num) {
+        Object [][] romans = {
+                {1000 , "M"} , {900,"CM"}, {500,"D"}, {400,"CD"}, {100,"C"}, {90,"XC"}, {50,"L"}, {40,"XL"},
+                {10,"X"}, {9,"IX"}, {5,"V"}, {4,"IV"}, {1,"I"}
+        };
+        StringBuilder roman = new StringBuilder();
+        for(int i=0;i<romans.length;i++){
+            while(num>= (int)(romans[i][0])){
+                roman.append((String)(romans[i][1]));
+                num -= (int)(romans[i][0]);
+            }
+        }
+        return roman.toString();
+    }
     public static void main(String[] args) {
         int i = 358;
         String roman = intToRoman(i);
