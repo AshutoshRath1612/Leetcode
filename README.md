@@ -13,7 +13,7 @@
  | Medium | [3.Longest Substring without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java) |
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
  | Medium | [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java) |
- | High | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
+ | Hard | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
 - 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
 - 18.4Sum (<a href="https://leetcode.com/problems/4sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java">Solution</a>)
