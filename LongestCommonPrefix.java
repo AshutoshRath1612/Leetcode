@@ -1,5 +1,7 @@
 package Leetcode;
 
+import java.util.Arrays;
+
 public class LongestCommonPrefix {
     public static String longestCommonPrefix(String[] strs) {
         StringBuilder str= new StringBuilder(strs[0]);
@@ -14,6 +16,21 @@ public class LongestCommonPrefix {
             str= new StringBuilder(str.substring(0, j));
         }
         return str.toString();
+    }
+    public String longestCommonPrefix2(String[] strs) {
+        Arrays.sort(strs);
+        int index = 0;
+        String str1 = strs[0];
+        String str2 = strs[strs.length-1];
+        while(index < str1.length() && index < str2.length()){
+            if(str1.charAt(index) == str2.charAt(index)){
+                index++;
+            }
+            else{
+                break;
+            }
+        }
+        return str1.substring(0,index);
     }
     public static void main(String[] args) {
         String []strs = {"ab", "a"};
