@@ -4,7 +4,7 @@ package Leetcode;
 Given a roman numeral, convert it to an integer.
  */
 public class Roman_to_integer {
-    public static int romanToInt(String s) {
+    public static int romanToInt2(String s) {
         int result=0;
         int n =s.length();
         while (s!=""){
@@ -93,8 +93,31 @@ public class Roman_to_integer {
         }
         return result;
     }
+    public static int romanToInt(String s) {
+        Object [][] romans = {
+                {"M",1000} , {"CM",900}, {"D",500}, {"CD",400}, {"C",100}, {"XC",90}, {"L",50}, {"XL",40},
+                {"X",10}, {"IX",9}, {"V",5}, {"IV",4}, {"I",1}
+        };
+
+        int num = 0;
+        int index = 0;
+        for(int i=0;i<romans.length;i++){
+            while(index<s.length() &&  String.valueOf(s.charAt(index)).equals((String)romans[i][0])){
+                num = num + (int)romans[i][1];
+                index++;
+            }
+            if(index<s.length()-1 && String.valueOf(s.charAt(index+1)).equals((String)romans[i][0])){
+                i++;
+                while(index<s.length()-1 && s.substring(index , index+2).equals((String)romans[i][0])){
+                    num = num + (int)romans[i][1];
+                    index += 2;
+                }
+            }
+        }
+        return num;
+    }
     public static void main(String[] args) {
-        String str="LVIII";
+        String str="MCMXCIV";
         int result = romanToInt(str);
         System.out.println(result);
     }
