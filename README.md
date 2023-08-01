@@ -6,10 +6,10 @@
  |:-----:|:---------:|:--------:|
  |  | []() | [  ]() |
  | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum.java) |
+ | Easy | [9.Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java) |
  | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java) |
  | Medium | [3.Longest Substring without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java) |
  | High | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
-- 9.Palindrome Number (<a href="https://leetcode.com/problems/palindrome-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java">Solution</a>)
 - 11.Container With Most Water (<a href="https://leetcode.com/problems/container-with-most-water/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java">Solution</a>)
 - 12.Integer to Roman (<a href="https://leetcode.com/problems/integer-to-roman/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java">Solution</a>)
 - 13.Roman to Integer (<a href="https://leetcode.com/problems/roman-to-integer/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java">Solution</a>)
