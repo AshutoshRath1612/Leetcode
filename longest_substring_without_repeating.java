@@ -85,7 +85,7 @@ public class longest_substring_without_repeating {
             }
         return longest;
     }
-    public int lengthOfLongestSubstring6(String s) {
+    public static int lengthOfLongestSubstring6(String s) {
         Set<Character> hs = new HashSet<>();
         int longest = 0;
         int leftindex = 0;
@@ -128,7 +128,7 @@ public class longest_substring_without_repeating {
     }
     public static void main(String[] args) {
         String str = "abcabcbb";
-        int longest = lengthOfLongestSubstring(str);
+        int longest = lengthOfLongestSubstring6(str);
         System.out.println("The longest substring is: "+longest);
     }
 }
