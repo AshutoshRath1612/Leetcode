@@ -9,6 +9,7 @@
  | Easy | [9.Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java) |
  | Easy | [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java) |
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
+ | Easy | [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DifferenceOfProductAndSum.java) |
  | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java) |
  | Medium | [3.Longest Substring without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java) |
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
