@@ -9,14 +9,13 @@ Return the array in the form [x1,y1,x2,y2,...,xn,yn].
  */
 public class Shuffle_The_Array {
     public static int[] shuffle(int[] nums, int n) {
-            int[]arr = new int[2*n];
-            int j=0;
-            for (int i=0;i<nums.length-1;i+=2){
-                arr[i]=nums[j];
-                arr[i+1]=nums[n+j];
-                j++;
-            }
-            return arr;
+        int arr[] = new int[2*n];
+        int index = 0;
+        for(int i = 0;i<n;i++){
+            arr[index++] = nums[i];
+            arr[index++] = nums[i+n];
+        }
+        return arr;
     }
     public static void main(String[] args) {
         int []arr={2,5,1,3,4,7};

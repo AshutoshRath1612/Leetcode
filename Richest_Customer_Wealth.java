@@ -9,13 +9,13 @@ A customer's wealth is the amount of money they have in all their bank accounts.
  */
 public class Richest_Customer_Wealth {
     public static int maximumWealth(int[][] accounts) {
-        int maxWealth=0;
-        for (int i=0;i<accounts.length;i++){
-            int wealth =0;
-            for (int j=0;j<accounts[i].length;j++)
-                wealth += accounts[i][j];
-            if (wealth>maxWealth)
-                maxWealth=wealth;
+        int maxWealth = 0;
+        for(int i =0 ; i < accounts.length;i++){
+            int wealth = 0;
+            for(int bank: accounts[i]){
+                wealth+=bank;
+            }
+            maxWealth = Math.max(maxWealth,wealth);
         }
         return maxWealth;
     }

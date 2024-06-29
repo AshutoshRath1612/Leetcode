@@ -15,8 +15,7 @@ public class Concatenation_of_Array {
             int n = nums.length;
             int []arr  = new int[n*2];
             for (int i=0;i<nums.length;i++){
-                arr[i]=arr[n]=nums[i];
-                n++;
+                arr[i]=arr[i+n]=nums[i];
             }
             return arr;
     }
