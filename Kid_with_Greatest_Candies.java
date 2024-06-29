@@ -14,19 +14,18 @@ Note that multiple kids can have the greatest number of candies.
  */
 public class Kid_with_Greatest_Candies {
     public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-            List<Boolean>al = new ArrayList<>();
-            int max=candies[0];
-            for (int i=0;i<candies.length;i++){
-                if (candies[i]>max)
-                    max =candies[i];
-            }
-            for (int i=0;i<candies.length;i++){
-                if (candies[i]+extraCandies >=max)
-                    al.add(true);
-                else
-                    al.add(false);
-            }
-            return al;
+        List<Boolean> isMax  = new ArrayList<>();
+        int maxCandies = 0;
+        for(int i: candies){
+            maxCandies =Math.max(i, maxCandies);
+        }
+        for(int i : candies){
+            if(i + extraCandies >= maxCandies)
+                isMax.add(true);
+            else
+                isMax.add(false);
+        }
+        return isMax;
     }
     public static void main(String[] args) {
         int []kids = {12,1,12};
