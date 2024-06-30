@@ -11,11 +11,13 @@
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
  | Easy | [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DifferenceOfProductAndSum.java) |
  | Easy | [1365.How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_Smaller_Than_Current_Num.java) |
+ | Easy | [1389.Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Create_TargetArrayOf_GivenOrder.java) |
  | Easy | [1431.Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Kid_with_Greatest_Candies.java) |
  | Easy | [1470.Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Shuffle_The_Array.java) |
  | Easy | [1480.Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RunningSum_of_Array.java) |
  | Easy | [1512.Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_of_Good_Pairs.java) |
  | Easy | [1672.Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java) |
+ | Easy | [1832.Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Check_IfPangram.java) |
  | Easy | [1920.Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java) |
  | Easy | [1929.Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Concatenation_of_Array.java) |
  | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java) |
@@ -136,7 +138,6 @@
 - 1346.Check If N and Its Double Exist (<a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/NandDoubleExist.java">Solution</a>)
 - 1351.Count Negative Numbers in a Sorted Matrix (<a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/CountNegativeInMatrix.java">Solution</a>)
 - 1380.Lucky Numbers in a Matrix (<a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LuckyNumberInMatrix.java">Solution</a>)
-- 1389.Create Target Array in the Given Order (<a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Create_TargetArrayOf_GivenOrder.java">Solution</a>)
 - 1464.Maximum Product of Two Elements in an Array (<a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaxProductOfTwoElement.java">Solution</a>)
 - 1491.Average Salary Excluding the Minimum and Maximum Salary (<a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/AverageSalarayExcludingMM.java">Solution</a>)
 - 1499.Max Value of Equation (<a href="https://leetcode.com/problems/max-value-of-equation/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaxValueOfEquation.java">Solution</a>)
@@ -147,7 +148,6 @@
 - 1636.Sort Array by Increasing Frequency (<a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortByIncreasingFrequency.java">Solution</a>)
 - 1732.Find the Highest Altitude (<a href="https://leetcode.com/problems/find-the-highest-altitude/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java">Solution</a>)
 - 1773.Count Items Matching a Rule (<a href="https://leetcode.com/problems/count-items-matching-a-rule/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Count_item_MatchingRule.java">Solution</a>)
-- 1832.Check if the Sentence Is Pangram (<a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Check_IfPangram.java">Solution</a>)
 - 1854.Maximum Population Year (<a href="https://leetcode.com/problems/maximum-population-year/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumPopulationYear.java">Solution</a>)
 - 2154.Keep Multiplying Found Values by Two (<a href="https://leetcode.com/problems/keep-multiplying-found-values-by-two/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/KeepMulbyTwo.java">Solution</a>)
 

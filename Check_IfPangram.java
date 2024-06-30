@@ -8,7 +8,7 @@ A pangram is a sentence where every letter of the English alphabet appears at le
 Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
  */
 public class Check_IfPangram {
-    public static boolean checkIfPangram(String sentence) {
+    public static boolean checkIfPangram2(String sentence) {
             if (sentence.length()<26)
                 return false;
         HashSet<Character>hs = new HashSet<>();
@@ -22,6 +22,14 @@ public class Check_IfPangram {
             }
         }
         return count==0 ? true :false;
+    }
+    public static boolean checkIfPangram(String sentence) {
+        char c = 'a';
+        for(int i  = c; i< c+26;i++){
+            if(sentence.indexOf((char)i) == -1)
+                return false;
+        }
+        return true;
     }
 
     public static void main(String[] args) {
