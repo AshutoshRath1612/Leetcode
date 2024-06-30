@@ -32,6 +32,19 @@ public class SortColors {
         }
         System.out.println(Arrays.toString(nums));
     }
+    public static void sortColors2(int[] nums) {
+        int []colors = new int[3];
+        for(int i = 0 ; i < nums.length;i++){
+            colors[nums[i]] +=1;
+        }
+        int index= 0;
+        for(int i = 0;i<colors.length;i++){
+            while(colors[i]-- > 0){
+                nums[index] = i;
+                index++;
+            }
+        }
+    }
     public static  void swap(int[]arr , int i,int j){
         int temp = arr[i];
         arr[i]= arr[j];

@@ -24,6 +24,9 @@
  | Medium | [3.Longest Substring without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java) |
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
  | Medium | [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java) |
+ | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
+ | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
+ | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
  | Hard | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
 - 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
@@ -54,7 +57,6 @@
 - 70.Climbing Stairs (<a href="https://leetcode.com/problems/climbing-stairs/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ClimbingStairs.java">Solution</a>)
 - 73.Set Matrix to Zero (<a href="https://leetcode.com/problems/set-matrix-zeroes/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java">Solution</a>)
 - 74.Search in 2D matrix (<a href="https://leetcode.com/problems/search-a-2d-matrix">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java">Solution</a>)
-- 75.Sort Colors (<a href="https://leetcode.com/problems/sort-colors/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java">Solution</a>)
 - 81.Search in Rotated Sorted Array II (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Rotated_Array_II.java">Solution</a>)
 - 88.Merge Sorted Array (<a href="https://leetcode.com/problems/merge-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
@@ -72,8 +74,6 @@
 - 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
 - 167.Two Sum II - Input Array Is Sorted (<a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum_II.java">Solution</a>)
 - 169.Majority Element (<a href="https://leetcode.com/problems/majority-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElements.java">Solution</a>)
-- 189.Rotate Array (<a href="https://leetcode.com/problems/rotate-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java">Solution</a>)
-- 198.House Robber (<a href="https://leetcode.com/problems/house-robber/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java">Solution</a>)
 - 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
 - 206.Reverse Linked List (<a href="https://leetcode.com/problems/reverse-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseLinkedList.java">Solution</a>)
 - 217.Contains Duplicate (<a href="https://leetcode.com/problems/contains-duplicate/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ContainsDuplicate.java">Solution</a>)
