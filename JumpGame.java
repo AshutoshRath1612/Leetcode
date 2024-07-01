@@ -10,12 +10,12 @@ Return true if you can reach the last index, or false otherwise.
  */
 public class JumpGame {
     public static boolean canJump(int[] nums) {
-        int j = nums.length-1;
+        int dest = nums.length-1;
         for (int i= nums.length-2;i>=0;i--){
-            if(nums[i]+i >= j)
-                j=i;
+            if(nums[i]+i >= dest)
+                dest=i;
         }
-        return j==0;
+        return dest==0;
     }
 
     public static void main(String[] args) {

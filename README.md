@@ -16,6 +16,7 @@
  | Easy | [1470.Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Shuffle_The_Array.java) |
  | Easy | [1480.Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RunningSum_of_Array.java) |
  | Easy | [1512.Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_of_Good_Pairs.java) |
+ | Easy | [1550.Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ThreeConsecutiveOdd.java) |
  | Easy | [1672.Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java) |
  | Easy | [1832.Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Check_IfPangram.java) |
  | Easy | [1920.Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java) |
@@ -24,6 +25,8 @@
  | Medium | [3.Longest Substring without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java) |
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
  | Medium | [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java) |
+ | Medium | [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java) |
+ | Medium | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java) |
  | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
  | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
@@ -40,7 +43,6 @@
 - 27.Remove Element (<a href="https://leetcode.com/problems/remove-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveElement.java">Solution</a>)
 - 27.Find the Index of the First Occurrence in a String (<a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindIndexOFFirstOccurance.java">Solution</a>)
 - 33.Search in Rotated Sorted Array (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/"> Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Roated_Array.java">Solution</a>)
-- 34.Find First and Last Position of Element in Sorted Array (<a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java">Solution</a>)
 - 35.Search Insert Position (<a href="https://leetcode.com/problems/search-insert-position/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SearchInsertPosition.java">Solution</a>)
 - 37.Sudoku Solver (<a href="https://leetcode.com/problems/sudoku-solver/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SudokuSolver.java">Solution</a>)
 - 41.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
@@ -48,7 +50,6 @@
 - 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
 - 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
 - 54.Spiral Matrix (<a href="https://leetcode.com/problems/spiral-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix.java">Solution</a>)
-- 55.Jump Game (<a href="https://leetcode.com/problems/jump-game/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java">Solution</a>)
 - 58.Length of Last Word (<a href="https://leetcode.com/problems/length-of-last-word/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LengthOfLastWord.java">Solution</a>)
 - 59.Spiral Matrix II (<a href="https://leetcode.com/problems/spiral-matrix-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_II.java">Solution</a>)
 - 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
