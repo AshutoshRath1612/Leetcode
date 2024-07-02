@@ -30,7 +30,10 @@
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
  | Medium | [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java) |
  | Medium | [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java) |
+ | Medium | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix.java) |
  | Medium | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java) |
+ | Medium | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_II.java) |
+ | Medium | [73.Set Matrix to Zero](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java) |
  | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
  | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
@@ -53,14 +56,11 @@
 - 48.Rotate Image (<a href="https://leetcode.com/problems/rotate-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateImage.java">Solution</a>)
 - 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
 - 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
-- 54.Spiral Matrix (<a href="https://leetcode.com/problems/spiral-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix.java">Solution</a>)
 - 58.Length of Last Word (<a href="https://leetcode.com/problems/length-of-last-word/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LengthOfLastWord.java">Solution</a>)
-- 59.Spiral Matrix II (<a href="https://leetcode.com/problems/spiral-matrix-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_II.java">Solution</a>)
 - 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
 - 67.Add Binary (<a href="https://leetcode.com/problems/add-binary/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/AddBinary.java">Solution</a>)
 - 69.Sqrt(x) (<a href="https://leetcode.com/problems/sqrtx/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Sqrt_x.java">Solution</a>)
 - 70.Climbing Stairs (<a href="https://leetcode.com/problems/climbing-stairs/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ClimbingStairs.java">Solution</a>)
-- 73.Set Matrix to Zero (<a href="https://leetcode.com/problems/set-matrix-zeroes/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java">Solution</a>)
 - 74.Search in 2D matrix (<a href="https://leetcode.com/problems/search-a-2d-matrix">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java">Solution</a>)
 - 81.Search in Rotated Sorted Array II (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Rotated_Array_II.java">Solution</a>)
 - 88.Merge Sorted Array (<a href="https://leetcode.com/problems/merge-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java">Solution</a>)

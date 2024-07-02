@@ -4,40 +4,35 @@ import java.util.Arrays;
 
 public class SpiralMatrix_II {
     public static int[][] generateMatrix(int n) {
-        int matrix[][] = new int[n][n];
-        int top=0;
+        int [][] spiral = new int[n][n];
+        int top = 0;
         int right = n-1;
         int bottom = n-1;
-        int left =0;
-        int i=1;
-        while(i<=n*n){
-            if (left==right&& right==top&& top==bottom&& bottom==left) {
-                matrix[left][right]=i;
-
+        int left = 0;
+        int curr = 1;
+        while(curr <= n*n){
+            if(left==right && top==bottom){
+                spiral[top][left] = curr;
                 break;
             }
-            for (int j=left;j<right && i<=n*n;j++){
-                matrix[top][j]=i;
-                i++;
+            for(int i=left;i<right;i++){
+                spiral[top][i] = curr++;
             }
-            for (int j=top;j<bottom && i<=n*n;j++){
-                matrix[j][right]=i;
-                i++;
+            for(int i = top;i<bottom;i++){
+                spiral[i][right] = curr++;
             }
-            for (int j=right;j>left && i<=n*n;j--){
-                matrix[bottom][j]=i;
-                i++;
+            for(int i = right;i>left;i--){
+                spiral[bottom][i] = curr++;
             }
-            for (int j=bottom;j>top && i<=n*n;j--){
-                matrix[j][left]=i;
-                i++;
+            for(int i = bottom;i>top;i--){
+                spiral[i][left] = curr++;
             }
             top++;
             right--;
             bottom--;
             left++;
         }
-        return matrix;
+        return spiral;
     }
 
     public static void main(String[] args) {

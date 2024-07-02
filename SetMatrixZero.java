@@ -33,13 +33,35 @@ public class SetMatrixZero {
         }
         System.out.println(al);
     }
+    public static void setZero1(int [][] matrix) {
+        boolean [][] isZero = new boolean[matrix.length][matrix[0].length];
+        for(int i = 0 ; i<matrix.length;i++){
+            for(int j = 0; j < matrix[i].length;j++){
+                if(matrix[i][j] == 0){
+                    isZero[i][j] = true;
+                }
+            }
+        }
+        for(int i =0;i<isZero.length;i++){
+            for(int j = 0;j<isZero[i].length;j++){
+                if(isZero[i][j]){
+                    for(int row = 0; row<isZero[i].length;row++){
+                        matrix[i][row] = 0;
+                    }
+                    for(int column = 0 ; column<isZero.length;column++){
+                        matrix[column][j] = 0;
+                    }
+                }
+            }
+        }
+    }
     public static void main(String[] args) {
         int [][]matrix={
-            {0,1,2,0},
-            {3,0,5,2},
-            {1,3,0,5}
+            {1,1,1},
+            {1,0,1},
+            {1,1,1}
         };
-        setZeroes(matrix);
+        setZero1(matrix);
         for (int i=0;i<matrix.length;i++){
             for (int j=0;j<matrix[i].length;j++){
                 System.out.print(matrix[i][j] + " ");
