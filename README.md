@@ -9,6 +9,8 @@
  | Easy | [9.Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java) |
  | Easy | [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java) |
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
+ | Easy | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java) |
+ | Easy | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java) |
  | Easy | [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DifferenceOfProductAndSum.java) |
  | Easy | [1365.How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_Smaller_Than_Current_Num.java) |
  | Easy | [1389.Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Create_TargetArrayOf_GivenOrder.java) |
@@ -92,8 +94,6 @@
 - 342.Power Of Four (<a href="https://leetcode.com/problems/power-of-four/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfFour.java">Solution</a>)
 - 344.Reverse String (<a href="https://leetcode.com/problems/reverse-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseString.java">Solution</a>)
 - 345.Reverse Vowels of a String (<a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseVowellInString.java">Solution</a>)
-- 349.Intersection of Two Arrays (<a href="https://leetcode.com/problems/intersection-of-two-arrays/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java">Solution</a>)
-- 350.Intersection of Two Arrays II (<a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java">Solution</a>)
 - 367.Valid Perfect Square (<a href="https://leetcode.com/problems/valid-perfect-square/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPerfectSquare.java">Solution</a>)
 - 374.Guess Number Higher or Lower (<a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/GuessNumberHigherOrLower.java">Solution</a>)
 - 382.Linked List Random Node (<a href="https://leetcode.com/problems/linked-list-random-node/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LinkedListRandomNode.java">Solution</a>)
