@@ -20,6 +20,8 @@
  | Easy | [1512.Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_of_Good_Pairs.java) |
  | Easy | [1550.Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ThreeConsecutiveOdd.java) |
  | Easy | [1672.Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java) |
+ | Easy | [1732.Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java) |
+ | Easy | [1773.Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Count_item_MatchingRule.java) |
  | Easy | [1832.Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Check_IfPangram.java) |
  | Easy | [1920.Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java) |
  | Easy | [1929.Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Concatenation_of_Array.java) |
@@ -147,8 +149,6 @@
 - 1572.Matrix Diagonal Sum (<a href="https://leetcode.com/problems/matrix-diagonal-sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MatrixDiagonalSum.java">Solution</a>)
 - 1608.Special Array With X Elements Greater Than or Equal X (<a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SpecialArrayElemGrEqX.java">Solution</a>)
 - 1636.Sort Array by Increasing Frequency (<a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SortByIncreasingFrequency.java">Solution</a>)
-- 1732.Find the Highest Altitude (<a href="https://leetcode.com/problems/find-the-highest-altitude/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java">Solution</a>)
-- 1773.Count Items Matching a Rule (<a href="https://leetcode.com/problems/count-items-matching-a-rule/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Count_item_MatchingRule.java">Solution</a>)
 - 1854.Maximum Population Year (<a href="https://leetcode.com/problems/maximum-population-year/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumPopulationYear.java">Solution</a>)
 - 2154.Keep Multiplying Found Values by Two (<a href="https://leetcode.com/problems/keep-multiplying-found-values-by-two/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/KeepMulbyTwo.java">Solution</a>)
 

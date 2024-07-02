@@ -18,6 +18,15 @@ public class HighestAltitude {
         }
         return highestAltitude;
     }
+    public int largestAltitude2(int[] gain) {
+        int currAltitude  = 0;
+        int altitudes = 0;
+        for(int i = 0; i < gain.length;i++){
+            currAltitude += gain[i];
+            altitudes = Math.max(altitudes,currAltitude);
+        }
+        return altitudes;
+    }
     public static void main(String[] args) {
         int []arr={-4,-3,-2,-1,4,3,2};
         int altitude = largestAltitude(arr);
