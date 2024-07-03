@@ -41,6 +41,7 @@
  | Medium | [1823. FindTheWinner](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindTheWinner.java) |
  | Medium | [2326.Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_IV.java) |
  | Hard | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
+ | Hard | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java) |
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
 - 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
 - 18.4Sum (<a href="https://leetcode.com/problems/4sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java">Solution</a>)
@@ -55,7 +56,6 @@
 - 33.Search in Rotated Sorted Array (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array/"> Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Roated_Array.java">Solution</a>)
 - 35.Search Insert Position (<a href="https://leetcode.com/problems/search-insert-position/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SearchInsertPosition.java">Solution</a>)
 - 37.Sudoku Solver (<a href="https://leetcode.com/problems/sudoku-solver/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SudokuSolver.java">Solution</a>)
-- 41.First Missing Positive (<a href="https://leetcode.com/problems/first-missing-positive/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java">Solution</a>)
 - 48.Rotate Image (<a href="https://leetcode.com/problems/rotate-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateImage.java">Solution</a>)
 - 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
 - 53.Maximum Subarray (<a href="https://leetcode.com/problems/maximum-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java">Solution</a>)
