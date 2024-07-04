@@ -61,7 +61,11 @@ public class SetMatrixZero {
             {1,0,1},
             {1,1,1}
         };
+<<<<<<< Updated upstream
         setZero1(matrix);
+=======
+        setZeros1(matrix);
+>>>>>>> Stashed changes
         for (int i=0;i<matrix.length;i++){
             for (int j=0;j<matrix[i].length;j++){
                 System.out.print(matrix[i][j] + " ");
