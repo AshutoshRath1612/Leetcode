@@ -39,6 +39,7 @@
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
  | Medium | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinDiffBetweenLargeAndSmall.java) |
  | Medium | [1823. FindTheWinner](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindTheWinner.java) |
+ | Medium | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinAndMaxNodeBetweenCriticalPoint.java) |
  | Medium | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeNodesBetweenZeros.java) |
  | Medium | [2326.Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_IV.java) |
  | Medium | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ProductOfArrayExceptSelf.java) |
