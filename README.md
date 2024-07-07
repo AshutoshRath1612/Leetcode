@@ -18,6 +18,7 @@
  | Easy | [1470.Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Shuffle_The_Array.java) |
  | Easy | [1480.Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RunningSum_of_Array.java) |
  | Easy | [1512.Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_of_Good_Pairs.java) |
+ | Easy | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/WaterBottles.java) |
  | Easy | [1550.Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ThreeConsecutiveOdd.java) |
  | Easy | [1672.Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java) |
  | Easy | [1732.Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java) |
