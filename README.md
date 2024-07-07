@@ -46,7 +46,7 @@
  | Medium | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ProductOfArrayExceptSelf.java) |
  | Hard | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
  | Hard | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java) |
- | Hard | [154.Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray_II.java) |3
+ | Hard | [154.Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray_II.java) |
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
 - 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
 - 18.4Sum (<a href="https://leetcode.com/problems/4sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java">Solution</a>)
