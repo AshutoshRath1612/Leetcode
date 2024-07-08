@@ -31,6 +31,33 @@ public class ArrayFormOfInteger {
         }
         return al;
     }
+    public List<Integer> addToArrayForm3(int[] num, int k) {
+        List<Integer> al = new ArrayList<>();
+        int carry = 0;
+        int index = num.length - 1;
+        while(index >= 0 && k > 0){
+            int sum = num[index] + k % 10 + carry;
+            al.add(0,sum%10);
+            carry = sum / 10;
+            k = k/10;
+            index--;
+        }
+        while(index >= 0){
+            int sum = num[index--] + carry;
+            al.add(0,sum%10);
+            carry = sum/10;
+        }
+        while(k > 0){
+            int sum = k % 10 + carry;
+            carry = sum/10;
+            al.add(0,sum%10);
+            k /= 10;
+        }
+        if(carry > 0){
+            al.add(0,carry);
+        }
+        return al;
+    }
     public static List<Integer> addToArrayForm2(int[] num, int k) {
         List<Integer>al = new ArrayList<>();
         int n =0;

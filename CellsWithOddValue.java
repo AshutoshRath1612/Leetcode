@@ -12,24 +12,21 @@ Given m, n, and indices, return the number of odd-valued cells in the matrix aft
  */
 public class CellsWithOddValue {
     public static int oddCells(int m, int n, int[][] indices) {
-        int[][]arr = new int[m][n];
-        for (int i=0;i<indices.length;i++){
-            int r = indices[i][0];
-            int c = indices[i][1];
-            for (int j=0;j<arr[r].length;j++){
-                arr[r][j] += 1;
-
+        int [][] matrix = new int[m][n];
+        for(int [] arr:indices){
+            for(int i = 0 ; i< n;i++){
+                matrix[arr[0]][i] += 1;
             }
-
-            for (int j=0;j<arr.length;j++){
-                arr[j][c] = arr[j][c]+1;
+            for(int i = 0 ; i < m ;i++){
+                matrix[i][arr[1]] += 1;
             }
         }
-        int count=0;
-        for (int i=0;i<arr.length;i++){
-            for (int j=0;j< arr[i].length;j++){
-                if (arr[i][j]%2==1)
+        int count = 0;
+        for(int [] arr : matrix){
+            for(int i:arr){
+                if(i%2==1){
                     count++;
+                }
             }
         }
         return count;
