@@ -2,6 +2,7 @@ package Leetcode;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 public class MergeKSortedList {
     public static ListNode mergeKLists(ListNode[] lists) {
@@ -27,6 +28,27 @@ public class MergeKSortedList {
             }
         }
         return sorted;
+    }
+    public ListNode mergeKLists2(ListNode[] lists) {
+        if(lists == null || lists.length == 0){
+            return null;
+        }
+        List<Integer> list = new ArrayList<>();
+        for(ListNode node : lists){
+            ListNode temp = node;
+            while(temp != null){
+                list.add(temp.val);
+                temp = temp.next;
+            }
+        }
+        Collections.sort(list);
+        ListNode sorted = new ListNode();
+        ListNode curr = sorted;
+        for(int i : list){
+            curr.next = new ListNode(i);
+            curr = curr.next;
+        }
+        return sorted.next;
     }
 
     public static void main(String[] args) {

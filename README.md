@@ -45,6 +45,7 @@
  | Medium | [2326.Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_IV.java) |
  | Medium | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ProductOfArrayExceptSelf.java) |
  | Hard | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
+ | Hard | [23.Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeKSortedList.java) |
  | Hard | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java) |
  | Hard | [154.Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray_II.java) |
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
@@ -54,7 +55,6 @@
 - 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
 - 21.Merge Two Sorted Lists (<a href="https://leetcode.com/problems/merge-two-sorted-lists/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeTwoSortedList.java">Solution</a>)
 - 22.Generate Parentheses (<a href="https://leetcode.com/problems/generate-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/GenerateParentheses.java">Solution</a>)
-- 23.Merge k Sorted Lists (<a href="https://leetcode.com/problems/merge-k-sorted-lists/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeKSortedList.java">Solution</a>)
 - 26.Remove Duplicates from Sorted Array (<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveDuplicatesFromSortedArray.java">Solution</a>)
 - 27.Remove Element (<a href="https://leetcode.com/problems/remove-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveElement.java">Solution</a>)
 - 27.Find the Index of the First Occurrence in a String (<a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FindIndexOFFirstOccurance.java">Solution</a>)
