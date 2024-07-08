@@ -18,6 +18,12 @@ public class FindTheWinner {
         }
         return friends.get(0);
     }
+    public int findTheWinner2(int n, int k) {
+        if(n == 1)
+            return 1;
+        int result = findTheWinner2(n-1,k) + k;
+        return result % n ==0 ? n : result % n;
+    }
 
     public static void main(String[] args) {
         System.out.println(findTheWinner(5,2));
