@@ -11,6 +11,7 @@
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
  | Easy | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java) |
  | Easy | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java) |
+ | Easy | [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java) |
  | Easy | [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DifferenceOfProductAndSum.java) |
  | Easy | [1365.How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_Smaller_Than_Current_Num.java) |
  | Easy | [1389.Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Create_TargetArrayOf_GivenOrder.java) |
@@ -126,7 +127,6 @@
 - 754.Reach a Number (<a href="https://leetcode.com/problems/reach-a-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReachANumber.java">Solution</a>)
 - 766.Toeplitz Matrix (<a href="https://leetcode.com/problems/toeplitz-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ToeplitzMatrix.java">Solution</a>)
 - 771.Jewels and Stones (<a href="https://leetcode.com/problems/jewels-and-stones/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/JewelsStones.java">Solution</a>)
-- 832.Flipping an Image (<a href="https://leetcode.com/problems/flipping-an-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
 - 867.Transpose Matrix (<a href="https://leetcode.com/problems/transpose-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java">Solution</a>)
 - 876.Middle of the Linked List (<a href="https://leetcode.com/problems/middle-of-the-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MiddleOFLinkedList.java">Solution</a>)
