@@ -48,6 +48,7 @@
  | Hard | [23.Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeKSortedList.java) |
  | Hard | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java) |
  | Hard | [154.Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray_II.java) |
+ | Hard | [1095.Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_In_Mountain_Array.java) |
 - 15.3Sum (<a href="https://leetcode.com/problems/3sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_3Sum.java">Solution</a>)
 - 17.Letter Combinations of a Phone Number (<a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Letter_Combinations_ofPhone_Number.java">Solution</a>)
 - 18.4Sum (<a href="https://leetcode.com/problems/4sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java">Solution</a>)
@@ -135,7 +136,6 @@
 - 989.Add to Array-Form of Integer (<a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ArrayFormOfInteger.java">Solution</a>)
 - 1051.Height Checker (<a href="https://leetcode.com/problems/height-checker/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/HeightChecker.java">Solution</a>)
 - 1071.Greatest Common Divisor of Strings (<a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Greatest_Common_Divisor_of_Strings.java">Solution</a>)
-- 1095.Find in Mountain Array (<a href="https://leetcode.com/problems/find-in-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_In_Mountain_Array.java">Solution</a>)
 - 1108.Defanging an IP Address (<a href="https://leetcode.com/problems/defanging-an-ip-address/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Defanging_IP.java">Solution</a>)
 - 1122.Relative Sort Array (<a href="https://leetcode.com/problems/relative-sort-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RelativeSortArray.java">Solution</a>)
 - 1200.Minimum Absolute Difference (<a href="https://leetcode.com/problems/minimum-absolute-difference/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumAbsoluteDifference.java">Solution</a>)

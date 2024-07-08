@@ -61,4 +61,3 @@ public class Find_In_Mountain_Array {
         System.out.println(peak);
     }
 }
-
