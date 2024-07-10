@@ -13,7 +13,7 @@ The final sorted array should not be returned by the function,
  denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
  */
 public class MergeSortedArray {
-    public static void merge(int[] nums1, int m, int[] nums2, int n) {
+    public static void merge1(int[] nums1, int m, int[] nums2, int n) {
             int merge[] = new int[m+n];
             int i=0;
             int j=0;
@@ -48,6 +48,19 @@ public class MergeSortedArray {
             for(int l=0;l<m+n;l++){
                 nums1[l]=merge[l];
             }
+    }
+    public static void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i = m - 1;
+        int j  = n -1;
+        int k = m + n -1;
+        while(j>=0){
+            if(i>=0 && nums1[i] > nums2[j]){
+                nums1[k--] = nums1[i--];
+            }
+            else{
+                nums1[k--] = nums2[j--];
+            }
+        }
     }
 
     public static void main(String[] args) {

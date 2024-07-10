@@ -7,16 +7,16 @@ A subarray is a contiguous part of an array.
  */
 public class MaximumSubarray {
     public static int maxSubArray(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        int sum=0;
-        for (int i=0;i<nums.length;i++){
-            sum += nums[i];
-            if (sum>max)
-                max =sum;
-            if(sum<0)
-                sum=0;
+        int maxSum = Integer.MIN_VALUE;
+        int currSum = 0;
+        for(int i: nums){
+            currSum += i;
+            maxSum = Math.max(maxSum , currSum);
+            if(currSum < 0){
+                currSum = 0;
+            }
         }
-        return max;
+        return maxSum;
     }
     public static void main(String[] args) {
         int []arr= {1,2};
