@@ -26,6 +26,7 @@
  | Easy | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/WaterBottles.java) |
  | Easy | [1550.Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ThreeConsecutiveOdd.java) |
  | Easy | [1572.Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MatrixDiagonalSum.java) |
+ | Easy | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/CrawlerLogFolderr.java) |
  | Easy | [1672.Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java) |
  | Easy | [1732.Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java) |
  | Easy | [1773.Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Count_item_MatchingRule.java) |
