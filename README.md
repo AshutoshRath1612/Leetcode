@@ -45,6 +45,7 @@
  | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
  | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
+ | Medium | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseSubstringBetweenParenthesis.java) |
  | Medium | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinDiffBetweenLargeAndSmall.java) |
  | Medium | [1823. FindTheWinner](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindTheWinner.java) |
  | Medium | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinAndMaxNodeBetweenCriticalPoint.java) |
