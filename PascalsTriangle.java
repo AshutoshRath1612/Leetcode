@@ -23,7 +23,6 @@ public class PascalsTriangle {
         }
         return ll;
     }
-
     public static void main(String[] args) {
         int numrows =1;
         List<List<Integer>> L = generate(numrows);
