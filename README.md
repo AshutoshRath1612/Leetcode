@@ -12,6 +12,7 @@
  | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java) |
  | Easy | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/PascalsTriangle.java) |
  | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/BestTimeTOBuySell.java) |
+ | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElements.java) |
  | Easy | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java) |
  | Easy | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java) |
  | Easy | [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java) |
@@ -41,16 +42,20 @@
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
  | Medium | [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java) |
  | Medium | [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java) |
+ | Medium | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java) |
  | Medium | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java) |
  | Medium | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix.java) |
  | Medium | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java) |
  | Medium | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_II.java) |
  | Medium | [73.Set Matrix to Zero](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java) |
+ | Medium | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java) |
  | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
  | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
+ | Medium | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElementII.java) |
  | Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java) |
  | Medium | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseSubstringBetweenParenthesis.java) |
+ | Medium | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumScoreFromRemovingSubstring.java) |
  | Medium | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinDiffBetweenLargeAndSmall.java) |
  | Medium | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/AverageWaitingTime.java) |
  | Medium | [1823. FindTheWinner](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindTheWinner.java) |
@@ -77,13 +82,11 @@
 - 35.Search Insert Position (<a href="https://leetcode.com/problems/search-insert-position/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SearchInsertPosition.java">Solution</a>)
 - 37.Sudoku Solver (<a href="https://leetcode.com/problems/sudoku-solver/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SudokuSolver.java">Solution</a>)
 - 48.Rotate Image (<a href="https://leetcode.com/problems/rotate-image/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateImage.java">Solution</a>)
-- 50.Pow(x, n) (<a href="https://leetcode.com/problems/powx-n/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java">Solution</a>)
 - 58.Length of Last Word (<a href="https://leetcode.com/problems/length-of-last-word/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LengthOfLastWord.java">Solution</a>)
 - 66.Plus One (<a href="https://leetcode.com/problems/plus-one/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java">Solution</a>)
 - 67.Add Binary (<a href="https://leetcode.com/problems/add-binary/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/AddBinary.java">Solution</a>)
 - 69.Sqrt(x) (<a href="https://leetcode.com/problems/sqrtx/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Sqrt_x.java">Solution</a>)
 - 70.Climbing Stairs (<a href="https://leetcode.com/problems/climbing-stairs/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ClimbingStairs.java">Solution</a>)
-- 74.Search in 2D matrix (<a href="https://leetcode.com/problems/search-a-2d-matrix">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java">Solution</a>)
 - 81.Search in Rotated Sorted Array II (<a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Search_in_Rotated_Array_II.java">Solution</a>)
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 125.Valid Palindrome (<a href="https://leetcode.com/problems/valid-palindrome/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPalindrome.java">Solution</a>)
@@ -96,7 +99,6 @@
 - 160.Intersection of Two Linked Lists (<a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionOfTwoLists.java">Solution</a>)
 - 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
 - 167.Two Sum II - Input Array Is Sorted (<a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum_II.java">Solution</a>)
-- 169.Majority Element (<a href="https://leetcode.com/problems/majority-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElements.java">Solution</a>)
 - 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
 - 206.Reverse Linked List (<a href="https://leetcode.com/problems/reverse-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseLinkedList.java">Solution</a>)
 - 217.Contains Duplicate (<a href="https://leetcode.com/problems/contains-duplicate/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ContainsDuplicate.java">Solution</a>)

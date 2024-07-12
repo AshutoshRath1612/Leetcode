@@ -9,26 +9,24 @@ public class Pow_x_n_ {
     }
 
     public static double myPow2(double x, int n) {
-        double num = 0;
-        if (n < 0) {
+        if(n < 0){
+            n = -n;
             x = 1 / x;
-            num = x;
-            for (int i = n; i < -1; i++) {
-                num *= x;
-            }
-        } else if (n > 0) {
-            num = x;
-            for (int i = n; i > 1; i--)
-                num *= x;
-        } else {
-            return 1.0;
         }
-        return num;
+        double ans = 1;
+        while(n != 0){
+            if(n%2 != 0){
+                ans *= x;
+            }
+            x *= x;
+             n /= 2;
+        }
+        return ans;
     }
 
     public static void main(String[] args) {
         double n = 2.00000;
-        int pow = 10;
+        int pow = -2;
         double ans = myPow2(n, pow);
         System.out.println(ans);
     }
