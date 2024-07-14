@@ -47,6 +47,7 @@
  | Medium | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix.java) |
  | Medium | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java) |
  | Medium | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_II.java) |
+ | Medium | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/UniquePaths.java) |
  | Medium | [73.Set Matrix to Zero](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java) |
  | Medium | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java) |
  | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
