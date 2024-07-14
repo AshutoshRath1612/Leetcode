@@ -41,6 +41,7 @@
  | Medium | [3.Longest Substring without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java) |
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
  | Medium | [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java) |
+ | Medium | [18. 4Sum](https://leetcode.com/problems/4sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java) |
  | Medium | [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java) |
  | Medium | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java) |
  | Medium | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java) |
