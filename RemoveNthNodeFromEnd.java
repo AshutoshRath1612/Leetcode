@@ -1,5 +1,8 @@
 package Leetcode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class RemoveNthNodeFromEnd {
     public static ListNode removeNthFromEnd(ListNode head, int n) {
         int count=0;
@@ -22,6 +25,21 @@ public class RemoveNthNodeFromEnd {
             temp.next = null;
         else
             temp.next = temp.next.next;
+        return head;
+    }
+    public ListNode removeNthFromEnd1(ListNode head, int n) {
+        List<ListNode> nodes = new ArrayList<>();
+        ListNode temp = head;
+        while(temp!=null){
+            nodes.add(temp);
+            temp = temp.next;
+        }
+        if(nodes.size()==n){
+            return head.next;
+        }
+
+        ListNode previousNode = nodes.get(nodes.size()- n -1);
+        previousNode.next = previousNode.next.next;
         return head;
     }
     public static void printll(ListNode head){

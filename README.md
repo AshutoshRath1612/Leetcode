@@ -9,14 +9,18 @@
  | Easy | [9.Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java) |
  | Easy | [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java) |
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
+ | Easy | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeTwoSortedList.java) |
  | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java) |
  | Easy | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/PascalsTriangle.java) |
  | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/BestTimeTOBuySell.java) |
  | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElements.java) |
+ | Easy | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseLinkedList.java) |
+ | Easy | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DeleteNodeLL.java) |
  | Easy | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java) |
  | Easy | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java) |
  | Easy | [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java) |
  | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java) |
+ | Easy | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MiddleOFLinkedList.java) |
  | Easy | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ArrayFormOfInteger.java) |
  | Easy | [1252.Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/CellsWithOddValue.java) |
  | Easy | [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DifferenceOfProductAndSum.java) |
@@ -42,6 +46,7 @@
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
  | Medium | [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Integer_to_Roman.java) |
  | Medium | [18. 4Sum](https://leetcode.com/problems/4sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java) |
+ | Medium | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveNthNodeFromEnd.java) |
  | Medium | [34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/First_Last_of_Sorted_Array.java) |
  | Medium | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Pow_x_n_.java) |
  | Medium | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumSubarray.java) |
@@ -75,7 +80,6 @@
 - 18.4Sum (<a href="https://leetcode.com/problems/4sum/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_4Sum.java">Solution</a>)
 - 18.Remove Nth Node From End of List (<a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveNthNodeFromEnd.java">Solution</a>)
 - 20.Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidParenthesis.java">Solution</a>)
-- 21.Merge Two Sorted Lists (<a href="https://leetcode.com/problems/merge-two-sorted-lists/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeTwoSortedList.java">Solution</a>)
 - 22.Generate Parentheses (<a href="https://leetcode.com/problems/generate-parentheses/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/GenerateParentheses.java">Solution</a>)
 - 26.Remove Duplicates from Sorted Array (<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveDuplicatesFromSortedArray.java">Solution</a>)
 - 27.Remove Element (<a href="https://leetcode.com/problems/remove-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RemoveElement.java">Solution</a>)
@@ -102,12 +106,10 @@
 - 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
 - 167.Two Sum II - Input Array Is Sorted (<a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum_II.java">Solution</a>)
 - 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
-- 206.Reverse Linked List (<a href="https://leetcode.com/problems/reverse-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseLinkedList.java">Solution</a>)
 - 217.Contains Duplicate (<a href="https://leetcode.com/problems/contains-duplicate/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ContainsDuplicate.java">Solution</a>)
 - 231.Power of Two (<a href="https://leetcode.com/problems/power-of-two/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/PowerOfTwo.java">Solution</a>)
 - 232.Queue using Stack (<a href="https://leetcode.com/problems/implement-queue-using-stacks/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/QueueUsingStack.java">Solution</a>)
 - 234.Palindrome Linked List (<a href="https://leetcode.com/problems/palindrome-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Linked_List.java">Solution</a>)
-- 237.Delete Node in Linked List (<a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/DeleteNodeLL.java">Solution</a>)
 - 242.Valid Anagram (<a href="https://leetcode.com/problems/valid-anagram/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidAnagram.java">Solution</a>)
 - 268.Missing Number (<a href="https://leetcode.com/problems/missing-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MissingNumber.java">Solution</a>)
 - 268.First Bad Version (<a href="https://leetcode.com/problems/first-bad-version/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FirstBadVersion.java">Solution</a>)
@@ -141,7 +143,6 @@
 - 771.Jewels and Stones (<a href="https://leetcode.com/problems/jewels-and-stones/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/JewelsStones.java">Solution</a>)
 - 852.Peak Index in a Mountain Array (<a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Index_in_Mountain_Array.java">Solution</a>)
 - 867.Transpose Matrix (<a href="https://leetcode.com/problems/transpose-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java">Solution</a>)
-- 876.Middle of the Linked List (<a href="https://leetcode.com/problems/middle-of-the-linked-list/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MiddleOFLinkedList.java">Solution</a>)
 - 896.Monotonic Array (<a href="https://leetcode.com/problems/monotonic-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MonotonicArray.java">Solution</a>)
 - 888.Fair Candy Swap(<a href="https://leetcode.com/problems/fair-candy-swap/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/FairCandyswap.java">Solution</a>)
 - 977.Squares of a Sorted Array (<a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/sqOfSortedArray.java">Solution</a>)
