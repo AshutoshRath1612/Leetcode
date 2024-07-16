@@ -75,6 +75,7 @@
  | Medium | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ProductOfArrayExceptSelf.java) |
  | Hard | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
  | Hard | [23.Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeKSortedList.java) |
+ | Hard | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseNodeinKGroups.java) |
  | Hard | [41.First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindMissingPositive.java) |
  | Hard | [154.Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray_II.java) |
  | Hard | [1095.Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_In_Mountain_Array.java) |
