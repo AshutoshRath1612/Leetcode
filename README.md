@@ -6,6 +6,7 @@
  |:-----:|:---------:|:--------:|
  |  | []() | [  ]() |
  | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum.java) |
+ | Easy | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestConsecutiveSequence.java) |
  | Easy | [9.Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Palindrome_Number.java) |
  | Easy | [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java) |
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
@@ -57,6 +58,8 @@
  | Medium | [73.Set Matrix to Zero](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java) |
  | Medium | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java) |
  | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
+ | Medium | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestConsecutiveSequence.java) |
+ | Medium | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LinkedListCycleII.java) |
  | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
  | Medium | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElementII.java) |
@@ -98,7 +101,6 @@
 - 125.Valid Palindrome (<a href="https://leetcode.com/problems/valid-palindrome/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPalindrome.java">Solution</a>)
 - 136.Single Number (<a href="https://leetcode.com/problems/single-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SingleNumber.java">Solution</a>)
 - 141.LinkedList Cycle (<a href="https://leetcode.com/problems/linked-list-cycle/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LinkedListCycle.java">Solution</a>)
-- 142.LinkedList Cycle II (<a href="https://leetcode.com/problems/linked-list-cycle-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LinkedListCycleII.java">Solution</a>)
 - 151.Reverse Words in a String (<a href="https://leetcode.com/problems/reverse-words-in-a-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Reverse_word_in_a_string.java">Solution</a>)
 - 152.Maximum Product Subarray (<a href="https://leetcode.com/problems/maximum-product-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumProductSubarray.java">Solution</a>)
 - 153.Find Minimum in Rotated Sorted Array (<a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray.java">Solution</a>)
