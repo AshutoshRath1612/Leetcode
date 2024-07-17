@@ -1,6 +1,7 @@
 package Leetcode;
 
 import java.util.Arrays;
+import java.util.HashSet;
 
 /*
 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once.
@@ -14,7 +15,7 @@ Return k after placing the final result in the first k slots of nums.
 Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
  */
 public class RemoveDuplicatesFromSortedArray {
-    public static int removeDuplicates(int[] nums) {
+    public static int removeDuplicates2(int[] nums) {
         int count =1;
         int lastvalue =nums[0];
         for (int i=1;i< nums.length;i++){
@@ -46,6 +47,28 @@ return count;
         int temp =arr[i];
         arr[i]=arr[j];
         arr[j]=temp;
+    }
+    public int removeDuplicates1(int[] nums) {
+        HashSet<Integer> unique = new HashSet<>();
+        for(int i = 0; i < nums.length; i++){
+            if(unique.contains(nums[i])){
+                nums[i] = Integer.MAX_VALUE;
+            }
+            else{
+                unique.add(nums[i]);
+            }
+        }
+        Arrays.sort(nums);
+        return unique.size();
+    }
+    public static int  removeDuplicates(int[] nums){
+        int len = 1;
+        for(int i = 1; i < nums.length;i++){
+            if(nums[i]!= nums[i-1]){
+                nums[len++] = nums[i];
+            }
+        }
+        return len;
     }
     public static void main(String[] args) {
         int []arr= {0,0,1,1,1,2,2,3,3,4};

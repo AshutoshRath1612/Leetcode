@@ -11,6 +11,7 @@
  | Easy | [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Roman_to_integer.java) |
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
  | Easy | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeTwoSortedList.java) |
+ | Easy | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaxConsecutiveOnes.java) |
  | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java) |
  | Easy | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/PascalsTriangle.java) |
  | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/BestTimeTOBuySell.java) |
@@ -21,6 +22,7 @@
  | Easy | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DeleteNodeLL.java) |
  | Easy | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java) |
  | Easy | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java) |
+ | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaxConsecutiveOnes.java) |
  | Easy | [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java) |
  | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java) |
  | Easy | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MiddleOFLinkedList.java) |
@@ -56,11 +58,13 @@
  | Medium | [54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix.java) |
  | Medium | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/JumpGame.java) |
  | Medium | [59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_II.java) |
+ | Medium | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateList.java) |
  | Medium | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/UniquePaths.java) |
  | Medium | [73.Set Matrix to Zero](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMatrixZero.java) |
  | Medium | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Search2dmatrix.java) |
  | Medium | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortColors.java) |
  | Medium | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestConsecutiveSequence.java) |
+ | Medium | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/CopyListWithRandomPointer.java) |
  | Medium | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LinkedListCycleII.java) |
  | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
