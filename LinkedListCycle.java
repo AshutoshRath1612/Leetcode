@@ -1,6 +1,6 @@
 package Leetcode;
 
-public class LiinkedListCycle {
+public class LinkedListCycle {
     public static boolean hasCycle(ListNode head) {
         ListNode slow =head;
         ListNode fast = head;

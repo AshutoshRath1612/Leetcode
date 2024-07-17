@@ -14,6 +14,8 @@
  | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java) |
  | Easy | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/PascalsTriangle.java) |
  | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/BestTimeTOBuySell.java) |
+ | Easy | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LinkedListCycle.java) |
+ | Easy | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionOfTwoLists.java) |
  | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElements.java) |
  | Easy | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseLinkedList.java) |
  | Easy | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DeleteNodeLL.java) |
@@ -101,11 +103,9 @@
 - 98.Validate Binary Search Tree (<a href="https://leetcode.com/problems/validate-binary-search-tree/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Validate_Binary_Search_Tree.java">Solution</a>)
 - 125.Valid Palindrome (<a href="https://leetcode.com/problems/valid-palindrome/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ValidPalindrome.java">Solution</a>)
 - 136.Single Number (<a href="https://leetcode.com/problems/single-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SingleNumber.java">Solution</a>)
-- 141.LinkedList Cycle (<a href="https://leetcode.com/problems/linked-list-cycle/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/LinkedListCycle.java">Solution</a>)
 - 151.Reverse Words in a String (<a href="https://leetcode.com/problems/reverse-words-in-a-string/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Reverse_word_in_a_string.java">Solution</a>)
 - 152.Maximum Product Subarray (<a href="https://leetcode.com/problems/maximum-product-subarray/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumProductSubarray.java">Solution</a>)
 - 153.Find Minimum in Rotated Sorted Array (<a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumInRotatedSortedArray.java">Solution</a>)
-- 160.Intersection of Two Linked Lists (<a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionOfTwoLists.java">Solution</a>)
 - 162.Find Peak Element (<a href="https://leetcode.com/problems/find-peak-element/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Peak_Element.java">Solution</a>)
 - 167.Two Sum II - Input Array Is Sorted (<a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/TwoSum_II.java">Solution</a>)
 - 202.Happy Number (<a href="https://leetcode.com/problems/happy-number/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Happy_numbers.java">Solution</a>)
