@@ -22,6 +22,7 @@
  | Easy | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DeleteNodeLL.java) |
  | Easy | [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArrays.java) |
  | Easy | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java) |
+ | Easy | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/AssignCookies.java) |
  | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaxConsecutiveOnes.java) |
  | Easy | [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java) |
  | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java) |
@@ -30,7 +31,9 @@
  | Easy | [1252.Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/CellsWithOddValue.java) |
  | Easy | [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DifferenceOfProductAndSum.java) |
  | Easy | [1295.Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_Numbers_with_Even_Number_of_Digits.java) |
+ | Easy | [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SumToZero.java) |
  | Easy | [1365.How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Number_Smaller_Than_Current_Num.java) |
+ | Easy | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LuckyNumberInMatrix.java) |
  | Easy | [1389.Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Create_TargetArrayOf_GivenOrder.java) |
  | Easy | [1431.Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Kid_with_Greatest_Candies.java) |
  | Easy | [1470.Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Shuffle_The_Array.java) |
@@ -160,7 +163,6 @@
 - 1122.Relative Sort Array (<a href="https://leetcode.com/problems/relative-sort-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RelativeSortArray.java">Solution</a>)
 - 1200.Minimum Absolute Difference (<a href="https://leetcode.com/problems/minimum-absolute-difference/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumAbsoluteDifference.java">Solution</a>)
 - 1217.Minimum Cost to Move Chips to The Same Position (<a href="https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumCostToMoveCHip.java">Solution</a>)
-- 1304.Find N Unique Integers Sum up to Zero (<a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SumToZero.java">Solution</a>)
 - 1331.Rank Transform of an Array (<a href="https://leetcode.com/problems/rank-transform-of-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RankTransform.java">Solution</a>)
 - 1342.Number of Steps to Reduce a Number to Zero (<a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/NumberOfStepsto0.java">Solution</a>)
 - 1346.Check If N and Its Double Exist (<a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/NandDoubleExist.java">Solution</a>)

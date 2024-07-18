@@ -9,7 +9,7 @@ Given an m x n matrix of distinct numbers, return all lucky numbers in the matri
 A lucky number is an element of the matrix such that it is the minimum element in its row and maximum in its column.
  */
 public class LuckyNumberInMatrix {
-    public static List<Integer> luckyNumbers (int[][] matrix) {
+    public static List<Integer> luckyNumbers1 (int[][] matrix) {
         List<Integer> mins =new ArrayList<>();
         List<Integer> maxs =new ArrayList<>();
         for (int i=0;i< matrix.length;i++){
@@ -35,6 +35,29 @@ public class LuckyNumberInMatrix {
                 result.add(mins.get(i));
         }
         return result;
+    }
+    public static List<Integer> luckyNumbers (int[][] matrix) {
+        List<Integer> lucky = new ArrayList<>();
+        for(int i = 0;i < matrix.length; i++){
+            int minimum = Integer.MAX_VALUE;
+            int minimuColumn = -1;
+            for(int j = 0; j < matrix[i].length;j++){
+                if(minimum > matrix[i][j]){
+                    minimum = matrix[i][j];
+                    minimuColumn = j;
+                }
+            }
+            int maximum = minimum;
+            for(int j = 0; j < matrix.length; j++){
+                if(matrix[j][minimuColumn] > minimum){
+                    maximum = matrix[j][minimuColumn];
+                }
+            }
+            if(maximum == minimum){
+                lucky.add(minimum);
+            }
+        }
+        return lucky;
     }
     public static void main(String[] args) {
         int [][]arr = {{7,8},{1,2}};
