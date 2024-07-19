@@ -24,6 +24,7 @@
  | Easy | [350.Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/IntersectionTwoArraysII.java) |
  | Easy | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/AssignCookies.java) |
  | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaxConsecutiveOnes.java) |
+ | Easy | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReshapeMatrix.java) |
  | Easy | [832.Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FlippingAnImage.java) |
  | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java) |
  | Easy | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MiddleOFLinkedList.java) |
@@ -47,6 +48,7 @@
  | Easy | [1732.Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java) |
  | Easy | [1773.Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Count_item_MatchingRule.java) |
  | Easy | [1832.Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Check_IfPangram.java) |
+ | Easy | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindRotation.java) |
  | Easy | [1920.Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java) |
  | Easy | [1929.Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Concatenation_of_Array.java) |
  | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java) |
@@ -141,7 +143,6 @@
 - 454.4 Sum II (<a href="https://leetcode.com/problems/4sum-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/_4SumII.java">Solution</a>)
 - 503.Next Greater Element (<a href="https://leetcode.com/problems/next-greater-element-ii/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/NextGreaterElement_ii.java">Solution</a>)
 - 540.Single Element in a Sorted Array (<a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SingleElementInSortedArray.java">Solution</a>)
-- 566.Reshape the Matrix (<a href="https://leetcode.com/problems/reshape-the-matrix/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/ReshapeMatrix.java">Solution</a>)
 - 645.Set Mismatch (<a href="https://leetcode.com/problems/set-mismatch/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/SetMismatch.java">Solution</a>)
 - 704.Binary Search (<a href="https://leetcode.com/problems/binary-search/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/BinarySearch.java">Solution</a>)
 - 709.To Lower Case (<a href="https://leetcode.com/problems/to-lower-case/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/toLowerCase.java">Solution</a>)

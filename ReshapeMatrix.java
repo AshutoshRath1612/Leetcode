@@ -31,6 +31,24 @@ public class ReshapeMatrix {
         }
         return mat;
     }
+    public static int[][] matrixReshape1(int[][] mat, int r, int c) {
+        if(r*c != mat.length * mat[0].length){
+            return mat;
+        }
+        int [][]reshape = new int[r][c];
+        int currRow = 0;
+        int currCol = 0;
+        for(int [] row : mat){
+            for(int num : row){
+                reshape[currRow][currCol++] = num;
+                if(currCol == c){
+                    currCol = 0;
+                    currRow++;
+                }
+            }
+        }
+        return reshape;
+    }
     public static void main(String[] args) {
         int [][]matrix = {{1,2,3,4,5},{6,7,8,9,10}};
         int [][]reshape = matrixReshape(matrix , 4 ,2);
