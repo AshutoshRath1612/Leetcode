@@ -12,6 +12,7 @@
  | Easy | [14.Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/LongestCommonPrefix.java) |
  | Easy | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeTwoSortedList.java) |
  | Easy | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaxConsecutiveOnes.java) |
+ | Easy | [66. Plus One](https://leetcode.com/problems/plus-one/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/PlusOne.java) |
  | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeSortedArray.java) |
  | Easy | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/PascalsTriangle.java) |
  | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/BestTimeTOBuySell.java) |
@@ -29,6 +30,7 @@
  | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/TransposeMatrix.java) |
  | Easy | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MiddleOFLinkedList.java) |
  | Easy | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ArrayFormOfInteger.java) |
+ | Easy | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumCostToMoveCHip.java) |
  | Easy | [1252.Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/CellsWithOddValue.java) |
  | Easy | [1281.Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/DifferenceOfProductAndSum.java) |
  | Easy | [1295.Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Find_Numbers_with_Even_Number_of_Digits.java) |
@@ -163,7 +165,6 @@
 - 1108.Defanging an IP Address (<a href="https://leetcode.com/problems/defanging-an-ip-address/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/Defanging_IP.java">Solution</a>)
 - 1122.Relative Sort Array (<a href="https://leetcode.com/problems/relative-sort-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RelativeSortArray.java">Solution</a>)
 - 1200.Minimum Absolute Difference (<a href="https://leetcode.com/problems/minimum-absolute-difference/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumAbsoluteDifference.java">Solution</a>)
-- 1217.Minimum Cost to Move Chips to The Same Position (<a href="https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/MinimumCostToMoveCHip.java">Solution</a>)
 - 1331.Rank Transform of an Array (<a href="https://leetcode.com/problems/rank-transform-of-an-array/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/RankTransform.java">Solution</a>)
 - 1342.Number of Steps to Reduce a Number to Zero (<a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/NumberOfStepsto0.java">Solution</a>)
 - 1346.Check If N and Its Double Exist (<a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/description/">Question</a> | <a href="https://github.com/AshutoshRath1612/Leetcode/blob/main/NandDoubleExist.java">Solution</a>)

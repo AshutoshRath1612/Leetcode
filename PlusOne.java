@@ -13,7 +13,7 @@ The large integer does not contain any leading 0's.
 Increment the large integer by one and return the resulting array of digits
  */
 public class PlusOne {
-    public static int[] plusOne(int[] digits) {
+    public static int[] plusOne1(int[] digits) {
         int sum =0;
         int carry=0;
         int add = digits[digits.length-1]+1;
@@ -40,6 +40,24 @@ public class PlusOne {
         }
         else
             return digits;
+    }
+    public static int[] plusOne(int[] digits) {
+        List<Integer> sum = new ArrayList<>();
+        int carry  =1;
+        for(int i = digits.length - 1; i>=0;i--){
+            int num = digits[i] + carry;
+            sum.add(0,num%10);
+            carry = num / 10;
+        }
+        while(carry > 0){
+            sum.add(0,carry%10);
+            carry = carry/10;
+        }
+        int []sumArr = new int[sum.size()];
+        for(int i = 0 ; i < sum.size(); i++){
+            sumArr[i] = sum.get(i);
+        }
+        return sumArr;
     }
     public static void main(String[] args) {
         int[]arr = {1,2,3,4};
