@@ -49,6 +49,7 @@
  | Easy | [1832.Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Check_IfPangram.java) |
  | Easy | [1920.Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Build_Array_from_Permutation.java) |
  | Easy | [1929.Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Concatenation_of_Array.java) |
+ | Easy | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortPeople.java) |
  | Medium | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Add_two_nums.java) |
  | Medium | [3.Longest Substring without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/longest_substring_without_repeating.java) |
  | Medium | [11.Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Container_With_Most_Water.java) |
