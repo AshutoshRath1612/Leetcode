@@ -35,6 +35,29 @@ public class SortByIncreasingFrequency {
         }
         return sorted;
     }
+    public static int[] frequencySort1(int[] nums) {
+        int [][]count = new int[201][2];
+        for(int i = 0; i < nums.length;i++){
+            count[100+nums[i]][0] = 100+nums[i];
+            count[100+nums[i]][1]+=1;
+        }
+        Arrays.sort(count , (a,b) -> {
+            if(a[1] == b[1]){
+                return b[0] - a[0];
+            }
+            return a[1] - b[1];
+        });
+        int index = 0;
+        for(int [] arr: count){
+            if(arr[1] == 0)
+                continue;
+            while(arr[1] > 0){
+                nums[index++] = arr[0]- 100;
+                arr[1]--;
+            }
+        }
+        return nums;
+    }
     public static void main(String[] args) {
         int []arr = {2,3,1,3,2};
         int []sorted = frequencySort(arr);
