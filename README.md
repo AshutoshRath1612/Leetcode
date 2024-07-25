@@ -80,6 +80,7 @@
  | Medium | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElementII.java) |
  | Medium | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ProductOfArrayExceptSelf.java) |
  | Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java) |
+ | Medium | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortArray.java) |
  | Medium | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseSubstringBetweenParenthesis.java) |
  | Medium | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumScoreFromRemovingSubstring.java) |
  | Medium | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinDiffBetweenLargeAndSmall.java) |
