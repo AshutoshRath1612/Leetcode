@@ -46,6 +46,7 @@
  | Easy | [1550.Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ThreeConsecutiveOdd.java) |
  | Easy | [1572.Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MatrixDiagonalSum.java) |
  | Easy | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/CrawlerLogFolderr.java) |
+ | Easy | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortByIncreasingFrequency.java) |
  | Easy | [1672.Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Richest_Customer_Wealth.java) |
  | Easy | [1732.Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/HighestAltitude.java) |
  | Easy | [1773.Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/Count_item_MatchingRule.java) |
@@ -77,7 +78,9 @@
  | Medium | [189.Rotate Array](https://leetcode.com/problems/rotate-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/RotateArray.java) |
  | Medium | [198.House Robber](https://leetcode.com/problems/house-robber/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/House_Robber.java) |
  | Medium | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MajorityElementII.java) |
+ | Medium | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ProductOfArrayExceptSelf.java) |
  | Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindDuplicate.java) |
+ | Medium | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortArray.java) |
  | Medium | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseSubstringBetweenParenthesis.java) |
  | Medium | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MaximumScoreFromRemovingSubstring.java) |
  | Medium | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinDiffBetweenLargeAndSmall.java) |
@@ -85,8 +88,8 @@
  | Medium | [1823. FindTheWinner](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/FindTheWinner.java) |
  | Medium | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MinAndMaxNodeBetweenCriticalPoint.java) |
  | Medium | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeNodesBetweenZeros.java) |
+ | Medium | [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SortJumbledNumber.java) |
  | Medium | [2326.Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/SpiralMatrix_IV.java) |
- | Medium | [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ProductOfArrayExceptSelf.java) |
  | Hard | [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/median_of_two_array.java) |
  | Hard | [23.Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/MergeKSortedList.java) |
  | Hard | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [ Solution ](https://github.com/AshutoshRath1612/Leetcode/blob/main/ReverseNodeinKGroups.java) |
