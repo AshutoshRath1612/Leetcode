@@ -15,11 +15,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Arrays              | 1               |
+| Arrays              | 2               |
 | Hashing             | 0               |
-| Two Pointers        | 1               |
+| Two Pointers        | 2               |
 | Sliding Window      | 0               |
-| Sorting             | 1               |
+| Sorting             | 2               |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -42,7 +42,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | # | Problem | Tags | Solution |
 |:-:|:--------|:------|:----------|
-|  |  |  |  |
+| 15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
+
 
 ---
 
@@ -58,18 +59,21 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 📦 Arrays
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [3Sum](https://leetcode.com/problems/3sum/)
 
 ### 🔑 Hashing
 - 
 
 ### 👣 Two Pointers
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [3Sum](https://leetcode.com/problems/3sum/)
 
 ### 🪟 Sliding Window
 - 
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [3Sum](https://leetcode.com/problems/3sum/)
 
 ### 🌳 Trees
 - 
@@ -81,7 +85,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 1      |
-| Medium | 0      |
+| Medium | 1      |
 | Hard | 0      |
 
 ---
