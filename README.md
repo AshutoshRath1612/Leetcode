@@ -15,9 +15,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Arrays              | 3               |
+| Arrays              | 4               |
 | Hashing             | 0               |
-| Two Pointers        | 3               |
+| Two Pointers        | 4               |
 | Sliding Window      | 0               |
 | Greedy              | 1               |
 | Sorting             | 2               |
@@ -41,10 +41,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🟡 Medium
 
-| #  | Problem | Tags                         | Solution |
-|:--:|:--------|:-----------------------------|:----------|
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Two Pointers, Greedy  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java) |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
+|  #  | Problem | Tags                         | Solution |
+|:---:|:--------|:-----------------------------|:----------|
+| 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Two Pointers, Greedy  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java) |
+| 15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
 
 
 ---
@@ -63,6 +64,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ### 🔑 Hashing
 - 
@@ -71,6 +73,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 
 ### 🪟 Sliding Window
 - 
@@ -92,7 +96,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 1      |
-| Medium | 2      |
+| Medium | 4      |
 | Hard | 0      |
 
 ---
