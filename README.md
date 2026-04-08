@@ -15,10 +15,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Arrays              | 2               |
+| Arrays              | 3               |
 | Hashing             | 0               |
-| Two Pointers        | 2               |
+| Two Pointers        | 3               |
 | Sliding Window      | 0               |
+| Greedy              | 1               |
 | Sorting             | 2               |
 | Binary Search       | 0               |
 | Recursion           | 0               |
@@ -40,9 +41,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🟡 Medium
 
-| # | Problem | Tags | Solution |
-|:-:|:--------|:------|:----------|
-| 15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
+| #  | Problem | Tags                         | Solution |
+|:--:|:--------|:-----------------------------|:----------|
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Two Pointers, Greedy  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
 
 
 ---
@@ -60,6 +62,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 📦 Arrays
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### 🔑 Hashing
 - 
@@ -67,9 +70,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 👣 Two Pointers
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### 🪟 Sliding Window
 - 
+
+### 🥸 Greedy
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -85,7 +92,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 1      |
-| Medium | 1      |
+| Medium | 2      |
 | Hard | 0      |
 
 ---
