@@ -15,12 +15,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Arrays              | 7               |
+| Arrays              | 8               |
 | Hashing             | 0               |
-| Two Pointers        | 7               |
+| Two Pointers        | 8               |
 | Sliding Window      | 0               |
 | Greedy              | 2               |
-| Sorting             | 5               |
+| Sorting             | 6               |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -48,6 +48,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
 | 18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
+| 259 | [3Sum Smaller]([3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)) | Array, Two Pointers, Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 
 
@@ -67,6 +68,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
+- [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -79,6 +81,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
+- [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -96,6 +99,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
+- [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
@@ -109,7 +113,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 1      |
-| Medium | 6      |
+| Medium | 7      |
 | Hard | 0      |
 
 ---
