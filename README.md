@@ -17,9 +17,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:--------------------|:----------------|
 | Arrays              | 8               |
 | Hashing             | 0               |
-| Two Pointers        | 9               |
+| Two Pointers        | 10              |
 | Sliding Window      | 0               |
-| Strings             | 1               |
+| Strings             | 2               |
 | Greedy              | 2               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -37,6 +37,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  #  | Problem | Tags                         | Solution |
 |:---:|:--------|:-----------------------------|:----------|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
+| 344 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
 
 ---
@@ -87,6 +88,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
@@ -96,6 +98,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 💲Strings
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -118,7 +121,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 2      |
+| Easy | 3      |
 | Medium | 7      |
 | Hard | 0      |
 
