@@ -17,9 +17,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:--------------------|:----------------|
 | Arrays              | 8               |
 | Hashing             | 0               |
-| Two Pointers        | 11              |
+| Two Pointers        | 12              |
 | Sliding Window      | 0               |
-| Strings             | 3               |
+| String              | 4               |
 | Greedy              | 2               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -51,6 +51,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
 | 18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
 | 259 | [3Sum Smaller]([3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)) | Array, Two Pointers, Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
@@ -91,6 +92,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
@@ -102,6 +104,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -125,7 +128,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 4      |
-| Medium | 7      |
+| Medium | 8      |
 | Hard | 0      |
 
 ---
