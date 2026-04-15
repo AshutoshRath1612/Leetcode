@@ -17,10 +17,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:--------------------|:----------------|
 | Arrays              | 13              |
 | Hashing             | 1               |
-| Two Pointers        | 17              |
+| Two Pointers        | 18              |
 | Sliding Window      | 0               |
-| String              | 4               |
-| Greedy              | 2               |
+| String              | 5               |
+| Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
 | Recursion           | 0               |
@@ -50,16 +50,17 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🟡 Medium
 
-|  #  | Problem | Tags                                 | Solution |
-|:---:|:--------|:-------------------------------------|:----------|
-| 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Two Pointers, Greedy          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java) |
-| 15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
-| 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
-| 18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
-| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
-| 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
-| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
+|  #   | Problem | Tags                                 | Solution |
+|:----:|:--------|:-------------------------------------|:----------|
+|  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Two Pointers, Greedy          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java) |
+|  15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
+|  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
+|  18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
+| 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
+| 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
+| 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
+| 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                            | Two Pointers, Greedy, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java) |
 
 
 ---
@@ -110,6 +111,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 
 
 ### 🪟 Sliding Window
@@ -120,10 +122,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+- [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -143,7 +147,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 8      |
-| Medium | 8      |
+| Medium | 9      |
 | Hard | 0      |
 
 ---
