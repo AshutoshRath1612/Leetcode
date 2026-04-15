@@ -17,9 +17,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:--------------------|:----------------|
 | Arrays              | 14              |
 | Hashing             | 1               |
-| Two Pointers        | 19              |
+| Two Pointers        | 20              |
 | Sliding Window      | 0               |
-| String              | 5               |
+| String              | 6               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -61,6 +61,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
+| 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                            | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                            | Two Pointers, Greedy, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java) |
 
 
@@ -115,6 +116,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
+- [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
 
 ### 🪟 Sliding Window
@@ -126,6 +128,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
+- [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -150,7 +153,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 8      |
-| Medium | 10     |
+| Medium | 11     |
 | Hard | 0      |
 
 ---
