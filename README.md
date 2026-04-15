@@ -57,8 +57,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
-| 259 | [3Sum Smaller]([3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)) | Array, Two Pointers, Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
-| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
+| 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 
 
 ---
