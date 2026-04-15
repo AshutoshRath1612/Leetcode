@@ -15,9 +15,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Arrays              | 10              |
+| Arrays              | 11              |
 | Hashing             | 0               |
-| Two Pointers        | 14              |
+| Two Pointers        | 15              |
 | Sliding Window      | 0               |
 | String              | 4               |
 | Greedy              | 2               |
@@ -38,6 +38,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:---:|:--------|:-----------------------------|:----------|
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
@@ -79,6 +80,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
@@ -94,6 +96,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
@@ -133,7 +136,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 6      |
+| Easy | 7      |
 | Medium | 8      |
 | Hard | 0      |
 
