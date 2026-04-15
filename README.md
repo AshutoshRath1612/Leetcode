@@ -15,9 +15,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Arrays              | 8               |
+| Arrays              | 10              |
 | Hashing             | 0               |
-| Two Pointers        | 12              |
+| Two Pointers        | 14              |
 | Sliding Window      | 0               |
 | String              | 4               |
 | Greedy              | 2               |
@@ -36,7 +36,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 |  #  | Problem | Tags                         | Solution |
 |:---:|:--------|:-----------------------------|:----------|
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
@@ -70,6 +72,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ## 🧠 Topic-wise Breakdown
 
 ### 📦 Arrays
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
@@ -83,6 +87,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - 
 
 ### 👣 Two Pointers
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
@@ -127,7 +133,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 4      |
+| Easy | 6      |
 | Medium | 8      |
 | Hard | 0      |
 
