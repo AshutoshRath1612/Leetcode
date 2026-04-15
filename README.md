@@ -15,9 +15,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Arrays              | 12              |
-| Hashing             | 0               |
-| Two Pointers        | 16              |
+| Arrays              | 13              |
+| Hashing             | 1               |
+| Two Pointers        | 17              |
 | Sliding Window      | 0               |
 | String              | 4               |
 | Greedy              | 2               |
@@ -41,6 +41,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Array, Two Pointers, Hashing | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q349_IntersectionOfTwoArrays.java) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
@@ -82,13 +83,14 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 
 ### 🔑 Hashing
-- 
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ### 👣 Two Pointers
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -99,6 +101,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
