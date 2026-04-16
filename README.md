@@ -157,7 +157,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 8      |
+| Easy | 9      |
 | Medium | 13     |
 | Hard | 0      |
 
