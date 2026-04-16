@@ -17,9 +17,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:--------------------|:----------------|
 | Arrays              | 15              |
 | Hashing             | 1               |
-| Two Pointers        | 20              |
+| Two Pointers        | 21              |
 | Sliding Window      | 0               |
-| String              | 6               |
+| String              | 7               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -56,11 +56,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
 |  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
 |  18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
-|  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java) |
+|  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java) |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
+| 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java) |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                            | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                            | Two Pointers, Greedy, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java) |
@@ -114,6 +115,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [String Compression](https://leetcode.com/problems/string-compression/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
@@ -129,6 +131,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [String Compression](https://leetcode.com/problems/string-compression/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
@@ -155,7 +158,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 8      |
-| Medium | 12     |
+| Medium | 13     |
 | Hard | 0      |
 
 ---
