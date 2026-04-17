@@ -18,9 +18,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 15              |
 | Hashing             | 1               |
-| Two Pointers        | 23              |
+| Two Pointers        | 24              |
 | Sliding Window      | 0               |
-| String              | 7               |
+| String              | 8               |
 | Linked List         | 1               |
 | Greedy              | 3               |
 | Sorting             | 6               |
@@ -46,6 +46,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Array, Two Pointers, Hashing | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q349_IntersectionOfTwoArrays.java) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q392_IsSubsequence.java) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
@@ -122,6 +123,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
@@ -143,6 +145,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
@@ -169,7 +172,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 11     |
+| Easy | 12     |
 | Medium | 13     |
 | Hard | 0      |
 
