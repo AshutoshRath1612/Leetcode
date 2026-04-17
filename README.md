@@ -16,8 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 1               |
-| Arrays              | 15              |
-| Hashing             | 1               |
+| Arrays              | 16              |
+| Hashing             | 2               |
 | Two Pointers        | 24              |
 | Sliding Window      | 0               |
 | String              | 8               |
@@ -66,6 +66,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java) |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java) |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                            | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java) |
@@ -96,6 +97,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -106,6 +108,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔑 Hashing
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ### 📃 Linked List
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -173,7 +176,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 12     |
-| Medium | 13     |
+| Medium | 14     |
 | Hard | 0      |
 
 ---
