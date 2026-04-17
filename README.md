@@ -18,9 +18,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 15              |
 | Hashing             | 1               |
-| Two Pointers        | 22              |
+| Two Pointers        | 23              |
 | Sliding Window      | 0               |
 | String              | 7               |
+| Linked List         | 1               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -39,6 +40,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:---:|:--------|:-----------------------------|:----------|
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
@@ -104,11 +106,15 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 🔑 Hashing
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
+### 📃 Linked List
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
 ### 👣 Two Pointers
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
@@ -163,7 +169,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 10     |
+| Easy | 11     |
 | Medium | 13     |
 | Hard | 0      |
 
