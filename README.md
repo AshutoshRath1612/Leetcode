@@ -15,9 +15,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
+| Maths               | 1               |
 | Arrays              | 15              |
 | Hashing             | 1               |
-| Two Pointers        | 21              |
+| Two Pointers        | 22              |
 | Sliding Window      | 0               |
 | String              | 7               |
 | Greedy              | 3               |
@@ -38,6 +39,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:---:|:--------|:-----------------------------|:----------|
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java) |
@@ -79,6 +81,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ## 🧠 Topic-wise Breakdown
 
+### 📐 Maths
+- [Happy Number](https://leetcode.com/problems/happy-number/)
+
 ### 📦 Arrays
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
@@ -103,6 +108,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [Happy Number](https://leetcode.com/problems/happy-number/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
@@ -157,7 +163,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 9      |
+| Easy | 10     |
 | Medium | 13     |
 | Hard | 0      |
 
