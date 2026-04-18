@@ -18,10 +18,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 19              |
 | Hashing             | 2               |
-| Two Pointers        | 26              |
+| Two Pointers        | 27              |
 | Sliding Window      | 0               |
 | String              | 8               |
-| Linked List         | 3               |
+| Linked List         | 4               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -74,6 +74,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java) |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java) |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                            | Two Pointers, Linked List            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                            | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                            | Two Pointers, Greedy, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java) |
 
@@ -122,6 +123,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 📃 Linked List
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ### 👣 Two Pointers
@@ -145,6 +147,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
@@ -188,7 +191,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 16     |
-| Medium | 15     |
+| Medium | 16     |
 | Hard | 0      |
 
 ---
