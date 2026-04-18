@@ -18,10 +18,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 19              |
 | Hashing             | 2               |
-| Two Pointers        | 24              |
+| Two Pointers        | 25              |
 | Sliding Window      | 0               |
 | String              | 8               |
-| Linked List         | 1               |
+| Linked List         | 2               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -49,6 +49,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q392_IsSubsequence.java) |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q485_MaxConsecutiveOnes.java) |
 | 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
+| 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java) |
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java) |
@@ -118,6 +119,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 📃 Linked List
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ### 👣 Two Pointers
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -139,6 +141,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
@@ -181,7 +184,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 15     |
+| Easy | 16     |
 | Medium | 14     |
 | Hard | 0      |
 
