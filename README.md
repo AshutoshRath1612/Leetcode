@@ -18,10 +18,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 19              |
 | Hashing             | 2               |
-| Two Pointers        | 25              |
+| Two Pointers        | 26              |
 | Sliding Window      | 0               |
 | String              | 8               |
-| Linked List         | 2               |
+| Linked List         | 3               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -65,6 +65,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
 |  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
 |  18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
+|  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java) |
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java) |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
@@ -96,6 +97,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
@@ -118,6 +120,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ### 📃 Linked List
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
@@ -185,7 +188,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 16     |
-| Medium | 14     |
+| Medium | 15     |
 | Hard | 0      |
 
 ---
