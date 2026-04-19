@@ -18,9 +18,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 19              |
 | Hashing             | 2               |
-| Two Pointers        | 27              |
+| Two Pointers        | 28              |
 | Sliding Window      | 0               |
-| String              | 8               |
+| String              | 9               |
 | Linked List         | 4               |
 | Greedy              | 3               |
 | Sorting             | 6               |
@@ -49,6 +49,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q392_IsSubsequence.java) |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q485_MaxConsecutiveOnes.java) |
 | 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
+| 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q844_BackspaceStringCompare.java) |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java) |
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
@@ -146,6 +147,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
+- [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -165,6 +167,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
+- [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
@@ -190,7 +193,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 16     |
+| Easy | 17     |
 | Medium | 16     |
 | Hard | 0      |
 
