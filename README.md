@@ -18,9 +18,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 20              |
 | Hashing             | 2               |
-| Two Pointers        | 28              |
+| Two Pointers        | 29              |
 | Sliding Window      | 0               |
-| String              | 11              |
+| String              | 12              |
 | Linked List         | 4               |
 | Stack               | 2               |
 | Greedy              | 3               |
@@ -76,6 +76,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java) |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java) |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java) |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                            | Two Pointers, Linked List            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                            | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java) |
@@ -148,6 +149,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
@@ -171,6 +173,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -204,7 +207,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 18     |
-| Medium | 17     |
+| Medium | 18     |
 | Hard | 0      |
 
 ---
