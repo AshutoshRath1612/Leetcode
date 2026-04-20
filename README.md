@@ -20,9 +20,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Hashing             | 2               |
 | Two Pointers        | 28              |
 | Sliding Window      | 0               |
-| String              | 10              |
+| String              | 11              |
 | Linked List         | 4               |
-| Stack               | 1               |
+| Stack               | 2               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -79,6 +79,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                            | Two Pointers, Linked List            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                            | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java) |
+| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                            | Stack, String                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                            | Two Pointers, Greedy, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java) |
 
 
@@ -173,10 +174,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -201,7 +204,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 18     |
-| Medium | 16     |
+| Medium | 17     |
 | Hard | 0      |
 
 ---
