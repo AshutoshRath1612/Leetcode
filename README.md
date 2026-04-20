@@ -16,12 +16,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 1               |
-| Arrays              | 19              |
+| Arrays              | 20              |
 | Hashing             | 2               |
 | Two Pointers        | 28              |
 | Sliding Window      | 0               |
-| String              | 9               |
+| String              | 10              |
 | Linked List         | 4               |
+| Stack               | 1               |
 | Greedy              | 3               |
 | Sorting             | 6               |
 | Binary Search       | 0               |
@@ -54,6 +55,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java) |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Array, String, Stack         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java) |
 
 ---
@@ -115,6 +117,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+- [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
 ### 🔑 Hashing
@@ -169,7 +172,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
+- [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
+
+### 🪜 Stack
+- [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -193,7 +200,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 17     |
+| Easy | 18     |
 | Medium | 16     |
 | Hard | 0      |
 
