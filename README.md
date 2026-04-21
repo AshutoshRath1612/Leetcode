@@ -18,9 +18,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Maths               | 1               |
 | Arrays              | 20              |
 | Hashing             | 2               |
-| Two Pointers        | 29              |
+| Two Pointers        | 30              |
 | Sliding Window      | 0               |
-| String              | 12              |
+| String              | 13              |
 | Linked List         | 4               |
 | Stack               | 2               |
 | Greedy              | 3               |
@@ -64,6 +64,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 |  #   | Problem | Tags                                 | Solution |
 |:----:|:--------|:-------------------------------------|:----------|
+|  5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String, Two Pointer                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q5_LongestPalindromeSubstring.java) |
 |  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Two Pointers, Greedy          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java) |
 |  15  | [3Sum](https://leetcode.com/problems/3sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java) |
 |  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
@@ -134,6 +135,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 👣 Two Pointers
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
@@ -174,6 +176,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -207,7 +210,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 18     |
-| Medium | 18     |
+| Medium | 19     |
 | Hard | 0      |
 
 ---
