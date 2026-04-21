@@ -20,7 +20,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Hashing             | 2               |
 | Two Pointers        | 30              |
 | Sliding Window      | 0               |
-| String              | 13              |
+| String              | 14              |
 | Linked List         | 4               |
 | Stack               | 2               |
 | Greedy              | 3               |
@@ -41,6 +41,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:----:|:--------|:-----------------------------|:----------|
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
+|  67  | [Add Binary](https://leetcode.com/problems/add-binary/) | String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java) |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
@@ -169,6 +170,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - 
 
 ### 💲Strings
+- [Add Binary](https://leetcode.com/problems/add-binary/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
@@ -209,7 +211,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 18     |
+| Easy | 19     |
 | Medium | 19     |
 | Hard | 0      |
 
