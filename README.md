@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 1               |
-| Arrays              | 20              |
+| Arrays              | 21              |
 | Hashing             | 2               |
 | Two Pointers        | 30              |
 | Sliding Window      | 0               |
@@ -41,6 +41,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:----:|:--------|:-----------------------------|:----------|
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
+|  66  | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java) |
 |  67  | [Add Binary](https://leetcode.com/problems/add-binary/) | String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java) |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
@@ -102,6 +103,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 
 ### 📦 Arrays
+- [Plus One](https://leetcode.com/problems/plus-one/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
@@ -211,7 +213,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 19     |
+| Easy | 20     |
 | Medium | 19     |
 | Hard | 0      |
 
