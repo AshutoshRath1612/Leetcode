@@ -16,7 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 3               |
-| Arrays              | 23              |
+| Arrays              | 24              |
+| Matrix              | 1               |
 | Hashing             | 2               |
 | Two Pointers        | 31              |
 | Sliding Window      | 0               |
@@ -54,6 +55,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q485_MaxConsecutiveOnes.java) |
 | 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
 | 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q844_BackspaceStringCompare.java) |
+| 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Array, Matrix                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q867_TransposeMatrix.java) |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java) |
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
@@ -123,6 +125,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -132,6 +135,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+### 🏁 Matrix
+- [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 
 ### 🔑 Hashing
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -223,7 +229,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 22     |
+| Easy | 23     |
 | Medium | 20     |
 | Hard | 0      |
 
