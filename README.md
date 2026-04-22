@@ -15,12 +15,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 2               |
+| Maths               | 3               |
 | Arrays              | 22              |
 | Hashing             | 2               |
 | Two Pointers        | 30              |
 | Sliding Window      | 0               |
-| String              | 14              |
+| String              | 15              |
 | Linked List         | 4               |
 | Stack               | 2               |
 | Greedy              | 3               |
@@ -73,6 +73,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java) |
 |  18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java) |
+|  43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | String, Maths                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q43_MultiplyStrings.java) |
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java) |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
@@ -102,6 +103,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 📐 Maths
 - [Happy Number](https://leetcode.com/problems/happy-number/)
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 ### 📦 Arrays
@@ -176,6 +178,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 💲Strings
 - [Add Binary](https://leetcode.com/problems/add-binary/)
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
@@ -217,7 +220,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 21     |
-| Medium | 19     |
+| Medium | 20     |
 | Hard | 0      |
 
 ---
