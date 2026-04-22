@@ -15,8 +15,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 1               |
-| Arrays              | 21              |
+| Maths               | 2               |
+| Arrays              | 22              |
 | Hashing             | 2               |
 | Two Pointers        | 30              |
 | Sliding Window      | 0               |
@@ -41,7 +41,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:----:|:--------|:-----------------------------|:----------|
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
-|  66  | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java) |
+|  66  | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java) |
 |  67  | [Add Binary](https://leetcode.com/problems/add-binary/) | String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java) |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
@@ -56,6 +56,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java) |
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
+| 989  | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Array, Math                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q989_AddToArrayFormOfInteger.java) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java) |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Array, String, Stack         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Array                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java) |
@@ -101,6 +102,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 📐 Maths
 - [Happy Number](https://leetcode.com/problems/happy-number/)
+- [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 ### 📦 Arrays
 - [Plus One](https://leetcode.com/problems/plus-one/)
@@ -123,6 +125,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+- [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
@@ -213,7 +216,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 20     |
+| Easy | 21     |
 | Medium | 19     |
 | Hard | 0      |
 
