@@ -16,15 +16,15 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 3               |
-| Arrays              | 22              |
+| Arrays              | 23              |
 | Hashing             | 2               |
-| Two Pointers        | 30              |
+| Two Pointers        | 31              |
 | Sliding Window      | 0               |
 | String              | 15              |
 | Linked List         | 4               |
 | Stack               | 2               |
 | Greedy              | 3               |
-| Sorting             | 6               |
+| Sorting             | 7               |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -43,6 +43,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
 |  66  | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java) |
 |  67  | [Add Binary](https://leetcode.com/problems/add-binary/) | String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java) |
+|  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array, Two Pointer, Sorting  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q88_MergeSortedArray.java) |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
@@ -110,6 +111,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Plus One](https://leetcode.com/problems/plus-one/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -145,6 +147,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -204,6 +207,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
@@ -219,7 +223,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 21     |
+| Easy | 22     |
 | Medium | 20     |
 | Hard | 0      |
 
