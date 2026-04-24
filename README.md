@@ -15,8 +15,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 3               |
-| Arrays              | 24              |
+| Maths               | 4               |
+| Arrays              | 25              |
 | Matrix              | 1               |
 | Hashing             | 2               |
 | Two Pointers        | 31              |
@@ -46,6 +46,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  67  | [Add Binary](https://leetcode.com/problems/add-binary/) | String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java) |
 |  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array, Two Pointer, Sorting  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q88_MergeSortedArray.java) |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Array, Maths                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java) |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
@@ -107,6 +108,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 📐 Maths
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 ### 📦 Arrays
@@ -115,6 +117,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
@@ -230,7 +233,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 23     |
-| Medium | 20     |
+| Medium | 21     |
 | Hard | 0      |
 
 ---
