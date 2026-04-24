@@ -15,9 +15,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 4               |
-| Arrays              | 25              |
-| Matrix              | 1               |
+| Maths               | 5               |
+| Arrays              | 26              |
+| Matrix              | 2               |
 | Hashing             | 2               |
 | Two Pointers        | 31              |
 | Sliding Window      | 0               |
@@ -78,6 +78,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  18  | [4Sum](https://leetcode.com/problems/4sum/) | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java) |
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java) |
 |  43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | String, Maths                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q43_MultiplyStrings.java) |
+|  48  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array, Maths, Matrix                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q48_RotateImage.java) |
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java) |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
@@ -109,6 +110,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 ### 📦 Arrays
@@ -116,6 +118,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -141,6 +144,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/)
 
 ### 🔑 Hashing
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -233,7 +237,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 23     |
-| Medium | 21     |
+| Medium | 22     |
 | Hard | 0      |
 
 ---
