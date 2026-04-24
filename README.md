@@ -16,13 +16,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 5               |
-| Arrays              | 27              |
-| Matrix              | 3               |
+| Arrays              | 28              |
+| Matrix              | 4               |
 | Hashing             | 2               |
 | Two Pointers        | 31              |
 | Sliding Window      | 0               |
 | String              | 15              |
-| Linked List         | 4               |
+| Linked List         | 5               |
 | Stack               | 2               |
 | Greedy              | 3               |
 | Sorting             | 7               |
@@ -79,7 +79,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java) |
 |  43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | String, Maths                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q43_MultiplyStrings.java) |
 |  48  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array, Maths, Matrix                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q48_RotateImage.java) |
-|  54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q54_SpiralMatrix.java) |
+|  54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q54_SpiralMatrix.java) |
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java) |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
@@ -90,6 +90,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java) |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                            | Two Pointers, Linked List            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java) |
+| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                            | Array, Linked List, Matrix           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                            | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java) |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                            | Stack, String                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                            | Two Pointers, Greedy, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java) |
@@ -141,6 +142,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
@@ -148,6 +150,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 
 ### 🔑 Hashing
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -157,6 +160,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ### 👣 Two Pointers
@@ -240,7 +244,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 23     |
-| Medium | 23     |
+| Medium | 24     |
 | Hard | 0      |
 
 ---
