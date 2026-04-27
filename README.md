@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 5               |
-| Arrays              | 32              |
+| Arrays              | 33              |
 | Prefix Sum          | 1               |
 | Matrix              | 7               |
 | Hashing             | 2               |
@@ -93,6 +93,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java) |
 | 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                           | Array, Matrix                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q498_DiagonalTraverse.java) |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java) |
+| 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                            | Array | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java) |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                            | Array, Two Pointers, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                            | Two Pointers, Linked List            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java) |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                            | Array, Linked List, Matrix           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java) |
@@ -135,6 +136,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+- [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
@@ -259,7 +261,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 23     |
-| Medium | 28     |
+| Medium | 29     |
 | Hard | 0      |
 
 ---
