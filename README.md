@@ -16,7 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 5               |
-| Arrays              | 31              |
+| Arrays              | 32              |
+| Prefix Sum          | 1               |
 | Matrix              | 7               |
 | Hashing             | 2               |
 | Two Pointers        | 31              |
@@ -86,6 +87,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java) |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array, Two Pointers                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java) |
+| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Array, Prefix Sum                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q238_ProductExceptSelf.java) |
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                           | Array, Two Pointers, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java) |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java) |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                           | Two Pointers, String                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java) |
@@ -131,6 +133,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
@@ -151,6 +154,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+### 🔢Prefix Sum
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -253,7 +259,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:----------|:-------|
 | Easy | 23     |
-| Medium | 27     |
+| Medium | 28     |
 | Hard | 0      |
 
 ---
