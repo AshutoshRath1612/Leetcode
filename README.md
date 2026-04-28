@@ -19,14 +19,14 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Arrays              | 34              |
 | Prefix Sum          | 1               |
 | Matrix              | 7               |
-| Hashing             | 3               |
+| Hashing             | 4               |
 | Two Pointers        | 31              |
 | Sliding Window      | 0               |
-| String              | 15              |
+| String              | 16              |
 | Linked List         | 5               |
 | Stack               | 2               |
 | Greedy              | 3               |
-| Sorting             | 7               |
+| Sorting             | 8               |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -50,6 +50,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Array, Maths                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java) |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Arrays, Hashing, Sorting     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q242_ValidAnagram.java) |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers, String         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java) |
@@ -127,6 +128,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Plus One](https://leetcode.com/problems/plus-one/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
@@ -173,6 +175,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔑 Hashing
 - [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
@@ -248,6 +251,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
@@ -263,7 +267,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 24     |
+| Easy | 25     |
 | Medium | 29     |
 | Hard | 0      |
 
