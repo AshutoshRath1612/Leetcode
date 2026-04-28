@@ -16,10 +16,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 5               |
-| Arrays              | 33              |
+| Arrays              | 34              |
 | Prefix Sum          | 1               |
 | Matrix              | 7               |
-| Hashing             | 2               |
+| Hashing             | 3               |
 | Two Pointers        | 31              |
 | Sliding Window      | 0               |
 | String              | 15              |
@@ -41,6 +41,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 |  #   | Problem | Tags                         | Solution |
 |:----:|:--------|:-----------------------------|:----------|
+|  1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, Hashing              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1_TwoSum.java) |
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
 |  66  | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java) |
@@ -122,6 +123,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 ### 📦 Arrays
+- [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Plus One](https://leetcode.com/problems/plus-one/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
@@ -170,6 +172,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 
 ### 🔑 Hashing
+- [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
@@ -260,7 +263,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:----------|:-------|
-| Easy | 23     |
+| Easy | 24     |
 | Medium | 29     |
 | Hard | 0      |
 
