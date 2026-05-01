@@ -15,9 +15,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 8               |
-| Arrays              | 40              |
-| Prefix Sum          | 3               |
+| Maths               | 9               |
+| Arrays              | 41              |
+| Prefix Sum          | 4               |
 | Matrix              | 7               |
 | Hashing             | 10              |
 | Two Pointers        | 31              |
@@ -105,6 +105,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                           | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                      | Array, Two Pointers, Greedy, Sorting    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                   | Array, Maths, Prefix Sum                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)               | Two Pointers, Linked List               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                             | Array, Linked List, Matrix              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
@@ -132,6 +133,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 ### 📦 Arrays
@@ -163,6 +165,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
@@ -182,6 +185,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -307,7 +311,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 25     |
-| Medium     | 36     |
+| Medium     | 37     |
 | Hard       | 0      |
 
 ---
