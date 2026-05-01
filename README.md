@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 8               |
-| Arrays              | 38              |
-| Prefix Sum          | 1               |
+| Arrays              | 39              |
+| Prefix Sum          | 2               |
 | Matrix              | 7               |
 | Hashing             | 10              |
 | Two Pointers        | 31              |
-| Sliding Window      | 2               |
+| Sliding Window      | 3               |
 | String              | 19              |
 | Linked List         | 5               |
 | Stack               | 2               |
@@ -92,6 +92,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
+| 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q238_ProductExceptSelf.java)                |
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                     | Array, Two Pointers, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java)                      |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java)              |
@@ -145,6 +146,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -176,6 +178,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -242,6 +245,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ### 💲Strings
 
@@ -299,7 +303,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 25     |
-| Medium     | 34     |
+| Medium     | 35     |
 | Hard       | 0      |
 
 ---
