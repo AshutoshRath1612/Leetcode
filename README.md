@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 8               |
-| Arrays              | 39              |
-| Prefix Sum          | 2               |
+| Arrays              | 40              |
+| Prefix Sum          | 3               |
 | Matrix              | 7               |
 | Hashing             | 10              |
 | Two Pointers        | 31              |
-| Sliding Window      | 3               |
+| Sliding Window      | 4               |
 | String              | 19              |
 | Linked List         | 5               |
 | Stack               | 2               |
@@ -104,6 +104,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
 | 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                           | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                      | Array, Two Pointers, Greedy, Sorting    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)               | Two Pointers, Linked List               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                             | Array, Linked List, Matrix              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
@@ -150,6 +151,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
@@ -179,6 +181,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -246,6 +249,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 ### 💲Strings
 
@@ -303,7 +307,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 25     |
-| Medium     | 35     |
+| Medium     | 36     |
 | Hard       | 0      |
 
 ---
