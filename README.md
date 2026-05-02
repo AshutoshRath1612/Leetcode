@@ -16,17 +16,17 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 9               |
-| Arrays              | 41              |
-| Prefix Sum          | 4               |
+| Arrays              | 42              |
+| Prefix Sum          | 5               |
 | Matrix              | 7               |
 | Hashing             | 10              |
 | Two Pointers        | 31              |
-| Sliding Window      | 4               |
+| Sliding Window      | 5               |
 | String              | 19              |
 | Linked List         | 5               |
 | Stack               | 2               |
-| Greedy              | 4               |
-| Sorting             | 12              |
+| Greedy              | 5               |
+| Sorting             | 13              |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -73,44 +73,45 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🟡 Medium
 
-|  #   | Problem                                                                                                                         | Tags                                    | Solution                                                                                                      |
-|:----:|:--------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|:--------------------------------------------------------------------------------------------------------------|
-|  3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Hashing, String, Sliding Window         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3_LongestSubstringWithoutRepeating.java)   |
-|  5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | String, Two Pointer                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q5_LongestPalindromeSubstring.java)         |
-|  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Array, Two Pointers, Greedy             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java)            |
-|  15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | Array, Two Pointers, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java)                              |
-|  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                     | Array, Two Pointers, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java)                      |
-|  18  | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     | Array, Two Pointers, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java)                              |
-|  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Linked List, Two Pointers               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java)              |
-|  43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                             | String, Maths                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q43_MultiplyStrings.java)                   |
-|  48  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | Array, Maths, Matrix                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q48_RotateImage.java)                       |
-|  49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Array, Hashing, String, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q49_GroupAnagram.java)                      |
-|  54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                   | Arrays, Matrix                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q54_SpiralMatrix.java)                      |
-|  59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                             | Arrays, Matrix                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q59_SpiralMatrixII.java)                    |
-|  73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           | Array, Matrix                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q73_SetMatrixZeroes.java)                   |
-|  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                                             | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java)                        |
-|  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
-| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
-| 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
-| 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
-| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q238_ProductExceptSelf.java)                |
-| 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                     | Array, Two Pointers, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java)                      |
-| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java)              |
-| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | Array, Hashing, Maths, Sorting          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q347_TopKFrequentElement.java)              |
-| 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                         | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java)                |
-| 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                     | Maths, Hashing, String, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q451_SortCharacterByFrequency.java)         |
-| 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                           | Array, Matrix                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q498_DiagonalTraverse.java)                 |
-| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                 | Arrays, Maths, Hashing, Greedy, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q621_TaskScheduler.java)                    |
-| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
-| 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                           | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
-| 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                      | Array, Two Pointers, Greedy, Sorting    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
-| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
-| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                   | Array, Maths, Prefix Sum                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
-| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)               | Two Pointers, Linked List               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
-| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                             | Array, Linked List, Matrix              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
-| 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
-| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                     | Stack, String                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
-| 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                 | Two Pointers, Greedy, String            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
+|  #   | Problem                                                                                                                         | Tags                                               | Solution                                                                                                      |
+|:----:|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
+|  3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3_LongestSubstringWithoutRepeating.java)   |
+|  5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | String, Two Pointer                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q5_LongestPalindromeSubstring.java)         |
+|  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Array, Two Pointers, Greedy                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java)            |
+|  15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java)                              |
+|  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java)                      |
+|  18  | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java)                              |
+|  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java)              |
+|  43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                             | String, Maths                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q43_MultiplyStrings.java)                   |
+|  48  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | Array, Maths, Matrix                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q48_RotateImage.java)                       |
+|  49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Array, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q49_GroupAnagram.java)                      |
+|  54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                   | Arrays, Matrix                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q54_SpiralMatrix.java)                      |
+|  59  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                             | Arrays, Matrix                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q59_SpiralMatrixII.java)                    |
+|  73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q73_SetMatrixZeroes.java)                   |
+|  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                                             | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java)                        |
+|  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
+| 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
+| 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
+| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Array, Prefix Sum                                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q238_ProductExceptSelf.java)                |
+| 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java)                      |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java)              |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | Array, Hashing, Maths, Sorting                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q347_TopKFrequentElement.java)              |
+| 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java)                |
+| 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                     | Maths, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q451_SortCharacterByFrequency.java)         |
+| 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                           | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q498_DiagonalTraverse.java)                 |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                 | Arrays, Maths, Hashing, Greedy, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q621_TaskScheduler.java)                    |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
+| 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                           | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
+| 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                      | Array, Two Pointers, Greedy, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                   | Array, Maths, Prefix Sum                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
+| 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)                 | Array, Sliding Window, Greedy, Sorting, Prefix Sum | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1838_FrequencyOfMostFrequentElement.java)  |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)               | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
+| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                             | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
+| 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
+| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                     | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
+| 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                 | Two Pointers, Greedy, String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
 
 
 ---
@@ -153,6 +154,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -185,6 +187,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 
 ### 🏁 Matrix
@@ -253,6 +256,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 ### 💲Strings
@@ -285,6 +289,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 
 ### 🧩 Sorting
@@ -294,6 +299,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
@@ -311,7 +317,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 25     |
-| Medium     | 37     |
+| Medium     | 38     |
 | Hard       | 0      |
 
 ---
