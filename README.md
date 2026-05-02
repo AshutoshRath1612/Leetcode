@@ -15,8 +15,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 9               |
-| Arrays              | 42              |
+| Maths               | 10              |
+| Arrays              | 43              |
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
 | Hashing             | 10              |
@@ -26,7 +26,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Linked List         | 5               |
 | Stack               | 2               |
 | Greedy              | 5               |
-| Sorting             | 13              |
+| Sorting             | 14              |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -39,35 +39,36 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🟢 Easy
 
-|  #   | Problem | Tags                           | Solution |
-|:----:|:--------|:-------------------------------|:----------|
-|  1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, Hashing                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1_TwoSum.java) |
+|  #   | Problem                                                                                                   | Tags                           | Solution                                                                                                   |
+|:----:|:----------------------------------------------------------------------------------------------------------|:-------------------------------|:-----------------------------------------------------------------------------------------------------------|
+|  1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | Arrays, Hashing                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1_TwoSum.java)                          |
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java) |
-|  27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java) |
-|  66  | [Plus One](https://leetcode.com/problems/plus-one/) | Arrays                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java) |
-|  67  | [Add Binary](https://leetcode.com/problems/add-binary/) | String                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java) |
-|  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array, Two Pointer, Sorting    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q88_MergeSortedArray.java) |
-| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java) |
-| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Array, Maths                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java) |
-| 202  | [Happy Number](https://leetcode.com/problems/happy-number/) | Maths, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java) |
-| 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Array, Hashing, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q219_ContainsDuplicateII.java) |
-| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Arrays, Hashing, Sorting       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q242_ValidAnagram.java) |
-| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java) |
-| 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java) |
-| 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java) |
-| 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Array, Two Pointers, Hashing   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q349_IntersectionOfTwoArrays.java) |
-| 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q392_IsSubsequence.java) |
-| 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q485_MaxConsecutiveOnes.java) |
-| 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java) |
-| 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q844_BackspaceStringCompare.java) |
-| 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Array, Matrix                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q867_TransposeMatrix.java) |
-| 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java) |
-| 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Array, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java) |
-| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array, Two Pointers, Sorting   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java) |
-| 989  | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Array, Math                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q989_AddToArrayFormOfInteger.java) |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java) |
-| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java) |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java) |
+|  27  | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java)                 |
+|  66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | Arrays                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java)                        |
+|  67  | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   | String                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java)                      |
+|  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | Array, Two Pointer, Sorting    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q88_MergeSortedArray.java)               |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java)               |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | Array, Maths                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java)                   |
+| 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                               | Maths, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java)                   |
+| 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                             | Array, Hashing, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q219_ContainsDuplicateII.java)           |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                             | Arrays, Hashing, Sorting       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q242_ValidAnagram.java)                  |
+| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                 | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java)                    |
+| 286  | [Missing Number](https://leetcode.com/problems/missing-number/)                                           | Arrays, Maths, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q268_MissingNumber.java)                 |
+| 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                           | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java)                 |
+| 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                   | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java)                 |
+| 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                   | Array, Two Pointers, Hashing   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q349_IntersectionOfTwoArrays.java)       |
+| 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                           | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q392_IsSubsequence.java)                 |
+| 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                               | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q485_MaxConsecutiveOnes.java)            |
+| 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                     | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java)               |
+| 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                       | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q844_BackspaceStringCompare.java)        |
+| 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                       | Array, Matrix                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q867_TransposeMatrix.java)               |
+| 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                     | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java)            |
+| 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                               | Array, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java)             |
+| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                     | Array, Two Pointers, Sorting   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java)               |
+| 989  | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)               | Array, Math                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q989_AddToArrayFormOfInteger.java)       |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java)                 |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                   | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)             |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                           | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)         |
 
 ---
 
@@ -130,6 +131,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -145,6 +147,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -298,6 +301,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -316,7 +320,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 25     |
+| Easy       | 26     |
 | Medium     | 38     |
 | Hard       | 0      |
 
