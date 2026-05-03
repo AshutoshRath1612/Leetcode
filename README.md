@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 32              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 6               |
+| Linked List         | 7               |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 17              |
@@ -42,6 +42,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  #   | Problem                                                                                                             | Tags                           | Solution                                                                                                      |
 |:----:|:--------------------------------------------------------------------------------------------------------------------|:-------------------------------|:--------------------------------------------------------------------------------------------------------------|
 |  1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                   | Arrays, Hashing                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1_TwoSum.java)                             |
+|  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                     | Linked List                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q21_MergeTwoSortedLists.java)               |
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)           | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q26_RemoveDuplicateFromSortedArray.java)    |
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element/)                                                     | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java)                    |
 |  66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                                 | Arrays                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java)                           |
@@ -223,6 +224,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ### 📃 Linked List
+
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
@@ -333,7 +336,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 26     |
+| Easy       | 27     |
 | Medium     | 40     |
 | Hard       | 1      |
 
