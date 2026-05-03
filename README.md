@@ -23,10 +23,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 32              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 7               |
+| Linked List         | 8               |
 | Stack               | 2               |
 | Greedy              | 5               |
-| Sorting             | 17              |
+| Sorting             | 18              |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -125,6 +125,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | #  | Problem                                                                         | Tags                     | Solution                                                                                         |
 |:--:|:--------------------------------------------------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
 
 ---
@@ -226,6 +227,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 📃 Linked List
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
@@ -315,6 +317,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
@@ -338,7 +341,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:-----------|:-------|
 | Easy       | 27     |
 | Medium     | 40     |
-| Hard       | 1      |
+| Hard       | 2      |
 
 ---
 
