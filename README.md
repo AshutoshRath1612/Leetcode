@@ -16,17 +16,17 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 10              |
-| Arrays              | 44              |
+| Arrays              | 45              |
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
-| Hashing             | 10              |
+| Hashing             | 11              |
 | Two Pointers        | 31              |
 | Sliding Window      | 5               |
 | String              | 19              |
 | Linked List         | 5               |
 | Stack               | 2               |
 | Greedy              | 5               |
-| Sorting             | 15              |
+| Sorting             | 16              |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -99,6 +99,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java)                      |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java)              |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | Array, Hashing, Maths, Sorting                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q347_TopKFrequentElement.java)              |
+| 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                               | Arrays, Hashing, Sorting                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q442_FindAllDuplicateInAnArray.java)        |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java)                |
 | 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                     | Maths, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q451_SortCharacterByFrequency.java)         |
 | 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                           | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q498_DiagonalTraverse.java)                 |
@@ -150,6 +151,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -210,6 +212,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -304,6 +307,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
@@ -324,7 +328,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 26     |
-| Medium     | 38     |
+| Medium     | 39     |
 | Hard       | 0      |
 
 ---
