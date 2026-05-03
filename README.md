@@ -16,17 +16,17 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 10              |
-| Arrays              | 45              |
+| Arrays              | 46              |
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
-| Hashing             | 11              |
+| Hashing             | 12              |
 | Two Pointers        | 31              |
 | Sliding Window      | 5               |
 | String              | 19              |
 | Linked List         | 5               |
 | Stack               | 2               |
 | Greedy              | 5               |
-| Sorting             | 16              |
+| Sorting             | 17              |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -121,9 +121,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔴 Hard
 
-| # | Problem | Tags | Solution |
-|:-:|:--------|:------|:----------|
-|  |  |  |  |
+| #  | Problem                                                                         | Tags                     | Solution                                                                                         |
+|:--:|:--------------------------------------------------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------------|
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
 
 ---
 
@@ -146,6 +146,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Plus One](https://leetcode.com/problems/plus-one/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
@@ -210,6 +211,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
@@ -305,6 +307,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
@@ -329,7 +332,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:-----------|:-------|
 | Easy       | 26     |
 | Medium     | 39     |
-| Hard       | 0      |
+| Hard       | 1      |
 
 ---
 
