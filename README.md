@@ -20,10 +20,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
 | Hashing             | 12              |
-| Two Pointers        | 31              |
+| Two Pointers        | 32              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 5               |
+| Linked List         | 6               |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 17              |
@@ -92,6 +92,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q73_SetMatrixZeroes.java)                   |
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                                             | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java)                        |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
+|  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                   | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q82_RemoveDuplicateFromSortedListII.java)   |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
@@ -225,6 +226,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
@@ -236,6 +238,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
@@ -331,7 +334,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 26     |
-| Medium     | 39     |
+| Medium     | 40     |
 | Hard       | 1      |
 
 ---
