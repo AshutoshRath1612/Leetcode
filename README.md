@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 33              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 10              |
+| Linked List         | 11              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -47,6 +47,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element/)                                                     | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q27_RemoveElements.java)                    |
 |  66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                                 | Arrays                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q66_PlusOne.java)                           |
 |  67  | [Add Binary](https://leetcode.com/problems/add-binary/)                                                             | String                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java)                         |
+|  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                             | Linked List                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q83_RemoveDuplicateFromSortedList.java)                  |
 |  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                             | Array, Two Pointer, Sorting    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q88_MergeSortedArray.java)                  |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                               | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java)                  |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                         | Array, Maths                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java)                      |
@@ -230,6 +231,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -344,7 +346,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 29     |
+| Easy       | 30     |
 | Medium     | 40     |
 | Hard       | 2      |
 
