@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 33              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 9               |
+| Linked List         | 10              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -51,6 +51,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                               | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java)                  |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                         | Array, Maths                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java)                      |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                         | Maths, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java)                      |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                         | Linked List                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q206_ReverseLinkedList.java)                      |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                       | Array, Hashing, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q219_ContainsDuplicateII.java)              |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                       | Arrays, Hashing, Sorting       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q242_ValidAnagram.java)                     |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                           | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java)                       |
@@ -229,6 +230,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -342,7 +344,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 28     |
+| Easy       | 29     |
 | Medium     | 40     |
 | Hard       | 2      |
 
