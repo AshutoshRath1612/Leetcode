@@ -20,10 +20,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
 | Hashing             | 12              |
-| Two Pointers        | 32              |
+| Two Pointers        | 33              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 8               |
+| Linked List         | 9               |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -97,6 +97,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                     | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q234_PalindromeLinkedList.java)                |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Array, Prefix Sum                                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q238_ProductExceptSelf.java)                |
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java)                      |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java)              |
@@ -228,6 +229,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
@@ -243,6 +245,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
@@ -339,7 +342,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 27     |
+| Easy       | 28     |
 | Medium     | 40     |
 | Hard       | 2      |
 
