@@ -16,13 +16,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 10              |
-| Arrays              | 46              |
+| Arrays              | 47              |
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
-| Hashing             | 12              |
+| Hashing             | 13              |
 | Two Pointers        | 34              |
 | Sliding Window      | 5               |
-| String              | 19              |
+| String              | 20              |
 | Linked List         | 14              |
 | Stack               | 2               |
 | Greedy              | 5               |
@@ -65,6 +65,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Array,Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q448_FindAllNumbersDisappearedInArray.java) |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                         | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q485_MaxConsecutiveOnes.java)               |
 | 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                               | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java)                  |
+| 599  | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                               | Arrays, Hashing, String        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q599_MinimumIndexSumOfTwoList.java)                  |
 | 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                 | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q844_BackspaceStringCompare.java)           |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                                 | Array, Matrix                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q867_TransposeMatrix.java)                  |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                               | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java)               |
@@ -166,6 +167,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+- [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
@@ -223,6 +225,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
@@ -300,6 +303,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
@@ -353,7 +357,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 31     |
+| Easy       | 32     |
 | Medium     | 41     |
 | Hard       | 3      |
 
