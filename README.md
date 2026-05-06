@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 33              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 12              |
+| Linked List         | 13              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -130,6 +130,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | #  | Problem                                                                         | Tags                     | Solution                                                                                         |
 |:--:|:--------------------------------------------------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------------|
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
 
 ---
@@ -231,6 +232,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 📃 Linked List
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
@@ -349,8 +351,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 30     |
-| Medium     | 40     |
-| Hard       | 2      |
+| Medium     | 41     |
+| Hard       | 3      |
 
 ---
 
