@@ -20,10 +20,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
 | Hashing             | 12              |
-| Two Pointers        | 33              |
+| Two Pointers        | 34              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 13              |
+| Linked List         | 14              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -50,6 +50,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                             | Linked List                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q83_RemoveDuplicateFromSortedList.java)                  |
 |  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                             | Array, Two Pointer, Sorting    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q88_MergeSortedArray.java)                  |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                               | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java)                  |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                               | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q160_IntersectionOfLinkedList.java)                  |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                         | Array, Maths                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java)                      |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                         | Maths, Two Pointers            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q202_HappyNumber.java)                      |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                         | Linked List                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q206_ReverseLinkedList.java)                      |
@@ -235,6 +236,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
@@ -253,6 +255,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [3Sum](https://leetcode.com/problems/3sum/)
@@ -350,7 +353,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 30     |
+| Easy       | 31     |
 | Medium     | 41     |
 | Hard       | 3      |
 
