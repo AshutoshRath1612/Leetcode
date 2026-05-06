@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 33              |
 | Sliding Window      | 5               |
 | String              | 19              |
-| Linked List         | 11              |
+| Linked List         | 12              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -96,6 +96,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                                             | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java)                        |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                   | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q82_RemoveDuplicateFromSortedListII.java)   |
+|  92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                   | Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q92_ReverseLinkedListII.java)   |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
@@ -231,6 +232,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
