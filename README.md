@@ -15,7 +15,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 11              |
+| Maths               | 12              |
 | Arrays              | 47              |
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 34              |
 | Sliding Window      | 5               |
 | String              | 20              |
-| Linked List         | 15              |
+| Linked List         | 16              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -108,6 +108,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 259  | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q259_3SumSmaller.java)                      |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q287_FindDuplicateNumber.java)              |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | Array, Hashing, Maths, Sorting                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q347_TopKFrequentElement.java)              |
+| 369  | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)                                               | Linked List, Maths                                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q369_PlusOneLinkedList.java)              |
 | 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                               | Arrays, Hashing, Sorting                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q442_FindAllDuplicateInAnArray.java)        |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java)                |
 | 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                     | Maths, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q451_SortCharacterByFrequency.java)         |
@@ -143,6 +144,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 📐 Maths
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
+- [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
@@ -243,6 +245,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
@@ -361,7 +364,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 32     |
-| Medium     | 42     |
+| Medium     | 43     |
 | Hard       | 3      |
 
 ---
