@@ -15,7 +15,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 10              |
+| Maths               | 11              |
 | Arrays              | 47              |
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 34              |
 | Sliding Window      | 5               |
 | String              | 20              |
-| Linked List         | 14              |
+| Linked List         | 15              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -82,6 +82,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 |  #   | Problem                                                                                                                         | Tags                                               | Solution                                                                                                      |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
+|  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List, Maths                                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2_AddTwoNumbers.java)   |
 |  3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3_LongestSubstringWithoutRepeating.java)   |
 |  5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | String, Two Pointer                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q5_LongestPalindromeSubstring.java)         |
 |  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Array, Two Pointers, Greedy                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java)            |
@@ -98,7 +99,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                                             | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java)                        |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                   | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q82_RemoveDuplicateFromSortedListII.java)   |
-|  92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                   | Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q92_ReverseLinkedListII.java)   |
+|  92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                   | Linked List                                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q92_ReverseLinkedListII.java)   |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
@@ -140,6 +141,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ## 🧠 Topic-wise Breakdown
 
 ### 📐 Maths
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
@@ -235,6 +237,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 📃 Linked List
 
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
@@ -358,7 +361,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 32     |
-| Medium     | 41     |
+| Medium     | 42     |
 | Hard       | 3      |
 
 ---
