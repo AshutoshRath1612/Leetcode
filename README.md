@@ -23,7 +23,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Two Pointers        | 35              |
 | Sliding Window      | 5               |
 | String              | 20              |
-| Linked List         | 18              |
+| Linked List         | 19              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -90,6 +90,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java)                      |
 |  18  | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java)                              |
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java)              |
+|  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                             | Linked List                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q24_SwapsNodesInPairs.java)              |
 |  43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                             | String, Maths                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q43_MultiplyStrings.java)                   |
 |  48  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | Array, Maths, Matrix                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q48_RotateImage.java)                       |
 |  49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Array, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q49_GroupAnagram.java)                      |
@@ -245,6 +246,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
@@ -369,7 +371,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 32     |
-| Medium     | 45     |
+| Medium     | 46     |
 | Hard       | 3      |
 
 ---
