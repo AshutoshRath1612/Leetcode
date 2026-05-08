@@ -20,10 +20,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
 | Hashing             | 13              |
-| Two Pointers        | 35              |
+| Two Pointers        | 36              |
 | Sliding Window      | 5               |
 | String              | 20              |
-| Linked List         | 19              |
+| Linked List         | 20              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -100,6 +100,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  75  | [Sort Colors](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                                             | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q75_SortColors.java)                        |
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                   | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q82_RemoveDuplicateFromSortedListII.java)   |
+|  86  | [Partition List](https://leetcode.com/problems/partition-list/)                   | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q86_PartitionList.java)   |
 |  92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                   | Linked List                                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q92_ReverseLinkedListII.java)   |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)                                           | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q143_ReorderList.java)            |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
@@ -244,6 +245,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Partition List](https://leetcode.com/problems/partition-list/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
@@ -271,6 +273,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Partition List](https://leetcode.com/problems/partition-list/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
@@ -371,7 +374,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 32     |
-| Medium     | 46     |
+| Medium     | 47     |
 | Hard       | 3      |
 
 ---
