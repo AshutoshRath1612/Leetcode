@@ -20,10 +20,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Prefix Sum          | 5               |
 | Matrix              | 7               |
 | Hashing             | 13              |
-| Two Pointers        | 34              |
+| Two Pointers        | 35              |
 | Sliding Window      | 5               |
 | String              | 20              |
-| Linked List         | 17              |
+| Linked List         | 18              |
 | Stack               | 2               |
 | Greedy              | 5               |
 | Sorting             | 18              |
@@ -100,6 +100,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)                  | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q80_RemoveDuplicatesFromSortedArrayII.java) |
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                   | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q82_RemoveDuplicateFromSortedListII.java)   |
 |  92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                   | Linked List                                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q92_ReverseLinkedListII.java)   |
+| 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)                                           | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q143_ReorderList.java)            |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q151_ReverseWordsInStrings.java)            |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Array, Two Pointers                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q167_TwoSumII.java)                         |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Array, Prefix Sum, Sliding Window                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q209_MinimumSizeSubArraySum.java)           |
@@ -246,6 +247,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
@@ -267,6 +269,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Happy Number](https://leetcode.com/problems/happy-number/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [3Sum](https://leetcode.com/problems/3sum/)
@@ -366,7 +369,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 32     |
-| Medium     | 44     |
+| Medium     | 45     |
 | Hard       | 3      |
 
 ---
