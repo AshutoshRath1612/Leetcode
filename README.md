@@ -16,9 +16,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 47              |
+| Arrays              | 48              |
 | Prefix Sum          | 5               |
-| Matrix              | 7               |
+| Matrix              | 8               |
 | Hashing             | 13              |
 | Two Pointers        | 37              |
 | Sliding Window      | 5               |
@@ -125,6 +125,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                   | Array, Maths, Prefix Sum                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)                 | Array, Sliding Window, Greedy, Sorting, Prefix Sum | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1838_FrequencyOfMostFrequentElement.java)  |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)                 | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1914_CyclicallyRotatingAGrid.java)  |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)               | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                             | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
@@ -186,6 +187,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
@@ -225,6 +227,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
+- [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)
 - [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 
 ### 🔑 Hashing
@@ -377,7 +380,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 32     |
-| Medium     | 48     |
+| Medium     | 49     |
 | Hard       | 3      |
 
 ---
