@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 50              |
+| Arrays              | 51              |
 | Prefix Sum          | 5               |
 | Matrix              | 8               |
 | Hashing             | 14              |
 | Two Pointers        | 37              |
-| Sliding Window      | 6               |
+| Sliding Window      | 7               |
 | String              | 20              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -65,7 +65,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Array,Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q448_FindAllNumbersDisappearedInArray.java) |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                         | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q485_MaxConsecutiveOnes.java)               |
 | 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                               | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java)                  |
-| 599  | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                               | Arrays, Hashing, String        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q599_MinimumIndexSumOfTwoList.java)                  |
+| 599  | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                               | Arrays, Sliding Window         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q643_MaximumAverageSubarrayI.java)                  |
+| 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                               | Arrays, Hashing, String        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q599_MinimumIndexSumOfTwoList.java)                  |
 | 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                 | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q844_BackspaceStringCompare.java)           |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                                 | Array, Matrix                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q867_TransposeMatrix.java)                  |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                               | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java)               |
@@ -190,6 +191,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)
+- [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
@@ -319,6 +321,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 
@@ -386,7 +389,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 33     |
+| Easy       | 34     |
 | Medium     | 50     |
 | Hard       | 3      |
 
