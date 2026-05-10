@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 48              |
+| Arrays              | 49              |
 | Prefix Sum          | 5               |
 | Matrix              | 8               |
 | Hashing             | 13              |
@@ -24,7 +24,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Sliding Window      | 5               |
 | String              | 20              |
 | Linked List         | 21              |
-| Stack               | 2               |
+| Stack               | 3               |
 | Greedy              | 5               |
 | Sorting             | 18              |
 | Binary Search       | 0               |
@@ -131,6 +131,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                     | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                 | Two Pointers, Greedy, String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
+| 2985 | [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)                                 | Array, Stack                                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2985_CalculateCompressedMean.java)        |
 
 
 ---
@@ -209,6 +210,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)
 - [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
@@ -342,6 +344,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+- [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)
 
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -380,7 +383,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 32     |
-| Medium     | 49     |
+| Medium     | 50     |
 | Hard       | 3      |
 
 ---
