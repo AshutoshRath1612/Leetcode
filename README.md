@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 49              |
+| Arrays              | 50              |
 | Prefix Sum          | 5               |
 | Matrix              | 8               |
-| Hashing             | 13              |
+| Hashing             | 14              |
 | Two Pointers        | 37              |
-| Sliding Window      | 5               |
+| Sliding Window      | 6               |
 | String              | 20              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -75,6 +75,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                               | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java)                    |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                                     | Array, Hashing, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
 
 ---
 
@@ -214,6 +215,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+- [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -246,6 +248,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 
 ### 📃 Linked List
 
@@ -317,6 +320,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 
 ### 💲Strings
 
@@ -382,7 +386,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 32     |
+| Easy       | 33     |
 | Medium     | 50     |
 | Hard       | 3      |
 
