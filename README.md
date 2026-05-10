@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 51              |
+| Arrays              | 52              |
 | Prefix Sum          | 5               |
 | Matrix              | 8               |
 | Hashing             | 14              |
 | Two Pointers        | 37              |
-| Sliding Window      | 7               |
+| Sliding Window      | 8               |
 | String              | 20              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -60,6 +60,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 286  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                     | Arrays, Maths, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q268_MissingNumber.java)                    |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                     | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java)                    |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                             | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java)                    |
+| 346  | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)                             | Arrays, Sliding Window         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q346_MovingAverageFromDataStream.java)                    |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                             | Array, Two Pointers, Hashing   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q349_IntersectionOfTwoArrays.java)          |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                     | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q392_IsSubsequence.java)                    |
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Array,Sorting                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q448_FindAllNumbersDisappearedInArray.java) |
@@ -204,6 +205,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+- [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -321,6 +323,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
@@ -389,7 +392,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 34     |
+| Easy       | 35     |
 | Medium     | 50     |
 | Hard       | 3      |
 
