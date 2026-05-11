@@ -136,6 +136,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                     | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                 | Two Pointers, Greedy, String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
 | 2985 | [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)                                 | Array, Stack                                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2985_CalculateCompressedMean.java)        |
+| 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)                                 | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3254_FindPowerOfKSizeSubarraysI.java)        |
 
 
 ---
@@ -221,6 +222,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+- [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 
 ### 🔢Prefix Sum
@@ -329,6 +331,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
+- [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 
 ### 💲Strings
 
@@ -395,7 +398,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 36     |
-| Medium     | 50     |
+| Medium     | 51     |
 | Hard       | 3      |
 
 ---
