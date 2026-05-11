@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 52              |
+| Arrays              | 53              |
 | Prefix Sum          | 5               |
 | Matrix              | 8               |
 | Hashing             | 14              |
@@ -77,6 +77,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                               | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java)                    |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                                     | Array, Hashing, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
 
 ---
@@ -218,6 +219,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)
 - [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
+- [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 
@@ -392,7 +394,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 35     |
+| Easy       | 36     |
 | Medium     | 50     |
 | Hard       | 3      |
 
