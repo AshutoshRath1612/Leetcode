@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 53              |
+| Arrays              | 54              |
 | Prefix Sum          | 5               |
 | Matrix              | 8               |
 | Hashing             | 14              |
 | Two Pointers        | 37              |
-| Sliding Window      | 8               |
+| Sliding Window      | 9               |
 | String              | 20              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -128,6 +128,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                      | Array, Two Pointers, Greedy, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                   | Array, Maths, Prefix Sum                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                   | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1658_MinimumOperationsToReduceXToZero.java)              |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)                 | Array, Sliding Window, Greedy, Sorting, Prefix Sum | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1838_FrequencyOfMostFrequentElement.java)  |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)                 | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1914_CyclicallyRotatingAGrid.java)  |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)               | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
@@ -207,6 +208,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+- [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -330,6 +332,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 
@@ -398,7 +401,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 36     |
-| Medium     | 51     |
+| Medium     | 52     |
 | Hard       | 3      |
 
 ---
