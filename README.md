@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 55              |
+| Arrays              | 56              |
 | Prefix Sum          | 5               |
 | Matrix              | 8               |
 | Hashing             | 14              |
@@ -26,7 +26,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Linked List         | 21              |
 | Stack               | 3               |
 | Greedy              | 5               |
-| Sorting             | 18              |
+| Sorting             | 19              |
 | Binary Search       | 0               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -78,6 +78,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)                                     | Array, Sorting                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2784_CheckIfArrayIsGood.java)            |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                                     | Array, Hashing, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
 
 ---
@@ -212,6 +213,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+- [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -387,6 +389,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
@@ -403,7 +406,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 36     |
+| Easy       | 37     |
 | Medium     | 53     |
 | Hard       | 3      |
 
