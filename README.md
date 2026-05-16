@@ -16,8 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 56              |
-| Prefix Sum          | 5               |
+| Arrays              | 57              |
+| Prefix Sum          | 6               |
 | Matrix              | 8               |
 | Hashing             | 14              |
 | Two Pointers        | 37              |
@@ -58,6 +58,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                       | Arrays, Hashing, Sorting       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q242_ValidAnagram.java)                     |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                           | Arrays, Two Pointers           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q283_MoveZeroes.java)                       |
 | 286  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                     | Arrays, Maths, Sorting         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q268_MissingNumber.java)                    |
+| 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                                     | Arrays, Prefix Sum             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q303_RangeSumQuery.java)                    |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                     | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q344_ReverseString.java)                    |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                             | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q345_ReverseVowels.java)                    |
 | 346  | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)                             | Arrays, Sliding Window         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q346_MovingAverageFromDataStream.java)                    |
@@ -193,6 +194,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -235,6 +237,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 
@@ -406,7 +409,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 37     |
+| Easy       | 38     |
 | Medium     | 53     |
 | Hard       | 3      |
 
