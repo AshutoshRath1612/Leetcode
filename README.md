@@ -16,8 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 57              |
-| Prefix Sum          | 6               |
+| Arrays              | 58              |
+| Prefix Sum          | 7               |
 | Matrix              | 8               |
 | Hashing             | 14              |
 | Two Pointers        | 37              |
@@ -69,6 +69,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                               | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q541_ReverseStringII.java)                  |
 | 599  | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                               | Arrays, Sliding Window         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q643_MaximumAverageSubarrayI.java)                  |
 | 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                               | Arrays, Hashing, String        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q599_MinimumIndexSumOfTwoList.java)                  |
+| 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                               | Arrays, Prefix Sum             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q724_FindPivotIndex.java)                  |
 | 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                 | Two Pointers, String           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q844_BackspaceStringCompare.java)           |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                                 | Array, Matrix                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q867_TransposeMatrix.java)                  |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                               | Linked List, Two Pointers      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q876_MiddleOfLinkedList.java)               |
@@ -194,6 +195,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -239,6 +241,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 
 ### 🏁 Matrix
@@ -409,7 +412,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 38     |
+| Easy       | 39     |
 | Medium     | 53     |
 | Hard       | 3      |
 
