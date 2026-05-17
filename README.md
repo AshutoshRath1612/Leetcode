@@ -16,8 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 59              |
-| Prefix Sum          | 9               |
+| Arrays              | 60              |
+| Prefix Sum          | 10              |
 | Matrix              | 8               |
 | Hashing             | 14              |
 | Two Pointers        | 37              |
@@ -79,6 +79,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)                                               | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1413_MinimumValueToGetPositiveStepSum.java)                    |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                               | String, Prefix Sum             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1422_MaximumScoreAfterSplittingAString.java)                    |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                               | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java)                    |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                               | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1480_RunningSumOf1dArray.java)                    |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
@@ -218,6 +219,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
+- [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 - [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
@@ -243,6 +245,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+- [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 - [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
@@ -418,7 +421,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 41     |
+| Easy       | 42     |
 | Medium     | 53     |
 | Hard       | 3      |
 
