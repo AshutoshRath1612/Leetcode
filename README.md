@@ -16,11 +16,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 61              |
+| Arrays              | 62              |
 | Prefix Sum          | 11              |
 | Matrix              | 8               |
-| Hashing             | 14              |
-| Two Pointers        | 37              |
+| Hashing             | 15              |
+| Two Pointers        | 38              |
 | Sliding Window      | 10              |
 | String              | 21              |
 | Linked List         | 21              |
@@ -83,6 +83,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)                                             | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1893_CheckIfAllIntegerInARangeAreCovered.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                     | Array, Two Pointers, Hashing   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2540_MinimumCommonValue.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)                                     | Array, Sorting                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2784_CheckIfArrayIsGood.java)            |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                                     | Array, Hashing, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
@@ -221,6 +222,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 - [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
+- [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
@@ -274,6 +276,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -324,6 +327,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+- [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
@@ -424,7 +428,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 43     |
+| Easy       | 44     |
 | Medium     | 53     |
 | Hard       | 3      |
 
