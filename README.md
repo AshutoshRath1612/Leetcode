@@ -16,10 +16,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 62              |
+| Arrays              | 63              |
 | Prefix Sum          | 11              |
 | Matrix              | 8               |
-| Hashing             | 15              |
+| Hashing             | 16              |
 | Two Pointers        | 38              |
 | Sliding Window      | 10              |
 | String              | 21              |
@@ -144,6 +144,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                             | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                     | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)                                     | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2657_FIndPrefixCommonArrayOfTwoArray.java)         |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                 | Two Pointers, Greedy, String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
 | 2985 | [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)                                 | Array, Stack                                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2985_CalculateCompressedMean.java)        |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)                                 | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3254_FindPowerOfKSizeSubarraysI.java)        |
@@ -230,6 +231,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
@@ -279,6 +281,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
@@ -429,7 +432,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 44     |
-| Medium     | 53     |
+| Medium     | 54     |
 | Hard       | 3      |
 
 ---
