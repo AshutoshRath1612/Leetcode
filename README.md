@@ -16,8 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 64              |
-| Prefix Sum          | 11              |
+| Arrays              | 65              |
+| Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 17              |
 | Two Pointers        | 38              |
@@ -83,6 +83,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)                                             | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1893_CheckIfAllIntegerInARangeAreCovered.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
+| 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                     | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1991_FindMiddleIndexInArray.java)            |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                     | Array, Two Pointers, Hashing   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2540_MinimumCommonValue.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)                                     | Array, Sorting                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2784_CheckIfArrayIsGood.java)            |
@@ -235,6 +236,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
@@ -255,6 +257,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
+- [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 - [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
@@ -434,7 +437,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 44     |
+| Easy       | 45     |
 | Medium     | 55     |
 | Hard       | 3      |
 
