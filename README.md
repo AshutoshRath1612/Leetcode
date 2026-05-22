@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 66              |
+| Arrays              | 67              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 17              |
 | Two Pointers        | 38              |
-| Sliding Window      | 10              |
+| Sliding Window      | 11              |
 | String              | 21              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -81,6 +81,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                               | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java)                    |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                               | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1480_RunningSumOf1dArray.java)                    |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
+| 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)                                             | Array, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1652_DefuseTheBomb.java)                |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)                                             | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1893_CheckIfAllIntegerInARangeAreCovered.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                     | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1991_FindMiddleIndexInArray.java)            |
@@ -247,6 +248,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
+- [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
@@ -369,6 +371,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+- [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
@@ -442,7 +445,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 45     |
+| Easy       | 46     |
 | Medium     | 56     |
 | Hard       | 3      |
 
