@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 65              |
+| Arrays              | 66              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 17              |
@@ -27,7 +27,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Stack               | 3               |
 | Greedy              | 5               |
 | Sorting             | 19              |
-| Binary Search       | 0               |
+| Binary Search       | 1               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
 | Graphs              | 0               |
@@ -104,6 +104,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  18  | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q18_4Sum.java)                              |
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Linked List, Two Pointers                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q19_RemoveNthNodeFromEnd.java)              |
 |  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                             | Linked List                                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q24_SwapsNodesInPairs.java)              |
+|  33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                              | Array, Binary Search                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q33_SearchInRotatedArray.java)              |
 |  43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                             | String, Maths                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q43_MultiplyStrings.java)                   |
 |  48  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | Array, Maths, Matrix                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q48_RotateImage.java)                       |
 |  49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Array, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q49_GroupAnagram.java)                      |
@@ -184,6 +185,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Plus One](https://leetcode.com/problems/plus-one/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -428,6 +430,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
+### 🔍 Binary Search
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
 ### 🌳 Trees
 - 
 
@@ -438,7 +443,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 45     |
-| Medium     | 55     |
+| Medium     | 56     |
 | Hard       | 3      |
 
 ---
