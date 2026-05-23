@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 12              |
-| Arrays              | 67              |
+| Arrays              | 68              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 17              |
@@ -82,6 +82,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                               | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1480_RunningSumOf1dArray.java)                    |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)                                             | Array, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1652_DefuseTheBomb.java)                |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                                             | Array          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1752_CheckIfArrayIsSortedAndRotated.java)                |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)                                             | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1893_CheckIfAllIntegerInARangeAreCovered.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                     | Array, Prefix Sum              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1991_FindMiddleIndexInArray.java)            |
@@ -206,6 +207,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
@@ -445,7 +447,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 46     |
+| Easy       | 47     |
 | Medium     | 56     |
 | Hard       | 3      |
 
