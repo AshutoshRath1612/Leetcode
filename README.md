@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 13              |
-| Arrays              | 70              |
+| Arrays              | 71              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 18              |
+| Hashing             | 19              |
 | Two Pointers        | 38              |
-| Sliding Window      | 14              |
+| Sliding Window      | 15              |
 | String              | 22              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -139,6 +139,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
 | 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                           | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                      | Array, Two Pointers, Greedy, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
+| 904  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                      | Array, Hashing, Sliding Window                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q904_FruitsIntoBasket.java)                |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                             | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1052_GrumpyBookOwner.java)           |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                   | Array, Maths, Prefix Sum                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
@@ -239,6 +240,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+- [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -300,6 +302,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
+- [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -380,6 +383,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+- [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
@@ -459,7 +463,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 48     |
-| Medium     | 58     |
+| Medium     | 59     |
 | Hard       | 3      |
 
 ---
