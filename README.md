@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 13              |
-| Arrays              | 69              |
+| Arrays              | 70              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 18              |
 | Two Pointers        | 38              |
-| Sliding Window      | 13              |
+| Sliding Window      | 14              |
 | String              | 22              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -140,12 +140,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                           | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                      | Array, Two Pointers, Greedy, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                             | Array, Sliding Window, Prefix Sum                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
-| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                             | Array, Sliding Window                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1052_GrumpyBookOwner.java)           |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                             | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1052_GrumpyBookOwner.java)           |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                   | Array, Maths, Prefix Sum                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                                   | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1493_LongestSubArrayOf1sAfterDeleting.java)              |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                   | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1658_MinimumOperationsToReduceXToZero.java)              |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)                 | Array, Sliding Window, Greedy, Sorting, Prefix Sum | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1838_FrequencyOfMostFrequentElement.java)  |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)                 | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1914_CyclicallyRotatingAGrid.java)  |
+| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)               | Arrays, Sliding Window                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2090_KRadiusSubarrayAverage.java)        |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)               | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                             | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
@@ -256,6 +257,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 - [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
+- [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
@@ -378,10 +380,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
-  - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+- [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+- [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 
@@ -456,7 +459,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 48     |
-| Medium     | 57     |
+| Medium     | 58     |
 | Hard       | 3      |
 
 ---
