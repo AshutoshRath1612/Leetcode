@@ -19,10 +19,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Arrays              | 71              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 20              |
+| Hashing             | 21              |
 | Two Pointers        | 38              |
-| Sliding Window      | 17              |
-| String              | 24              |
+| Sliding Window      | 18              |
+| String              | 25              |
 | Linked List         | 21              |
 | Stack               | 3               |
 | Greedy              | 5               |
@@ -136,6 +136,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                                                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java)                |
 | 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                             | Maths, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q451_SortCharacterByFrequency.java)         |
 | 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                                                                   | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q498_DiagonalTraverse.java)                 |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                                                   | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q567_PermutationInString.java)                 |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                                                         | Arrays, Maths, Hashing, Greedy, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q621_TaskScheduler.java)                    |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
 | 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                                                                   | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
@@ -300,6 +301,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
+- [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
@@ -385,6 +387,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
@@ -408,6 +411,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
@@ -470,7 +474,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 48     |
-| Medium     | 61     |
+| Medium     | 62     |
 | Hard       | 3      |
 
 ---
