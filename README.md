@@ -21,8 +21,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Matrix              | 8               |
 | Hashing             | 20              |
 | Two Pointers        | 38              |
-| Sliding Window      | 16              |
-| String              | 23              |
+| Sliding Window      | 17              |
+| String              | 24              |
 | Linked List         | 21              |
 | Stack               | 3               |
 | Greedy              | 5               |
@@ -144,6 +144,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                                                                     | Array, Sliding Window, Prefix Sum                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1004_MaxConsecutiveOnesIII.java)           |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                                         | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1052_GrumpyBookOwner.java)           |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)                                                                           | Array, Maths, Prefix Sum                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1352_ProductOfLastKNums.java)              |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)                                  | String, Sliding Window                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1456_MaximumNumberOfVowelsInSubstring.java)              |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                                  | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1493_LongestSubArrayOf1sAfterDeleting.java)              |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                                         | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1658_MinimumOperationsToReduceXToZero.java)              |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)                                                         | Array, Sliding Window, Greedy, Sorting, Prefix Sum | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1838_FrequencyOfMostFrequentElement.java)  |
@@ -386,6 +387,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+- [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
@@ -412,6 +414,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
@@ -467,7 +470,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 48     |
-| Medium     | 60     |
+| Medium     | 61     |
 | Hard       | 3      |
 
 ---
