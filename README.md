@@ -19,10 +19,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Arrays              | 71              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 21              |
+| Hashing             | 22              |
 | Two Pointers        | 38              |
 | Sliding Window      | 18              |
-| String              | 25              |
+| String              | 26              |
 | Linked List         | 21              |
 | Stack               | 3               |
 | Greedy              | 5               |
@@ -90,6 +90,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                     | Array, Two Pointers, Hashing            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2540_MinimumCommonValue.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)                                     | Array, Sorting                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2784_CheckIfArrayIsGood.java)            |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                                     | String, Hashing                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3120_CountNumberOfSpecialCharactersI.java)            |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                                     | Array, Hashing, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
 
 ---
@@ -313,6 +314,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
+- [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 
 ### 📃 Linked List
 
@@ -427,6 +429,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
+- [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -473,7 +476,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 48     |
+| Easy       | 49     |
 | Medium     | 62     |
 | Hard       | 3      |
 
