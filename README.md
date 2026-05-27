@@ -19,10 +19,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Arrays              | 71              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 22              |
+| Hashing             | 23              |
 | Two Pointers        | 38              |
 | Sliding Window      | 18              |
-| String              | 26              |
+| String              | 27              |
 | Linked List         | 21              |
 | Stack               | 3               |
 | Greedy              | 5               |
@@ -160,6 +160,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                                                         | Two Pointers, Greedy, String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
 | 2985 | [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)                                                                                   | Array, Stack                                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2985_CalculateCompressedMean.java)        |
 | 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)                                             | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3043_LengthOfLongestCommonPrefix.java)        |
+| 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                                             | String, Hashing                                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3121_CountNumberOfSpecialCharactersII.java)        |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)                                                             | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3254_FindPowerOfKSizeSubarraysI.java)        |
 
 
@@ -309,6 +310,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+- [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -421,6 +423,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+- [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
@@ -477,7 +480,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 49     |
-| Medium     | 62     |
+| Medium     | 63     |
 | Hard       | 3      |
 
 ---
