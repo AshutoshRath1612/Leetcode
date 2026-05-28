@@ -19,10 +19,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Arrays              | 72              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 24              |
+| Hashing             | 25              |
 | Two Pointers        | 38              |
-| Sliding Window      | 19              |
-| String              | 27              |
+| Sliding Window      | 20              |
+| String              | 28              |
 | Linked List         | 21              |
 | Stack               | 3               |
 | Greedy              | 5               |
@@ -169,11 +169,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔴 Hard
 
-| #  | Problem                                                                         | Tags                     | Solution                                                                                         |
-|:--:|:--------------------------------------------------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------------|
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
-| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
+| #  | Problem                                                                         | Tags                            | Solution                                                                                         |
+|:--:|:--------------------------------------------------------------------------------|:--------------------------------|:-------------------------------------------------------------------------------------------------|
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hashing, String, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q76_MinimumWindowSubstring.java) |
 
 ---
 
@@ -315,6 +316,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
 - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
@@ -402,6 +404,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
@@ -432,6 +435,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
@@ -485,7 +489,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:-----------|:-------|
 | Easy       | 49     |
 | Medium     | 64     |
-| Hard       | 3      |
+| Hard       | 4      |
 
 ---
 
