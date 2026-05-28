@@ -16,15 +16,16 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 13              |
-| Arrays              | 72              |
+| Arrays              | 73              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 25              |
 | Two Pointers        | 38              |
-| Sliding Window      | 20              |
+| Sliding Window      | 21              |
 | String              | 28              |
 | Linked List         | 21              |
 | Stack               | 3               |
+| Queue               | 1               |
 | Greedy              | 5               |
 | Sorting             | 19              |
 | Binary Search       | 1               |
@@ -169,12 +170,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔴 Hard
 
-| #  | Problem                                                                         | Tags                            | Solution                                                                                         |
-|:--:|:--------------------------------------------------------------------------------|:--------------------------------|:-------------------------------------------------------------------------------------------------|
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
-| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
-| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hashing, String, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q76_MinimumWindowSubstring.java) |
+|  #  | Problem                                                                         | Tags                            | Solution                                                                                         |
+|:---:|:--------------------------------------------------------------------------------|:--------------------------------|:-------------------------------------------------------------------------------------------------|
+| 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
+| 25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
+| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
+| 76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hashing, String, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q76_MinimumWindowSubstring.java) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Arrays, Queue, Sliding Window   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q239_SlidingWindowMaximum.java) |
 
 ---
 
@@ -239,6 +241,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
@@ -398,6 +401,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
@@ -447,6 +451,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)
 
+### 🚶‍♂️🚶‍♂️🚶‍♂️ Queue
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
@@ -489,7 +496,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:-----------|:-------|
 | Easy       | 49     |
 | Medium     | 64     |
-| Hard       | 4      |
+| Hard       | 5      |
 
 ---
 
