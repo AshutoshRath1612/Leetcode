@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 13              |
-| Arrays              | 71              |
+| Arrays              | 72              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 23              |
+| Hashing             | 24              |
 | Two Pointers        | 38              |
-| Sliding Window      | 18              |
+| Sliding Window      | 19              |
 | String              | 27              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -149,6 +149,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)                                  | String, Sliding Window                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1456_MaximumNumberOfVowelsInSubstring.java)              |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                                  | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1493_LongestSubArrayOf1sAfterDeleting.java)              |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                                         | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1658_MinimumOperationsToReduceXToZero.java)              |
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)                                                         | Array, Hashing, Sliding Window                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1695_MaximumErasureValue.java)              |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)                                                         | Array, Sliding Window, Greedy, Sorting, Prefix Sum | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1838_FrequencyOfMostFrequentElement.java)  |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)                                                                                 | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1914_CyclicallyRotatingAGrid.java)  |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)                                                                                 | Arrays, Sliding Window                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2090_KRadiusSubarrayAverage.java)        |
@@ -241,6 +242,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 - [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
+- [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 - [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
@@ -312,6 +314,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
+- [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
@@ -396,6 +399,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+- [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
@@ -480,7 +484,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 49     |
-| Medium     | 63     |
+| Medium     | 64     |
 | Hard       | 3      |
 
 ---
