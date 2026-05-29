@@ -16,13 +16,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 15              |
-| Arrays              | 75              |
+| Arrays              | 76              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 26              |
 | Two Pointers        | 38              |
 | Sliding Window      | 22              |
-| String              | 29              |
+| String              | 30              |
 | Linked List         | 21              |
 | Stack               | 3               |
 | Queue               | 1               |
@@ -81,6 +81,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                               | String, Prefix Sum                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1422_MaximumScoreAfterSplittingAString.java)                    |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                               | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java)                    |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                               | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1480_RunningSumOf1dArray.java)                    |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/)                                             | Array, String                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1528_ShuffleString.java)                |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | Array, String, Stack                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)                                             | Array, Sliding Window                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1652_DefuseTheBomb.java)                |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                                             | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1752_CheckIfArrayIsSortedAndRotated.java)                |
@@ -264,6 +265,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 - [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
@@ -447,6 +449,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 - [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
+- [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
@@ -504,7 +507,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 51     |
+| Easy       | 52     |
 | Medium     | 64     |
 | Hard       | 6      |
 
