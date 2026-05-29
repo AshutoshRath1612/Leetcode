@@ -15,8 +15,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 13              |
-| Arrays              | 73              |
+| Maths               | 14              |
+| Arrays              | 74              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 25              |
@@ -92,6 +92,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)                                     | Array, Sorting                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2784_CheckIfArrayIsGood.java)            |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                                     | String, Hashing                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3120_CountNumberOfSpecialCharactersI.java)            |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)                                     | Array, Maths                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3300_MinimumElementAfterReplacementWithDigitSum.java)            |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                                     | Array, Hashing, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
 
 ---
@@ -196,6 +197,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)
 
 ### 📦 Arrays
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -270,6 +272,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 - [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
+- [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)
 - [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
@@ -494,7 +497,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 49     |
+| Easy       | 50     |
 | Medium     | 64     |
 | Hard       | 5      |
 
