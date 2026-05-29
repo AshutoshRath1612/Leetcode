@@ -15,13 +15,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 14              |
-| Arrays              | 74              |
+| Maths               | 15              |
+| Arrays              | 75              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 25              |
+| Hashing             | 26              |
 | Two Pointers        | 38              |
-| Sliding Window      | 21              |
+| Sliding Window      | 22              |
 | String              | 28              |
 | Linked List         | 21              |
 | Stack               | 3               |
@@ -171,13 +171,14 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔴 Hard
 
-|  #  | Problem                                                                         | Tags                            | Solution                                                                                         |
-|:---:|:--------------------------------------------------------------------------------|:--------------------------------|:-------------------------------------------------------------------------------------------------|
-| 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
-| 25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
-| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
-| 76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hashing, String, Sliding Window | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q76_MinimumWindowSubstring.java) |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Arrays, Queue, Sliding Window   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q239_SlidingWindowMaximum.java) |
+|  #  | Problem                                                                         | Tags                                   | Solution                                                                                         |
+|:---:|:--------------------------------------------------------------------------------|:---------------------------------------|:-------------------------------------------------------------------------------------------------|
+| 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
+| 25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
+| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
+| 76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hashing, String, Sliding Window        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q76_MinimumWindowSubstring.java) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Arrays, Queue, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q239_SlidingWindowMaximum.java) |
+| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Arrays, Hashing, Sliding Window, Maths | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q992_SubarrayWithKDifferentIntegers.java) |
 
 ---
 
@@ -194,6 +195,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
@@ -259,6 +261,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
+- [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
@@ -319,6 +322,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+- [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)
 - [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)
 - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
@@ -408,6 +412,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+- [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
@@ -499,7 +504,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:-----------|:-------|
 | Easy       | 50     |
 | Medium     | 64     |
-| Hard       | 5      |
+| Hard       | 6      |
 
 ---
 
