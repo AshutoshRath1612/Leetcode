@@ -22,7 +22,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Hashing             | 26              |
 | Two Pointers        | 38              |
 | Sliding Window      | 22              |
-| String              | 28              |
+| String              | 29              |
 | Linked List         | 21              |
 | Stack               | 3               |
 | Queue               | 1               |
@@ -88,6 +88,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)                                             | Strings, Sliding Window, Hashing, Maths | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1876_SubstringWithSizeThreeDistinctCharacter.java)                |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                     | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                     | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1991_FindMiddleIndexInArray.java)            |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)                                     | String                                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2264_Largest3DigitNumberInString.java)            |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                     | Array, Two Pointers, Hashing            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2540_MinimumCommonValue.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)                                     | Array, Sorting                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2784_CheckIfArrayIsGood.java)            |
@@ -445,6 +446,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
+- [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
 - [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
@@ -502,7 +504,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 50     |
+| Easy       | 51     |
 | Medium     | 64     |
 | Hard       | 6      |
 
