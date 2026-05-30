@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 15              |
-| Arrays              | 76              |
+| Arrays              | 77              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 26              |
@@ -26,6 +26,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 1               |
+| Heap                | 1               |
 | Greedy              | 5               |
 | Sorting             | 19              |
 | Binary Search       | 1               |
@@ -77,6 +78,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                           | Array, Two Pointers                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q905_SortArrayByParity.java)                |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                 | Array, Two Pointers, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java)                  |
 | 989  | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                                           | Array, Math                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q989_AddToArrayFormOfInteger.java)          |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                           | Array, Heap                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1046_LastStoneWeight.java)          |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)       | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1413_MinimumValueToGetPositiveStepSum.java)                    |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                       | String, Prefix Sum                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1422_MaximumScoreAfterSplittingAString.java)                    |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                 | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1470_ShuffleArray.java)                    |
@@ -249,6 +251,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
@@ -471,6 +474,9 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 🚶‍♂️🚶‍♂️🚶‍♂️ Queue
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
+### 🗻 Heap
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
 ### 🥸 Greedy
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
@@ -511,7 +517,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 52     |
+| Easy       | 53     |
 | Medium     | 64     |
 | Hard       | 6      |
 
