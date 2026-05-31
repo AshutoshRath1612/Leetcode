@@ -16,11 +16,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 15              |
-| Arrays              | 78              |
+| Arrays              | 79              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 27              |
-| Two Pointers        | 39              |
+| Two Pointers        | 40              |
 | Sliding Window      | 22              |
 | String              | 31              |
 | Linked List         | 21              |
@@ -147,6 +147,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                                                   | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q567_PermutationInString.java)                 |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                                                         | Arrays, Maths, Hashing, Greedy, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q621_TaskScheduler.java)                    |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
+| 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)                                                                                         | Arrays, Two Pointers                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q795_NumberOfSubarrayWithBoundedMaximum.java)            |
 | 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                                                                   | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                                                              | Array, Two Pointers, Greedy, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
 | 904  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                                 | Array, Hashing, Sliding Window                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q904_FruitsIntoBasket.java)                |
@@ -254,6 +255,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+- [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
 - [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 - [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
@@ -385,6 +387,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
+- [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
@@ -522,7 +525,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 53     |
-| Medium     | 65     |
+| Medium     | 66     |
 | Hard       | 6      |
 
 ---
