@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 15              |
-| Arrays              | 79              |
+| Arrays              | 80              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 27              |
@@ -27,8 +27,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Stack               | 4               |
 | Queue               | 1               |
 | Heap                | 2               |
-| Greedy              | 5               |
-| Sorting             | 19              |
+| Greedy              | 6               |
+| Sorting             | 20              |
 | Binary Search       | 1               |
 | Recursion           | 0               |
 | Dynamic Programming | 0               |
@@ -162,6 +162,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)                                                                                 | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1914_CyclicallyRotatingAGrid.java)  |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)                                                                                 | Arrays, Sliding Window                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2090_KRadiusSubarrayAverage.java)        |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                                       | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
+| 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)                                                       | Arrays, Greedy, Sorting                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2126_DestroyingAsteroids.java)        |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                                                     | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                                             | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
@@ -267,6 +268,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
@@ -490,6 +492,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
+- [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -504,6 +507,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 - [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [3Sum](https://leetcode.com/problems/3sum/)
@@ -525,7 +529,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 53     |
-| Medium     | 66     |
+| Medium     | 67     |
 | Hard       | 6      |
 
 ---
