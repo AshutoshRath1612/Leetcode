@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 15              |
-| Arrays              | 81              |
+| Arrays              | 82              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 27              |
@@ -27,8 +27,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Stack               | 4               |
 | Queue               | 1               |
 | Heap                | 2               |
-| Greedy              | 6               |
-| Sorting             | 20              |
+| Greedy              | 7               |
+| Sorting             | 21              |
 | Binary Search       | 1               |
 | Recursion           | 0               |
 | Dynamic Programming | 1               |
@@ -93,6 +93,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                       | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1929_ConcatanationOfArray.java)            |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                       | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1991_FindMiddleIndexInArray.java)            |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)                                               | String, Stack, Two Pointers             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2000_ReversePrefixOfWord.java)            |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)                                               | Arrays, Greedy, Sorting                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2144_MinimumCostOfBuyingCandiesWithDiscount.java)            |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)                         | String                                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2264_Largest3DigitNumberInString.java)            |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                           | Array, Two Pointers, Hashing            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2540_MinimumCommonValue.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
@@ -295,6 +296,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -495,6 +497,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
+- [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -517,6 +520,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+- [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 
 ### 🔍 Binary Search
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -533,7 +537,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 54     |
+| Easy       | 55     |
 | Medium     | 67     |
 | Hard       | 6      |
 
