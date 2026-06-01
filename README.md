@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 15              |
-| Arrays              | 80              |
+| Arrays              | 81              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 27              |
@@ -31,7 +31,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Sorting             | 20              |
 | Binary Search       | 1               |
 | Recursion           | 0               |
-| Dynamic Programming | 0               |
+| Dynamic Programming | 1               |
 | Graphs              | 0               |
 | Trees               | 0               |
 
@@ -51,6 +51,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  67  | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                               | String                                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q67_AddBinary.java)                         |
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                               | Linked List                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q83_RemoveDuplicateFromSortedList.java)                  |
 |  88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                               | Array, Two Pointer, Sorting             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q88_MergeSortedArray.java)                  |
+| 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                 | Arrays, Dynamic Programming             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q118_PascalTriangle.java)                  |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                 | Linked List, Two Pointers               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q141_LinkedListCycle.java)                  |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                   | Linked List, Two Pointers               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q160_IntersectionOfLinkedList.java)                  |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                           | Array, Maths                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q189_RotateArray.java)                      |
@@ -293,6 +294,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -522,13 +524,16 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 ### 🌳 Trees
 - 
 
+### 🧑‍💻 Dynamic Programming
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
 ---
 
 ## 📈 Progress Tracker
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 53     |
+| Easy       | 54     |
 | Medium     | 67     |
 | Hard       | 6      |
 
