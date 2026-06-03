@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 82              |
+| Arrays              | 83              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 28              |
@@ -27,7 +27,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Stack               | 4               |
 | Queue               | 1               |
 | Heap                | 2               |
-| Greedy              | 7               |
+| Greedy              | 8               |
 | Sorting             | 21              |
 | Binary Search       | 1               |
 | Recursion           | 0               |
@@ -101,6 +101,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                   | String, Hashing                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3120_CountNumberOfSpecialCharactersI.java)            |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)   | Array, Maths                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3300_MinimumElementAfterReplacementWithDigitSum.java)            |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                           | Array, Hashing, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)                           | Array, Greedy                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3633_EarliestFinishTimeForLandAndWaterRideI.java)            |
 
 ---
 
@@ -299,6 +300,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
+- [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -503,6 +505,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
+- [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
