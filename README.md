@@ -16,7 +16,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 83              |
+| Arrays              | 84              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
 | Hashing             | 28              |
@@ -27,7 +27,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Stack               | 4               |
 | Queue               | 1               |
 | Heap                | 2               |
-| Greedy              | 8               |
+| Greedy              | 9               |
 | Sorting             | 21              |
 | Binary Search       | 1               |
 | Recursion           | 0               |
@@ -177,6 +177,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)                                             | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3043_LengthOfLongestCommonPrefix.java)        |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                                             | String, Hashing                                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3121_CountNumberOfSpecialCharactersII.java)        |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)                                                             | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3254_FindPowerOfKSizeSubarraysI.java)        |
+| 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)                                                             | Array, Greedy                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3635_EarliestFinishRimeForLandAndWaterRideII.java)        |
 
 
 ---
@@ -301,6 +302,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 - [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
+- [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -506,6 +508,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 - [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
+- [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -546,7 +549,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 55     |
-| Medium     | 68     |
+| Medium     | 69     |
 | Hard       | 6      |
 
 ---
