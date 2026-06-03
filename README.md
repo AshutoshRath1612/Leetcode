@@ -15,14 +15,14 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 15              |
+| Maths               | 16              |
 | Arrays              | 82              |
 | Prefix Sum          | 12              |
 | Matrix              | 8               |
-| Hashing             | 27              |
+| Hashing             | 28              |
 | Two Pointers        | 40              |
-| Sliding Window      | 22              |
-| String              | 31              |
+| Sliding Window      | 23              |
+| String              | 32              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 1               |
@@ -171,6 +171,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)                                                                             | Array, Hashing, Heap                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2593_FindScoreAfterMarkingAllElements.java)         |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)                                                 | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2657_FIndPrefixCommonArrayOfTwoArray.java)         |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                                                         | Two Pointers, Greedy, String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
+| 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)                                                                                   | Maths, Hashing, Sliding Window, Strings            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2981_FindLongestSpecialSubstringOccurThriceI.java)        |
 | 2985 | [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)                                                                                   | Array, Stack                                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2985_CalculateCompressedMean.java)        |
 | 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)                                             | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3043_LengthOfLongestCommonPrefix.java)        |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                                             | String, Hashing                                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3121_CountNumberOfSpecialCharactersII.java)        |
@@ -210,6 +211,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)
+- [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 
 ### 📦 Arrays
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -350,6 +352,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
+- [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 
 ### 📃 Linked List
 
@@ -442,6 +445,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
+- [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 
 ### 💲Strings
 
@@ -476,6 +480,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 - [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
+- [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -538,7 +543,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 55     |
-| Medium     | 67     |
+| Medium     | 68     |
 | Hard       | 6      |
 
 ---
