@@ -16,8 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 84              |
-| Prefix Sum          | 12              |
+| Arrays              | 85              |
+| Prefix Sum          | 13              |
 | Matrix              | 8               |
 | Hashing             | 28              |
 | Two Pointers        | 40              |
@@ -87,6 +87,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                                       | Array, String                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1528_ShuffleString.java)                |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                                               | Array, String, Stack                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1598_CrawlerLogFolder.java)                |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)                                                                     | Array, Sliding Window                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1652_DefuseTheBomb.java)                |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                           | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1732_FindTheHighestAltitude.java)                |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                           | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1752_CheckIfArrayIsSortedAndRotated.java)                |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)   | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1893_CheckIfAllIntegerInARangeAreCovered.java)                |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Strings, Sliding Window, Hashing, Maths | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1876_SubstringWithSizeThreeDistinctCharacter.java)                |
@@ -303,6 +304,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 - [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
 - [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)
+- [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -317,6 +319,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
+- [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -548,7 +551,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 55     |
+| Easy       | 56     |
 | Medium     | 69     |
 | Hard       | 6      |
 
