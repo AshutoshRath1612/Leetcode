@@ -16,19 +16,19 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 87              |
+| Arrays              | 88              |
 | Prefix Sum          | 15              |
 | Matrix              | 8               |
 | Hashing             | 29              |
 | Two Pointers        | 40              |
-| Sliding Window      | 23              |
+| Sliding Window      | 24              |
 | String              | 32              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 1               |
 | Heap                | 2               |
 | Greedy              | 9               |
-| Sorting             | 21              |
+| Sorting             | 22              |
 | Binary Search       | 1               |
 | Recursion           | 0               |
 | Dynamic Programming | 1               |
@@ -173,11 +173,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                                             | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
 | 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)                                                                             | Array, Hashing, Heap                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2593_FindScoreAfterMarkingAllElements.java)         |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)                                                 | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2657_FIndPrefixCommonArrayOfTwoArray.java)         |
+| 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)                                                 | Array, Sliding Window, Sorting                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2779_MaximumBeautyOfAnArrayAfterApplyingOperation.java)         |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)                                                                         | Two Pointers, Greedy, String                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2938_SeparateBlackNWhiteBalls.java)        |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)                                                                                   | Maths, Hashing, Sliding Window, Strings            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2981_FindLongestSpecialSubstringOccurThriceI.java)        |
 | 2985 | [Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/)                                                                                   | Array, Stack                                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2985_CalculateCompressedMean.java)        |
 | 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)                                             | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3043_LengthOfLongestCommonPrefix.java)        |
-| 3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)                                             | Arrays, Hashing, Prefix Sum                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3026_MaximumGoodSubarraySum.java)        |
+| 3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)                                             | Arrays, Hashing, Prefix Sum                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3026_MaximumGoodSubarraySum.java)        |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                                             | String, Hashing                                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3121_CountNumberOfSpecialCharactersII.java)        |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)                                                             | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3254_FindPowerOfKSizeSubarraysI.java)        |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)                                                             | Array, Greedy                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3635_EarliestFinishRimeForLandAndWaterRideII.java)        |
@@ -309,6 +310,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 - [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)
+- [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -460,6 +462,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
+- [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
 
 ### 💲Strings
 
@@ -542,6 +545,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
+- [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
 
 ### 🔍 Binary Search
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -559,7 +563,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 57     |
-| Medium     | 70     |
+| Medium     | 71     |
 | Hard       | 6      |
 
 ---
