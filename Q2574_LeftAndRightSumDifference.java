@@ -1,0 +1,23 @@
+import java.util.Arrays;
+
+public class Q2574_LeftAndRightSumDifference {
+    public static int[] leftRightDifference(int[] nums) {
+        int [] result = new int[nums.length];
+        int sum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            result[i] = sum;
+            sum += nums[i];
+        }
+        sum = 0;
+        for (int i = nums.length - 1; i>=0; i--) {
+            result[i] = Math.abs(result[i] - sum);
+            sum += nums[i];
+        }
+        return result;
+    }
+    static void main() {
+        int [] nums = {10,4,8,3};
+        System.out.println(Arrays.toString(leftRightDifference(nums)));
+    }
+}

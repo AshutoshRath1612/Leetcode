@@ -16,8 +16,8 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 85              |
-| Prefix Sum          | 13              |
+| Arrays              | 86              |
+| Prefix Sum          | 14              |
 | Matrix              | 8               |
 | Hashing             | 28              |
 | Two Pointers        | 40              |
@@ -98,6 +98,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)                         | String                                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2264_Largest3DigitNumberInString.java)            |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                           | Array, Two Pointers, Hashing            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2540_MinimumCommonValue.java)            |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)                                     | Array                                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2553_SeparateTheDigitsInArray.java)            |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)                                     | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2574_LeftAndRightSumDifference.java)            |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)                                                       | Array, Sorting                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2784_CheckIfArrayIsGood.java)            |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)                   | String, Hashing                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3120_CountNumberOfSpecialCharactersI.java)            |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)   | Array, Maths                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3300_MinimumElementAfterReplacementWithDigitSum.java)            |
@@ -305,6 +306,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
 - [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)
 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -320,6 +322,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -551,7 +554,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 56     |
+| Easy       | 57     |
 | Medium     | 69     |
 | Hard       | 6      |
 
