@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 90              |
+| Arrays              | 91              |
 | Prefix Sum          | 16              |
 | Matrix              | 8               |
-| Hashing             | 31              |
+| Hashing             | 32              |
 | Two Pointers        | 40              |
-| Sliding Window      | 26              |
+| Sliding Window      | 27              |
 | String              | 33              |
 | Linked List         | 21              |
 | Stack               | 4               |
@@ -172,6 +172,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                                                     | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                                             | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)                                                                             | Arrays, Hashing, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2461_MaximumSumOfDistinctSubarrayWithLengthK.java)         |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)                                                                             | String, Hashing, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2516_TakeKOfEachCharFromLeftAndRight.java)         |
 | 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)                                                                             | Array, Hashing, Heap                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2593_FindScoreAfterMarkingAllElements.java)         |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)                                                 | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2657_FIndPrefixCommonArrayOfTwoArray.java)         |
@@ -316,6 +317,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)
+- [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -377,6 +379,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+- [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 
 ### 📃 Linked List
 
@@ -473,6 +476,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 - [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)
+- [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 
 ### 💲Strings
 
@@ -576,7 +580,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 57     |
-| Medium     | 74     |
+| Medium     | 75     |
 | Hard       | 6      |
 
 ---
