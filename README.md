@@ -15,7 +15,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 16              |
+| Maths               | 17              |
 | Arrays              | 92              |
 | Prefix Sum          | 17              |
 | Matrix              | 8               |
@@ -114,6 +114,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                                       | Linked List, Maths                                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2_AddTwoNumbers.java)   |
 |  3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                         | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3_LongestSubstringWithoutRepeating.java)   |
 |  5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                           | String, Two Pointer                                | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q5_LongestPalindromeSubstring.java)         |
+|  7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                           | Maths                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q7_ReverseInteger.java)         |
 |  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                                   | Array, Two Pointers, Greedy                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q11_ContainerWithMostWater.java)            |
 |  15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                                             | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q15_3Sum.java)                              |
 |  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                                                             | Array, Two Pointers, Sorting                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q16_3Sum_Closest.java)                      |
@@ -223,6 +224,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
 ### 📦 Arrays
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -584,7 +586,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 57     |
-| Medium     | 76     |
+| Medium     | 77     |
 | Hard       | 6      |
 
 ---
