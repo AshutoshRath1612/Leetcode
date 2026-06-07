@@ -16,10 +16,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 88              |
-| Prefix Sum          | 15              |
+| Arrays              | 89              |
+| Prefix Sum          | 16              |
 | Matrix              | 8               |
-| Hashing             | 30              |
+| Hashing             | 31              |
 | Two Pointers        | 40              |
 | Sliding Window      | 25              |
 | String              | 33              |
@@ -149,6 +149,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                                                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java)                |
 | 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                             | Maths, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q451_SortCharacterByFrequency.java)         |
 | 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                                                                   | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q498_DiagonalTraverse.java)                 |
+| 525  | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)                                                                                                   | Arrays, Hashing, Prefix Sum                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q525_ContiguousArray.java)                 |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                                                   | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q567_PermutationInString.java)                 |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                                                         | Arrays, Maths, Hashing, Greedy, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q621_TaskScheduler.java)                    |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
@@ -312,6 +313,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 - [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)
 - [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -329,6 +331,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 - [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -371,6 +374,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 - [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 
 ### 📃 Linked List
 
@@ -567,7 +571,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 57     |
-| Medium     | 72     |
+| Medium     | 73     |
 | Hard       | 6      |
 
 ---
