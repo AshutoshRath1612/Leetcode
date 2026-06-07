@@ -16,12 +16,12 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 16              |
-| Arrays              | 91              |
-| Prefix Sum          | 16              |
+| Arrays              | 92              |
+| Prefix Sum          | 17              |
 | Matrix              | 8               |
 | Hashing             | 32              |
 | Two Pointers        | 40              |
-| Sliding Window      | 27              |
+| Sliding Window      | 28              |
 | String              | 33              |
 | Linked List         | 21              |
 | Stack               | 4               |
@@ -153,6 +153,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                                                   | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q567_PermutationInString.java)                 |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                                                         | Arrays, Maths, Hashing, Greedy, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q621_TaskScheduler.java)                    |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q647_PalindromicSubstrings.java)            |
+| 713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)                                                                                         | Arrays, Prefix Sum, Sliding Window                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q713_SubarrayProductLessThanK.java)            |
 | 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)                                                                                         | Arrays, Two Pointers                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q795_NumberOfSubarrayWithBoundedMaximum.java)            |
 | 845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)                                                                                   | Array                                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q845_LongestMountainInArray.java)           |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people)                                                                                              | Array, Two Pointers, Greedy, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q881_BoatsToSavePeople.java)                |
@@ -318,6 +319,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)
 - [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+- [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -336,6 +338,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 - [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+- [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 ### 🏁 Matrix
 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
@@ -477,6 +480,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 - [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)
 - [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+- [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 ### 💲Strings
 
@@ -580,7 +584,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 57     |
-| Medium     | 75     |
+| Medium     | 76     |
 | Hard       | 6      |
 
 ---
