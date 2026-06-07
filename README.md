@@ -19,10 +19,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Arrays              | 88              |
 | Prefix Sum          | 15              |
 | Matrix              | 8               |
-| Hashing             | 29              |
+| Hashing             | 30              |
 | Two Pointers        | 40              |
-| Sliding Window      | 24              |
-| String              | 32              |
+| Sliding Window      | 25              |
+| String              | 33              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 1               |
@@ -171,6 +171,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                                                     | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                                             | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
+| 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)                                                                             | String, Hashing, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2516_TakeKOfEachCharFromLeftAndRight.java)         |
 | 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)                                                                             | Array, Hashing, Heap                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2593_FindScoreAfterMarkingAllElements.java)         |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)                                                 | Array, Hashing                                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2657_FIndPrefixCommonArrayOfTwoArray.java)         |
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)                                                 | Array, Sliding Window, Sorting                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2779_MaximumBeautyOfAnArrayAfterApplyingOperation.java)         |
@@ -369,6 +370,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 - [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)
+- [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 
 ### 📃 Linked List
 
@@ -463,6 +465,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 - [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
+- [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 
 ### 💲Strings
 
@@ -498,6 +501,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
 - [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
+- [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -563,7 +567,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 57     |
-| Medium     | 71     |
+| Medium     | 72     |
 | Hard       | 6      |
 
 ---
