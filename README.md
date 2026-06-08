@@ -16,11 +16,11 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 17              |
-| Arrays              | 92              |
+| Arrays              | 93              |
 | Prefix Sum          | 17              |
 | Matrix              | 8               |
 | Hashing             | 32              |
-| Two Pointers        | 40              |
+| Two Pointers        | 41              |
 | Sliding Window      | 28              |
 | String              | 33              |
 | Linked List         | 21              |
@@ -171,6 +171,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)                                                                                 | Arrays, Sliding Window                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2090_KRadiusSubarrayAverage.java)        |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                                       | Two Pointers, Linked List                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2095_DeleteMiddleOfLinkedList.java)        |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)                                                       | Arrays, Greedy, Sorting                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2126_DestroyingAsteroids.java)        |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)                                                       | Arrays, Two Pointers                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2161_PartitionArrayAccordingGivenPoint.java)        |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                                                     | Array, Linked List, Matrix                         | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2326_SpiralMatrixIV.java)                  |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)                                                                         | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2337_MovePiecesToObtainString.java)        |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                                             | Stack, String                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2390_RemovingStarsFromString.java)         |
@@ -322,6 +323,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)
 - [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 - [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+- [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -450,6 +452,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)
 - [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)
+- [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
 
 
 ### 🪟 Sliding Window
@@ -586,7 +589,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 57     |
-| Medium     | 77     |
+| Medium     | 78     |
 | Hard       | 6      |
 
 ---
