@@ -16,13 +16,13 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
 | Maths               | 18              |
-| Arrays              | 94              |
+| Arrays              | 95              |
 | Prefix Sum          | 17              |
 | Matrix              | 8               |
 | Hashing             | 32              |
 | Two Pointers        | 41              |
 | Sliding Window      | 28              |
-| String              | 33              |
+| String              | 34              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 2               |
@@ -105,6 +105,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)                                      | Array, Maths                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3300_MinimumElementAfterReplacementWithDigitSum.java)            |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)                                                              | Array, Hashing, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3318_FindXSumOfAllKLongSubArray.java)            |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)                                        | Array, Greedy                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3633_EarliestFinishTimeForLandAndWaterRideI.java)            |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)                                        | Array, Strings                          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3838_WeightedWordMapping.java)            |
 
 ---
 
@@ -327,6 +328,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 - [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+- [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -525,6 +527,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
+- [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -591,7 +594,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| Easy       | 58     |
+| Easy       | 59     |
 | Medium     | 78     |
 | Hard       | 6      |
 
