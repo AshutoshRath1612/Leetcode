@@ -22,7 +22,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Hashing             | 32              |
 | Two Pointers        | 41              |
 | Sliding Window      | 28              |
-| String              | 34              |
+| String              | 35              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 2               |
@@ -190,6 +190,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)                                             | Arrays, Hashing, Prefix Sum                        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3026_MaximumGoodSubarraySum.java)        |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)                                             | String, Hashing                                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3121_CountNumberOfSpecialCharactersII.java)        |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)                                                             | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3254_FindPowerOfKSizeSubarraysI.java)        |
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/)                                                             | String                                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3612_ProcessStringWithSpecialOperationI.java)        |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)                                                             | Array, Greedy                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3635_EarliestFinishRimeForLandAndWaterRideII.java)        |
 
 
@@ -528,6 +529,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 - [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)
+- [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -595,7 +597,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 59     |
-| Medium     | 78     |
+| Medium     | 79     |
 | Hard       | 6      |
 
 ---
