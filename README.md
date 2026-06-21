@@ -15,20 +15,20 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 18              |
-| Arrays              | 95              |
+| Maths               | 19              |
+| Arrays              | 96              |
 | Prefix Sum          | 17              |
 | Matrix              | 8               |
 | Hashing             | 32              |
 | Two Pointers        | 41              |
-| Sliding Window      | 28              |
+| Sliding Window      | 29              |
 | String              | 35              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 2               |
 | Heap                | 3               |
-| Greedy              | 9               |
-| Sorting             | 22              |
+| Greedy              | 10              |
+| Sorting             | 23              |
 | Binary Search       | 1               |
 | Recursion           | 0               |
 | Dynamic Programming | 1               |
@@ -168,6 +168,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                                  | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1493_LongestSubArrayOf1sAfterDeleting.java)              |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                                         | Array, Sliding Window                              | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1658_MinimumOperationsToReduceXToZero.java)              |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)                                                         | Array, Hashing, Sliding Window                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1695_MaximumErasureValue.java)              |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)                                                         | Array, Sliding Window, Greedy, Sorting, Maths      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1833_MaximumIcecreamBars.java)  |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)                                                         | Array, Sliding Window, Greedy, Sorting, Prefix Sum | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1838_FrequencyOfMostFrequentElement.java)  |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)                                                                                 | Array, Matrix                                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1914_CyclicallyRotatingAGrid.java)  |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)                                                                                 | Arrays, Sliding Window                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q2090_KRadiusSubarrayAverage.java)        |
@@ -230,6 +231,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 ### 📦 Arrays
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -330,6 +332,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 - [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 ### 🔢Prefix Sum
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -492,6 +495,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)
 - [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 - [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 ### 💲Strings
 
@@ -530,6 +534,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 - [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)
 - [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/)
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -556,6 +561,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 - [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)
 - [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/)
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 ### 🧩 Sorting
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -580,6 +586,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)
 - [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
+- [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 ### 🔍 Binary Search
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -597,7 +604,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 59     |
-| Medium     | 79     |
+| Medium     | 80     |
 | Hard       | 6      |
 
 ---
