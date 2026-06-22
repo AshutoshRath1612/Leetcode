@@ -15,14 +15,14 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 | Topic               | Problems Solved |
 |:--------------------|:----------------|
-| Maths               | 19              |
+| Maths               | 20              |
 | Arrays              | 96              |
 | Prefix Sum          | 17              |
 | Matrix              | 8               |
-| Hashing             | 32              |
+| Hashing             | 33              |
 | Two Pointers        | 41              |
 | Sliding Window      | 29              |
-| String              | 35              |
+| String              | 36              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 2               |
@@ -80,6 +80,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                                    | Array, Two Pointers, Sorting            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q977_SqOfSortedArray.java)                  |
 | 989  | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                                                                              | Array, Math                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q989_AddToArrayFormOfInteger.java)          |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                                                                    | Array, Heap                             | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1046_LastStoneWeight.java)          |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)                                                                                                    | Maths, Hashing, String                  | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1189_MaximumNumbersOfBalloons.java)          |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                                                        | Array, Maths                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1295_FindNumbersWithEvenDigits.java)          |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)                                          | Array, Prefix Sum                       | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1413_MinimumValueToGetPositiveStepSum.java)                    |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                                          | String, Prefix Sum                      | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q1422_MaximumScoreAfterSplittingAString.java)                    |
@@ -232,6 +233,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+- [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
 
 ### 📦 Arrays
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -396,6 +398,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+- [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
 
 ### 📃 Linked List
 
@@ -535,6 +538,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)
 - [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+- [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
