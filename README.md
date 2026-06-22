@@ -19,10 +19,10 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Arrays              | 96              |
 | Prefix Sum          | 17              |
 | Matrix              | 8               |
-| Hashing             | 33              |
+| Hashing             | 34              |
 | Two Pointers        | 41              |
-| Sliding Window      | 29              |
-| String              | 36              |
+| Sliding Window      | 30              |
+| String              | 37              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 2               |
@@ -149,6 +149,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                                       | Array, Hashing, Maths, Sorting                     | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q347_TopKFrequentElement.java)              |
 | 369  | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)                                                                                             | Linked List, Maths                                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q369_PlusOneLinkedList.java)              |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                                       | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q424_LongestRepeatingCharacterReplacement.java)        |
+| 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                                       | Hashing, String, Sliding Window                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q438_FindAllAnagramsInString.java)        |
 | 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                                                       | Arrays, Hashing, Sorting                           | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q442_FindAllDuplicateInAnArray.java)        |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression/)                                                                                                 | Two Pointers, String                               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q443_StringCompression.java)                |
 | 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                             | Maths, Hashing, String, Sorting                    | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q451_SortCharacterByFrequency.java)         |
@@ -399,6 +400,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
+- [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 ### 📃 Linked List
 
@@ -499,6 +501,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 - [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+- [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 ### 💲Strings
 
@@ -539,6 +542,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
+- [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -608,7 +612,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Difficulty | Solved |
 |:-----------|:-------|
 | Easy       | 59     |
-| Medium     | 80     |
+| Medium     | 82     |
 | Hard       | 6      |
 
 ---
