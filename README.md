@@ -22,7 +22,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 | Hashing             | 34              |
 | Two Pointers        | 41              |
 | Sliding Window      | 30              |
-| String              | 37              |
+| String              | 38              |
 | Linked List         | 21              |
 | Stack               | 4               |
 | Queue               | 2               |
@@ -201,14 +201,15 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 
 ### 🔴 Hard
 
-|  #  | Problem                                                                         | Tags                                   | Solution                                                                                         |
-|:---:|:--------------------------------------------------------------------------------|:---------------------------------------|:-------------------------------------------------------------------------------------------------|
-| 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
-| 25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
-| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
-| 76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hashing, String, Sliding Window        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q76_MinimumWindowSubstring.java) |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Arrays, Queue, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q239_SlidingWindowMaximum.java) |
-| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Arrays, Hashing, Sliding Window, Maths | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q992_SubarrayWithKDifferentIntegers.java) |
+|  #   | Problem                                                                         | Tags                                   | Solution                                                                                         |
+|:----:|:--------------------------------------------------------------------------------|:---------------------------------------|:-------------------------------------------------------------------------------------------------|
+|  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)     | Linked List, Sorting                   | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q23_MergeKSortedLists.java)    |
+|  25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)     | Linked List                            | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q25_ReverseNodesInKGroups.java)    |
+|  41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Arrays, Hashing, Sorting               | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q41_FirstMissingPositive.java) |
+|  76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hashing, String, Sliding Window        | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q76_MinimumWindowSubstring.java) |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Arrays, Queue, Sliding Window          | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q239_SlidingWindowMaximum.java) |
+| 992  | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Arrays, Hashing, Sliding Window, Maths | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q992_SubarrayWithKDifferentIntegers.java) |
+| 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | String                                 | [Solution](https://github.com/AshutoshRath1612/Leetcode/blob/main/Q3614_ProcessStringWithSpecialOperationII.java) |
 
 ---
 
@@ -543,6 +544,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/)
 
 ### 🪜 Stack
 - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
@@ -613,7 +615,7 @@ A collection of all the LeetCode problems I’ve solved so far, organized **topi
 |:-----------|:-------|
 | Easy       | 59     |
 | Medium     | 82     |
-| Hard       | 6      |
+| Hard       | 7      |
 
 ---
 
