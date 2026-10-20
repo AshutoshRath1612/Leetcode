@@ -7,9 +7,9 @@
 | Difficulty | Solved |
 |:-----------|:-------|
 | 🟢 Easy | 2 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **2** |
+| **Total** | **3** |
 
 ---
 
@@ -17,12 +17,12 @@
 
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
-| Maths | 0 | 0 | 0 | 0 |
-| Arrays | 2 | 2 | 0 | 0 |
+| Maths | 1 | 0 | 1 | 0 |
+| Arrays | 3 | 2 | 1 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 0 | 0 | 0 | 0 |
 | Hashing | 1 | 1 | 0 | 0 |
-| Two Pointers | 0 | 0 | 0 | 0 |
+| Two Pointers | 1 | 0 | 1 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
 | Linked List | 0 | 0 | 0 | 0 |
@@ -50,9 +50,11 @@ _A problem counts towards every topic it is tagged with._
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, Hashing, Sorting | [Java](0217-contains-duplicate/contains-duplicate.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
-### 🟡 Medium (0)
+### 🟡 Medium (1)
 
-_Nothing here yet._
+| # | Problem | Tags | Solution |
+|:--:|:--------|:-----|:---------|
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
 
 ### 🔴 Hard (0)
 
@@ -62,12 +64,19 @@ _Nothing here yet._
 
 ## 🧠 Topic-wise Breakdown
 
-### 📦 Arrays (2)
+### 📐 Maths (1)
+- 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+### 📦 Arrays (3)
+- 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟢 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
 ### 🔑 Hashing (1)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+### 👣 Two Pointers (1)
+- 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ### 🧩 Sorting (1)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)

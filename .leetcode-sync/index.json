@@ -50,7 +50,33 @@
       ],
       "dir": "0485-max-consecutive-ones",
       "firstSolvedAt": "2026-10-20T06:48:45.000Z"
+    },
+    "rotate-array": {
+      "solutions": {
+        "rotate-array.java": {
+          "file": "rotate-array.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "5 ms",
+          "runtimePercentile": 49.2435,
+          "memory": "268.5 MB",
+          "memoryPercentile": 82.40479999999968,
+          "submissionId": "2176835637",
+          "solvedAt": "2026-10-20T06:58:49.000Z"
+        }
+      },
+      "id": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "dir": "0189-rotate-array",
+      "firstSolvedAt": "2026-10-20T06:58:49.000Z"
     }
   },
-  "updatedAt": "2026-10-20T06:48:53.763Z"
+  "updatedAt": "2026-10-20T06:59:01.557Z"
 }
