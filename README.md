@@ -6,10 +6,10 @@
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **4** |
+| **Total** | **5** |
 
 ---
 
@@ -18,11 +18,11 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 1 | 0 | 1 | 0 |
-| Arrays | 4 | 3 | 1 | 0 |
+| Arrays | 5 | 4 | 1 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 0 | 0 | 0 | 0 |
 | Hashing | 1 | 1 | 0 | 0 |
-| Two Pointers | 2 | 1 | 1 | 0 |
+| Two Pointers | 3 | 2 | 1 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
 | Linked List | 0 | 0 | 0 | 0 |
@@ -43,10 +43,11 @@ _A problem counts towards every topic it is tagged with._
 
 ## 📚 Problem List (Difficulty-wise)
 
-### 🟢 Easy (3)
+### 🟢 Easy (4)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers | [Java](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, Hashing, Sorting | [Java](0217-contains-duplicate/contains-duplicate.java) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | [Java](0283-move-zeroes/move-zeroes.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
@@ -68,7 +69,8 @@ _Nothing here yet._
 ### 📐 Maths (1)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
-### 📦 Arrays (4)
+### 📦 Arrays (5)
+- 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
@@ -77,7 +79,8 @@ _Nothing here yet._
 ### 🔑 Hashing (1)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-### 👣 Two Pointers (2)
+### 👣 Two Pointers (3)
+- 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 

@@ -101,7 +101,32 @@
       ],
       "dir": "0283-move-zeroes",
       "firstSolvedAt": "2026-10-20T07:08:31.000Z"
+    },
+    "remove-duplicates-from-sorted-array": {
+      "solutions": {
+        "remove-duplicates-from-sorted-array.java": {
+          "file": "remove-duplicates-from-sorted-array.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "1 ms",
+          "runtimePercentile": 79.09,
+          "memory": "46.4 MB",
+          "memoryPercentile": 92.25510000000001,
+          "submissionId": "2176862312",
+          "solvedAt": "2026-10-20T07:36:55.000Z"
+        }
+      },
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "dir": "0026-remove-duplicates-from-sorted-array",
+      "firstSolvedAt": "2026-10-20T07:36:55.000Z"
     }
   },
-  "updatedAt": "2026-10-20T07:08:42.649Z"
+  "updatedAt": "2026-10-20T07:37:05.464Z"
 }
