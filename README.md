@@ -6,10 +6,10 @@
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| 🟢 Easy | 1 |
+| 🟢 Easy | 2 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **1** |
+| **Total** | **2** |
 
 ---
 
@@ -18,7 +18,7 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 0 | 0 | 0 | 0 |
-| Arrays | 1 | 1 | 0 | 0 |
+| Arrays | 2 | 2 | 0 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 0 | 0 | 0 | 0 |
 | Hashing | 1 | 1 | 0 | 0 |
@@ -43,11 +43,12 @@ _A problem counts towards every topic it is tagged with._
 
 ## 📚 Problem List (Difficulty-wise)
 
-### 🟢 Easy (1)
+### 🟢 Easy (2)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, Hashing, Sorting | [Java](0217-contains-duplicate/contains-duplicate.java) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
 ### 🟡 Medium (0)
 
@@ -61,8 +62,9 @@ _Nothing here yet._
 
 ## 🧠 Topic-wise Breakdown
 
-### 📦 Arrays (1)
+### 📦 Arrays (2)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- 🟢 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
 ### 🔑 Hashing (1)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)

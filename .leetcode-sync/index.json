@@ -26,7 +26,31 @@
       ],
       "dir": "0217-contains-duplicate",
       "firstSolvedAt": "2026-10-20T06:18:30.000Z"
+    },
+    "max-consecutive-ones": {
+      "solutions": {
+        "max-consecutive-ones.java": {
+          "file": "max-consecutive-ones.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "3 ms",
+          "runtimePercentile": 57.99400000000001,
+          "memory": "52.4 MB",
+          "memoryPercentile": 63.395900000000026,
+          "submissionId": "2176828527",
+          "solvedAt": "2026-10-20T06:48:45.000Z"
+        }
+      },
+      "id": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "difficulty": "Easy",
+      "tags": [
+        "Array"
+      ],
+      "dir": "0485-max-consecutive-ones",
+      "firstSolvedAt": "2026-10-20T06:48:45.000Z"
     }
   },
-  "updatedAt": "2026-10-20T06:32:58.596Z"
+  "updatedAt": "2026-10-20T06:48:53.763Z"
 }
