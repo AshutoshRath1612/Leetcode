@@ -1,19 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "problems": {
-    "217": {
+    "contains-duplicate": {
       "id": "217",
       "solutions": {
         "contains-duplicate.java": {
           "file": "contains-duplicate.java",
           "lang": "Java",
           "langName": "java",
-          "runtime": "20 ms",
-          "runtimePercentile": 38.21690000000001,
-          "memory": "108.1 MB",
-          "memoryPercentile": 46.875899999999774,
-          "submissionId": "2176806090",
-          "solvedAt": "2026-10-20T06:18:30.000Z"
+          "runtime": "13 ms",
+          "runtimePercentile": 98.9249,
+          "memory": "108.7 MB",
+          "memoryPercentile": 18.898499999999775,
+          "submissionId": "2176817117",
+          "solvedAt": "2026-10-20T06:32:50.000Z"
         }
       },
       "title": "Contains Duplicate",
@@ -28,5 +28,5 @@
       "firstSolvedAt": "2026-10-20T06:18:30.000Z"
     }
   },
-  "updatedAt": "2026-10-20T06:18:39.193Z"
+  "updatedAt": "2026-10-20T06:32:58.596Z"
 }
