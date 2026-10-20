@@ -133,12 +133,12 @@
           "file": "missing-number.java",
           "lang": "Java",
           "langName": "java",
-          "runtime": "0 ms",
-          "runtimePercentile": 100,
+          "runtime": "1 ms",
+          "runtimePercentile": 28.2431,
           "memory": "46.8 MB",
-          "memoryPercentile": 95.32389999999997,
-          "submissionId": "2176865263",
-          "solvedAt": "2026-10-20T07:41:26.000Z"
+          "memoryPercentile": 97.19089999999997,
+          "submissionId": "2176870093",
+          "solvedAt": "2026-10-20T07:48:48.000Z"
         }
       },
       "id": "268",
@@ -157,5 +157,5 @@
       "firstSolvedAt": "2026-10-20T07:41:26.000Z"
     }
   },
-  "updatedAt": "2026-10-20T07:41:36.071Z"
+  "updatedAt": "2026-10-20T07:48:59.499Z"
 }

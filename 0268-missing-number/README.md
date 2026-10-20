@@ -80,4 +80,4 @@
 
 | Language | Runtime | Memory | Solved on | Solution |
 | --- | --- | --- | :---: | --- |
-| Java | 0 ms (100%) | 46.8 MB (95.32%) | 2026-10-20 | [missing-number.java](./missing-number.java) |
+| Java | 1 ms (28.24%) | 46.8 MB (97.19%) | 2026-10-20 | [missing-number.java](./missing-number.java) |
