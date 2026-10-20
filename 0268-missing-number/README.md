@@ -78,6 +78,7 @@
 
 ## Submissions
 
-| Language | Runtime | Memory | Solved on | Solution |
-| --- | --- | --- | :---: | --- |
-| Java | 1 ms (28.24%) | 46.8 MB (97.19%) | 2026-10-20 | [missing-number.java](./missing-number.java) |
+| Language | Runtime | Memory | Solved on | Submission | Solution |
+| --- | --- | --- | :---: | :---: | --- |
+| Java (1) | 1 ms (28.24%) | 46.8 MB (97.19%) | 2026-10-20 07:48 UTC | [2176870093](https://leetcode.com/submissions/detail/2176870093/) | [missing-number.java](./missing-number.java) |
+| Java (2) | 0 ms (100%) | 47.1 MB (88.03%) | 2026-10-20 08:00 UTC | [2176876994](https://leetcode.com/submissions/detail/2176876994/) | [missing-number-2176876994.java](./missing-number-2176876994.java) |

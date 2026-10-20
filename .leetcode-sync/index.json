@@ -139,6 +139,17 @@
           "memoryPercentile": 97.19089999999997,
           "submissionId": "2176870093",
           "solvedAt": "2026-10-20T07:48:48.000Z"
+        },
+        "missing-number-2176876994.java": {
+          "file": "missing-number-2176876994.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "47.1 MB",
+          "memoryPercentile": 88.03389999999997,
+          "submissionId": "2176876994",
+          "solvedAt": "2026-10-20T08:00:04.000Z"
         }
       },
       "id": "268",
@@ -157,5 +168,5 @@
       "firstSolvedAt": "2026-10-20T07:41:26.000Z"
     }
   },
-  "updatedAt": "2026-10-20T07:48:59.499Z"
+  "updatedAt": "2026-10-20T08:00:16.410Z"
 }

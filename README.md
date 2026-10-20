@@ -50,7 +50,7 @@ _A problem counts towards every topic it is tagged with._
 |:--:|:--------|:-----|:---------|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers | [Java](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, Hashing, Sorting | [Java](0217-contains-duplicate/contains-duplicate.java) |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Hashing, Maths, Binary Search, Bit Manipulation, Sorting | [Java](0268-missing-number/missing-number.java) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Hashing, Maths, Binary Search, Bit Manipulation, Sorting | [Java (1)](0268-missing-number/missing-number.java), [Java (2)](0268-missing-number/missing-number-2176876994.java) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | [Java](0283-move-zeroes/move-zeroes.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
