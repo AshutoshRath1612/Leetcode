@@ -76,7 +76,32 @@
       ],
       "dir": "0189-rotate-array",
       "firstSolvedAt": "2026-10-20T06:58:49.000Z"
+    },
+    "move-zeroes": {
+      "solutions": {
+        "move-zeroes.java": {
+          "file": "move-zeroes.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "3 ms",
+          "runtimePercentile": 18.70710000000001,
+          "memory": "47.3 MB",
+          "memoryPercentile": 96.07519999999998,
+          "submissionId": "2176842676",
+          "solvedAt": "2026-10-20T07:08:31.000Z"
+        }
+      },
+      "id": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "dir": "0283-move-zeroes",
+      "firstSolvedAt": "2026-10-20T07:08:31.000Z"
     }
   },
-  "updatedAt": "2026-10-20T06:59:01.557Z"
+  "updatedAt": "2026-10-20T07:08:42.649Z"
 }

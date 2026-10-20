@@ -6,10 +6,10 @@
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| 🟢 Easy | 2 |
+| 🟢 Easy | 3 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **3** |
+| **Total** | **4** |
 
 ---
 
@@ -18,11 +18,11 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 1 | 0 | 1 | 0 |
-| Arrays | 3 | 2 | 1 | 0 |
+| Arrays | 4 | 3 | 1 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 0 | 0 | 0 | 0 |
 | Hashing | 1 | 1 | 0 | 0 |
-| Two Pointers | 1 | 0 | 1 | 0 |
+| Two Pointers | 2 | 1 | 1 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
 | Linked List | 0 | 0 | 0 | 0 |
@@ -43,11 +43,12 @@ _A problem counts towards every topic it is tagged with._
 
 ## 📚 Problem List (Difficulty-wise)
 
-### 🟢 Easy (2)
+### 🟢 Easy (3)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, Hashing, Sorting | [Java](0217-contains-duplicate/contains-duplicate.java) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | [Java](0283-move-zeroes/move-zeroes.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
 ### 🟡 Medium (1)
@@ -67,16 +68,18 @@ _Nothing here yet._
 ### 📐 Maths (1)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
-### 📦 Arrays (3)
+### 📦 Arrays (4)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - 🟢 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
 ### 🔑 Hashing (1)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-### 👣 Two Pointers (1)
+### 👣 Two Pointers (2)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 ### 🧩 Sorting (1)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
