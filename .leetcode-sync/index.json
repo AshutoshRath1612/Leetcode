@@ -126,7 +126,36 @@
       ],
       "dir": "0026-remove-duplicates-from-sorted-array",
       "firstSolvedAt": "2026-10-20T07:36:55.000Z"
+    },
+    "missing-number": {
+      "solutions": {
+        "missing-number.java": {
+          "file": "missing-number.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "46.8 MB",
+          "memoryPercentile": 95.32389999999997,
+          "submissionId": "2176865263",
+          "solvedAt": "2026-10-20T07:41:26.000Z"
+        }
+      },
+      "id": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "dir": "0268-missing-number",
+      "firstSolvedAt": "2026-10-20T07:41:26.000Z"
     }
   },
-  "updatedAt": "2026-10-20T07:37:05.464Z"
+  "updatedAt": "2026-10-20T07:41:36.071Z"
 }
