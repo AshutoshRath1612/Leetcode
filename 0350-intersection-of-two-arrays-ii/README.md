@@ -47,3 +47,4 @@
 | --- | --- | --- | :---: | :---: | --- |
 | Java (1) | 3 ms (93.66%) | 42.8 MB (99.99%) | 2024-07-02 06:04 UTC | [1306670888](https://leetcode.com/submissions/detail/1306670888/) | [intersection-of-two-arrays-ii.java](./intersection-of-two-arrays-ii.java) |
 | Java (2) | 6 ms (30.49%) | 44.9 MB (71.26%) | 2026-10-24 14:43 UTC | [2180531353](https://leetcode.com/submissions/detail/2180531353/) | [intersection-of-two-arrays-ii-2180531353.java](./intersection-of-two-arrays-ii-2180531353.java) |
+| Java (3) | 4 ms (45.79%) | 44.6 MB (85.16%) | 2026-10-24 14:44 UTC | [2180534341](https://leetcode.com/submissions/detail/2180534341/) | [intersection-of-two-arrays-ii-2180534341.java](./intersection-of-two-arrays-ii-2180534341.java) |
