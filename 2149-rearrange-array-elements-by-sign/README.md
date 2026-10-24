@@ -57,4 +57,5 @@ It is not required to do the modifications in-place.
 
 | Language | Runtime | Memory | Solved on | Submission | Solution |
 | --- | --- | --- | :---: | :---: | --- |
-| Java | 7 ms (14.12%) | 174.9 MB (78.75%) | 2026-10-24 15:21 UTC | [2180600736](https://leetcode.com/submissions/detail/2180600736/) | [rearrange-array-elements-by-sign.java](./rearrange-array-elements-by-sign.java) |
+| Java (1) | 7 ms (14.12%) | 174.9 MB (78.75%) | 2026-10-24 15:21 UTC | [2180600736](https://leetcode.com/submissions/detail/2180600736/) | [rearrange-array-elements-by-sign.java](./rearrange-array-elements-by-sign.java) |
+| Java (2) | 3 ms (100%) | 175.1 MB (76.82%) | 2026-10-24 15:23 UTC | [2180604189](https://leetcode.com/submissions/detail/2180604189/) | [rearrange-array-elements-by-sign-2180604189.java](./rearrange-array-elements-by-sign-2180604189.java) |

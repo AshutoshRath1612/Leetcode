@@ -286,6 +286,17 @@
           "memoryPercentile": 78.74590000000026,
           "submissionId": "2180600736",
           "solvedAt": "2026-10-24T15:21:15.000Z"
+        },
+        "rearrange-array-elements-by-sign-2180604189.java": {
+          "file": "rearrange-array-elements-by-sign-2180604189.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "3 ms",
+          "runtimePercentile": 100,
+          "memory": "175.1 MB",
+          "memoryPercentile": 76.82200000000026,
+          "submissionId": "2180604189",
+          "solvedAt": "2026-10-24T15:23:37.000Z"
         }
       },
       "id": "2149",
@@ -301,5 +312,5 @@
       "firstSolvedAt": "2026-10-24T15:21:15.000Z"
     }
   },
-  "updatedAt": "2026-10-24T15:21:22.445Z"
+  "updatedAt": "2026-10-24T15:23:47.165Z"
 }
