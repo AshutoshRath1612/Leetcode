@@ -216,7 +216,35 @@
       ],
       "dir": "0350-intersection-of-two-arrays-ii",
       "firstSolvedAt": "2024-07-02T06:04:00.000Z"
+    },
+    "intersection-of-two-arrays": {
+      "solutions": {
+        "intersection-of-two-arrays.java": {
+          "file": "intersection-of-two-arrays.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "4 ms",
+          "runtimePercentile": 29.386800000000004,
+          "memory": "43.9 MB",
+          "memoryPercentile": 99.60279999999999,
+          "submissionId": "2180547483",
+          "solvedAt": "2026-10-24T14:50:53.000Z"
+        }
+      },
+      "id": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "dir": "0349-intersection-of-two-arrays",
+      "firstSolvedAt": "2026-10-24T14:50:53.000Z"
     }
   },
-  "updatedAt": "2026-10-24T14:44:53.338Z"
+  "updatedAt": "2026-10-24T14:51:00.321Z"
 }
