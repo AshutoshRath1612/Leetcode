@@ -65,7 +65,7 @@ _A problem counts towards every topic it is tagged with._
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java](0054-spiral-matrix/spiral-matrix.java) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Arrays, Two Pointers, Simulation | [Java (1)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.java), [Java (2)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign-2180604189.java) |
 

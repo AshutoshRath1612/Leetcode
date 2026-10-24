@@ -37,4 +37,5 @@
 
 | Language | Runtime | Memory | Solved on | Submission | Solution |
 | --- | --- | --- | :---: | :---: | --- |
-| Java | 0 ms (100%) | 42.7 MB (81.99%) | 2026-04-24 19:47 UTC | [1987279148](https://leetcode.com/submissions/detail/1987279148/) | [spiral-matrix.java](./spiral-matrix.java) |
+| Java (1) | 0 ms (100%) | 42.7 MB (81.99%) | 2026-04-24 19:47 UTC | [1987279148](https://leetcode.com/submissions/detail/1987279148/) | [spiral-matrix.java](./spiral-matrix.java) |
+| Java (2) | 0 ms (100%) | 42.3 MB (98.86%) | 2026-10-24 15:43 UTC | [2180630766](https://leetcode.com/submissions/detail/2180630766/) | [spiral-matrix-2180630766.java](./spiral-matrix-2180630766.java) |
