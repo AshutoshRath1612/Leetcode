@@ -45,4 +45,5 @@
 
 | Language | Runtime | Memory | Solved on | Submission | Solution |
 | --- | --- | --- | :---: | :---: | --- |
-| Java | 3 ms (93.66%) | 42.8 MB (99.99%) | 2024-07-02 06:04 UTC | [1306670888](https://leetcode.com/submissions/detail/1306670888/) | [intersection-of-two-arrays-ii.java](./intersection-of-two-arrays-ii.java) |
+| Java (1) | 3 ms (93.66%) | 42.8 MB (99.99%) | 2024-07-02 06:04 UTC | [1306670888](https://leetcode.com/submissions/detail/1306670888/) | [intersection-of-two-arrays-ii.java](./intersection-of-two-arrays-ii.java) |
+| Java (2) | 6 ms (30.49%) | 44.9 MB (71.26%) | 2026-10-24 14:43 UTC | [2180531353](https://leetcode.com/submissions/detail/2180531353/) | [intersection-of-two-arrays-ii-2180531353.java](./intersection-of-two-arrays-ii-2180531353.java) |
