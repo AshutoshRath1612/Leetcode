@@ -6,10 +6,10 @@
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| 🟢 Easy | 5 |
+| 🟢 Easy | 6 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ---
 
@@ -18,11 +18,11 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 2 | 1 | 1 | 0 |
-| Arrays | 6 | 5 | 1 | 0 |
+| Arrays | 7 | 6 | 1 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 0 | 0 | 0 | 0 |
-| Hashing | 2 | 2 | 0 | 0 |
-| Two Pointers | 3 | 2 | 1 | 0 |
+| Hashing | 3 | 3 | 0 | 0 |
+| Two Pointers | 4 | 3 | 1 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
 | Linked List | 0 | 0 | 0 | 0 |
@@ -30,8 +30,8 @@
 | Queue | 0 | 0 | 0 | 0 |
 | Heap | 0 | 0 | 0 | 0 |
 | Greedy | 0 | 0 | 0 | 0 |
-| Sorting | 2 | 2 | 0 | 0 |
-| Binary Search | 1 | 1 | 0 | 0 |
+| Sorting | 3 | 3 | 0 | 0 |
+| Binary Search | 2 | 2 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Dynamic Programming | 0 | 0 | 0 | 0 |
 | Graphs | 0 | 0 | 0 | 0 |
@@ -44,7 +44,7 @@ _A problem counts towards every topic it is tagged with._
 
 ## 📚 Problem List (Difficulty-wise)
 
-### 🟢 Easy (5)
+### 🟢 Easy (6)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
@@ -52,6 +52,7 @@ _A problem counts towards every topic it is tagged with._
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, Hashing, Sorting | [Java](0217-contains-duplicate/contains-duplicate.java) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Hashing, Maths, Binary Search, Bit Manipulation, Sorting | [Java (1)](0268-missing-number/missing-number.java), [Java (2)](0268-missing-number/missing-number-2176876994.java) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays, Two Pointers | [Java](0283-move-zeroes/move-zeroes.java) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays, Hashing, Two Pointers, Binary Search, Sorting | [Java](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
 ### 🟡 Medium (1)
@@ -72,29 +73,34 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (6)
+### 📦 Arrays (7)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 🟢 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
-### 🔑 Hashing (2)
+### 🔑 Hashing (3)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
+- 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 👣 Two Pointers (3)
+### 👣 Two Pointers (4)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 🧩 Sorting (2)
+### 🧩 Sorting (3)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
+- 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 🔍 Binary Search (1)
+### 🔍 Binary Search (2)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
+- 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 ### 📌 Bit Manipulation (1)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
