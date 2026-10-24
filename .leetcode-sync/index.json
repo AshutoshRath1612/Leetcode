@@ -244,7 +244,36 @@
       ],
       "dir": "0349-intersection-of-two-arrays",
       "firstSolvedAt": "2026-10-24T14:50:53.000Z"
+    },
+    "majority-element": {
+      "solutions": {
+        "majority-element.java": {
+          "file": "majority-element.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "22 ms",
+          "runtimePercentile": 7.733800000000009,
+          "memory": "54.6 MB",
+          "memoryPercentile": 89.5351,
+          "submissionId": "2180567983",
+          "solvedAt": "2026-10-24T15:01:17.000Z"
+        }
+      },
+      "id": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "dir": "0169-majority-element",
+      "firstSolvedAt": "2026-10-24T15:01:17.000Z"
     }
   },
-  "updatedAt": "2026-10-24T14:51:00.321Z"
+  "updatedAt": "2026-10-24T15:01:31.121Z"
 }
