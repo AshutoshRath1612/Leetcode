@@ -310,7 +310,33 @@
       ],
       "dir": "2149-rearrange-array-elements-by-sign",
       "firstSolvedAt": "2026-10-24T15:21:15.000Z"
+    },
+    "spiral-matrix": {
+      "solutions": {
+        "spiral-matrix.java": {
+          "file": "spiral-matrix.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "42.7 MB",
+          "memoryPercentile": 81.99329999999999,
+          "submissionId": "1987279148",
+          "solvedAt": "2026-04-24T19:47:34.000Z"
+        }
+      },
+      "id": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "dir": "0054-spiral-matrix",
+      "firstSolvedAt": "2026-04-24T19:47:34.000Z"
     }
   },
-  "updatedAt": "2026-10-24T15:23:47.165Z"
+  "updatedAt": "2026-10-24T15:41:13.204Z"
 }
