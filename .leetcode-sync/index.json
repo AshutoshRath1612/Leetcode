@@ -623,7 +623,35 @@
       ],
       "dir": "0031-next-permutation",
       "firstSolvedAt": "2026-10-25T12:49:38.000Z"
+    },
+    "majority-element-ii": {
+      "solutions": {
+        "majority-element-ii.java": {
+          "file": "majority-element-ii.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "20 ms",
+          "runtimePercentile": 8.406400000000009,
+          "memory": "51.5 MB",
+          "memoryPercentile": 87.0180999999999,
+          "submissionId": "2181388670",
+          "solvedAt": "2026-10-25T12:53:18.000Z"
+        }
+      },
+      "id": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "dir": "0229-majority-element-ii",
+      "firstSolvedAt": "2026-10-25T12:53:18.000Z"
     }
   },
-  "updatedAt": "2026-10-25T12:49:48.538Z"
+  "updatedAt": "2026-10-25T12:53:27.148Z"
 }

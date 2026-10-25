@@ -7,9 +7,9 @@
 | Difficulty | Solved |
 |:-----------|:-------|
 | 🟢 Easy | 11 |
-| 🟡 Medium | 9 |
+| 🟡 Medium | 10 |
 | 🔴 Hard | 0 |
-| **Total** | **20** |
+| **Total** | **21** |
 
 ---
 
@@ -18,10 +18,10 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 20 | 11 | 9 | 0 |
+| Arrays | 21 | 11 | 10 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
-| Hashing | 6 | 6 | 0 | 0 |
+| Hashing | 7 | 6 | 1 | 0 |
 | Two Pointers | 10 | 4 | 6 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
@@ -30,18 +30,18 @@
 | Queue | 0 | 0 | 0 | 0 |
 | Heap | 0 | 0 | 0 | 0 |
 | Greedy | 0 | 0 | 0 | 0 |
-| Sorting | 8 | 5 | 3 | 0 |
+| Sorting | 9 | 5 | 4 | 0 |
 | Binary Search | 3 | 3 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Dynamic Programming | 3 | 2 | 1 | 0 |
 | Graphs | 0 | 0 | 0 | 0 |
 | Trees | 0 | 0 | 0 | 0 |
+| Boyer–Moore Majority Vote Algorithm | 2 | 1 | 1 | 0 |
+| Counting | 2 | 1 | 1 | 0 |
 | Divide and Conquer | 2 | 1 | 1 | 0 |
 | Simulation | 2 | 0 | 2 | 0 |
 | Bit Manipulation | 1 | 1 | 0 | 0 |
-| Boyer–Moore Majority Vote Algorithm | 1 | 1 | 0 | 0 |
 | Bubble Sort | 1 | 0 | 1 | 0 |
-| Counting | 1 | 1 | 0 | 0 |
 | Quicksort | 1 | 0 | 1 | 0 |
 
 _A problem counts towards every topic it is tagged with._
@@ -66,7 +66,7 @@ _A problem counts towards every topic it is tagged with._
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays, Hashing, Two Pointers, Binary Search, Sorting | [Java (1)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java), [Java (2)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180531353.java), [Java (3)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180534341.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
-### 🟡 Medium (9)
+### 🟡 Medium (10)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
@@ -78,6 +78,7 @@ _A problem counts towards every topic it is tagged with._
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays, Two Pointers, Sorting, Quicksort, Bubble Sort | [Java (1)](0075-sort-colors/sort-colors.java), [Java (2)](0075-sort-colors/sort-colors-2181347783.java), [Java (3)](0075-sort-colors/sort-colors-2181352167.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Arrays, Hashing, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [Java](0229-majority-element-ii/majority-element-ii.java) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Arrays, Two Pointers, Simulation | [Java (1)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.java), [Java (2)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign-2180604189.java) |
 
 ### 🔴 Hard (0)
@@ -93,7 +94,7 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (20)
+### 📦 Arrays (21)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
@@ -108,6 +109,7 @@ _Nothing here yet._
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- 🟡 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -119,10 +121,11 @@ _Nothing here yet._
 - 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
-### 🔑 Hashing (6)
+### 🔑 Hashing (7)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- 🟡 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
@@ -139,12 +142,13 @@ _Nothing here yet._
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 🟡 [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
-### 🧩 Sorting (8)
+### 🧩 Sorting (9)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- 🟡 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
@@ -159,6 +163,14 @@ _Nothing here yet._
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 
+### 📌 Boyer–Moore Majority Vote Algorithm (2)
+- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
+- 🟡 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+### 📌 Counting (2)
+- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
+- 🟡 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
 ### 📌 Divide and Conquer (2)
 - 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
@@ -170,14 +182,8 @@ _Nothing here yet._
 ### 📌 Bit Manipulation (1)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📌 Boyer–Moore Majority Vote Algorithm (1)
-- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
-
 ### 📌 Bubble Sort (1)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
-
-### 📌 Counting (1)
-- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 
 ### 📌 Quicksort (1)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
