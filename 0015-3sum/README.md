@@ -52,4 +52,5 @@ Notice that the order of the output and the order of the triplets does not matte
 
 | Language | Runtime | Memory | Solved on | Submission | Solution |
 | --- | --- | --- | :---: | :---: | --- |
-| Java | 32 ms (74.99%) | 59.7 MB (19.54%) | 2026-04-08 06:00 UTC | [1972273061](https://leetcode.com/submissions/detail/1972273061/) | [3sum.java](./3sum.java) |
+| Java (1) | 32 ms (74.99%) | 59.7 MB (19.54%) | 2026-04-08 06:00 UTC | [1972273061](https://leetcode.com/submissions/detail/1972273061/) | [3sum.java](./3sum.java) |
+| Java (2) | 33 ms (69.16%) | 60.1 MB (12.67%) | 2026-10-25 11:15 UTC | [2181327107](https://leetcode.com/submissions/detail/2181327107/) | [3sum-2181327107.java](./3sum-2181327107.java) |

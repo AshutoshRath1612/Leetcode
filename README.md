@@ -68,7 +68,7 @@ _A problem counts towards every topic it is tagged with._
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Arrays, Two Pointers, Sorting | [Java](0015-3sum/3sum.java) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Arrays, Two Pointers, Sorting | [Java (1)](0015-3sum/3sum.java), [Java (2)](0015-3sum/3sum-2181327107.java) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays, Maths, Matrix | [Java (1)](0048-rotate-image/rotate-image.java), [Java (2)](0048-rotate-image/rotate-image-2181307771.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |

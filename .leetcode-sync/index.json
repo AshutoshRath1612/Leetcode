@@ -472,6 +472,17 @@
           "memoryPercentile": 19.538199999999904,
           "submissionId": "1972273061",
           "solvedAt": "2026-04-08T06:00:59.000Z"
+        },
+        "3sum-2181327107.java": {
+          "file": "3sum-2181327107.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "33 ms",
+          "runtimePercentile": 69.16019999999997,
+          "memory": "60.1 MB",
+          "memoryPercentile": 12.674499999999906,
+          "submissionId": "2181327107",
+          "solvedAt": "2026-10-25T11:15:49.000Z"
         }
       },
       "id": "15",
@@ -487,5 +498,5 @@
       "firstSolvedAt": "2026-04-08T06:00:59.000Z"
     }
   },
-  "updatedAt": "2026-10-25T11:00:45.313Z"
+  "updatedAt": "2026-10-25T11:15:58.815Z"
 }
