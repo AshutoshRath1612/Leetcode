@@ -434,7 +434,32 @@
       ],
       "dir": "0048-rotate-image",
       "firstSolvedAt": "2026-06-09T18:12:15.000Z"
+    },
+    "two-sum": {
+      "solutions": {
+        "two-sum.java": {
+          "file": "two-sum.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "3 ms",
+          "runtimePercentile": 58.467299999999994,
+          "memory": "46.8 MB",
+          "memoryPercentile": 76.4699,
+          "submissionId": "2181310368",
+          "solvedAt": "2026-10-25T10:49:14.000Z"
+        }
+      },
+      "id": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "dir": "0001-two-sum",
+      "firstSolvedAt": "2026-10-25T10:49:14.000Z"
     }
   },
-  "updatedAt": "2026-10-25T10:45:07.857Z"
+  "updatedAt": "2026-10-25T10:49:23.911Z"
 }

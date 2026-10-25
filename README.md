@@ -6,10 +6,10 @@
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| 🟢 Easy | 10 |
+| 🟢 Easy | 11 |
 | 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
-| **Total** | **14** |
+| **Total** | **15** |
 
 ---
 
@@ -18,10 +18,10 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 14 | 10 | 4 | 0 |
+| Arrays | 15 | 11 | 4 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
-| Hashing | 5 | 5 | 0 | 0 |
+| Hashing | 6 | 6 | 0 | 0 |
 | Two Pointers | 6 | 4 | 2 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
@@ -48,10 +48,11 @@ _A problem counts towards every topic it is tagged with._
 
 ## 📚 Problem List (Difficulty-wise)
 
-### 🟢 Easy (10)
+### 🟢 Easy (11)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, Hashing | [Java](0001-two-sum/two-sum.java) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers | [Java](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Arrays, Dynamic Programming | [Java](0118-pascals-triangle/pascals-triangle.java) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Arrays, Dynamic Programming | [Java](0119-pascals-triangle-ii/pascals-triangle-ii.java) |
@@ -85,7 +86,8 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (14)
+### 📦 Arrays (15)
+- 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -105,7 +107,8 @@ _Nothing here yet._
 - 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
-### 🔑 Hashing (5)
+### 🔑 Hashing (6)
+- 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
