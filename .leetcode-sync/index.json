@@ -522,7 +522,35 @@
       ],
       "dir": "0018-4sum",
       "firstSolvedAt": "2026-10-25T11:30:53.000Z"
+    },
+    "sort-colors": {
+      "solutions": {
+        "sort-colors.java": {
+          "file": "sort-colors.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "43.4 MB",
+          "memoryPercentile": 68.38639999999998,
+          "submissionId": "1979798440",
+          "solvedAt": "2026-04-16T06:11:26.000Z"
+        }
+      },
+      "id": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Quicksort",
+        "Bubble Sort"
+      ],
+      "dir": "0075-sort-colors",
+      "firstSolvedAt": "2026-04-16T06:11:26.000Z"
     }
   },
-  "updatedAt": "2026-10-25T11:31:02.109Z"
+  "updatedAt": "2026-10-25T11:40:36.989Z"
 }
