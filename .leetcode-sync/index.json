@@ -372,7 +372,32 @@
       ],
       "dir": "0119-pascals-triangle-ii",
       "firstSolvedAt": "2026-10-25T05:13:13.000Z"
+    },
+    "pascals-triangle": {
+      "solutions": {
+        "pascals-triangle.java": {
+          "file": "pascals-triangle.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "1 ms",
+          "runtimePercentile": 95.5975,
+          "memory": "43 MB",
+          "memoryPercentile": 89.16180000000001,
+          "submissionId": "2181148277",
+          "solvedAt": "2026-10-25T06:23:28.000Z"
+        }
+      },
+      "id": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "dir": "0118-pascals-triangle",
+      "firstSolvedAt": "2026-10-25T06:23:28.000Z"
     }
   },
-  "updatedAt": "2026-10-25T05:13:26.022Z"
+  "updatedAt": "2026-10-25T06:23:41.449Z"
 }
