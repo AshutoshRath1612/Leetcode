@@ -347,7 +347,32 @@
       ],
       "dir": "0054-spiral-matrix",
       "firstSolvedAt": "2026-04-24T19:47:34.000Z"
+    },
+    "pascals-triangle-ii": {
+      "solutions": {
+        "pascals-triangle-ii.java": {
+          "file": "pascals-triangle-ii.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "42.5 MB",
+          "memoryPercentile": 60.836500000000015,
+          "submissionId": "2181102595",
+          "solvedAt": "2026-10-25T05:13:13.000Z"
+        }
+      },
+      "id": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "dir": "0119-pascals-triangle-ii",
+      "firstSolvedAt": "2026-10-25T05:13:13.000Z"
     }
   },
-  "updatedAt": "2026-10-24T15:43:48.545Z"
+  "updatedAt": "2026-10-25T05:13:26.022Z"
 }

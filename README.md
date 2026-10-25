@@ -6,10 +6,10 @@
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| 🟢 Easy | 8 |
+| 🟢 Easy | 9 |
 | 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 ---
 
@@ -18,7 +18,7 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 2 | 1 | 1 | 0 |
-| Arrays | 11 | 8 | 3 | 0 |
+| Arrays | 12 | 9 | 3 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 1 | 0 | 1 | 0 |
 | Hashing | 5 | 5 | 0 | 0 |
@@ -33,7 +33,7 @@
 | Sorting | 5 | 5 | 0 | 0 |
 | Binary Search | 3 | 3 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
-| Dynamic Programming | 0 | 0 | 0 | 0 |
+| Dynamic Programming | 1 | 1 | 0 | 0 |
 | Graphs | 0 | 0 | 0 | 0 |
 | Trees | 0 | 0 | 0 | 0 |
 | Simulation | 2 | 0 | 2 | 0 |
@@ -48,11 +48,12 @@ _A problem counts towards every topic it is tagged with._
 
 ## 📚 Problem List (Difficulty-wise)
 
-### 🟢 Easy (8)
+### 🟢 Easy (9)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers | [Java](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Arrays, Dynamic Programming | [Java](0119-pascals-triangle-ii/pascals-triangle-ii.java) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, Hashing, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [Java](0169-majority-element/majority-element.java) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays, Hashing, Sorting | [Java](0217-contains-duplicate/contains-duplicate.java) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays, Hashing, Maths, Binary Search, Bit Manipulation, Sorting | [Java (1)](0268-missing-number/missing-number.java), [Java (2)](0268-missing-number/missing-number-2176876994.java) |
@@ -81,9 +82,10 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (11)
+### 📦 Arrays (12)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -123,6 +125,9 @@ _Nothing here yet._
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+### 🧑‍💻 Dynamic Programming (1)
+- 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 
 ### 📌 Simulation (2)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
