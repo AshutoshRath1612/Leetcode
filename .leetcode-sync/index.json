@@ -397,7 +397,33 @@
       ],
       "dir": "0118-pascals-triangle",
       "firstSolvedAt": "2026-10-25T06:23:28.000Z"
+    },
+    "rotate-image": {
+      "solutions": {
+        "rotate-image.java": {
+          "file": "rotate-image.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "44 MB",
+          "memoryPercentile": 15.51680000000001,
+          "submissionId": "2027854625",
+          "solvedAt": "2026-06-09T18:12:15.000Z"
+        }
+      },
+      "id": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Math",
+        "Matrix"
+      ],
+      "dir": "0048-rotate-image",
+      "firstSolvedAt": "2026-06-09T18:12:15.000Z"
     }
   },
-  "updatedAt": "2026-10-25T06:23:41.449Z"
+  "updatedAt": "2026-10-25T10:35:36.505Z"
 }

@@ -7,9 +7,9 @@
 | Difficulty | Solved |
 |:-----------|:-------|
 | 🟢 Easy | 10 |
-| 🟡 Medium | 3 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
-| **Total** | **13** |
+| **Total** | **14** |
 
 ---
 
@@ -17,10 +17,10 @@
 
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
-| Maths | 2 | 1 | 1 | 0 |
-| Arrays | 13 | 10 | 3 | 0 |
+| Maths | 3 | 1 | 2 | 0 |
+| Arrays | 14 | 10 | 4 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
-| Matrix | 1 | 0 | 1 | 0 |
+| Matrix | 2 | 0 | 2 | 0 |
 | Hashing | 5 | 5 | 0 | 0 |
 | Two Pointers | 6 | 4 | 2 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
@@ -63,10 +63,11 @@ _A problem counts towards every topic it is tagged with._
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays, Hashing, Two Pointers, Binary Search, Sorting | [Java (1)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java), [Java (2)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180531353.java), [Java (3)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180534341.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
-### 🟡 Medium (3)
+### 🟡 Medium (4)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays, Maths, Matrix | [Java](0048-rotate-image/rotate-image.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Arrays, Two Pointers, Simulation | [Java (1)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.java), [Java (2)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign-2180604189.java) |
@@ -79,12 +80,14 @@ _Nothing here yet._
 
 ## 🧠 Topic-wise Breakdown
 
-### 📐 Maths (2)
+### 📐 Maths (3)
+- 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (13)
+### 📦 Arrays (14)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
@@ -98,7 +101,8 @@ _Nothing here yet._
 - 🟢 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - 🟡 [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
-### 🏁 Matrix (1)
+### 🏁 Matrix (2)
+- 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 ### 🔑 Hashing (5)
