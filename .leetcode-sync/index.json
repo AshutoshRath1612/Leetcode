@@ -459,7 +459,33 @@
       ],
       "dir": "0001-two-sum",
       "firstSolvedAt": "2026-10-25T10:49:14.000Z"
+    },
+    "3sum": {
+      "solutions": {
+        "3sum.java": {
+          "file": "3sum.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "32 ms",
+          "runtimePercentile": 74.99239999999998,
+          "memory": "59.7 MB",
+          "memoryPercentile": 19.538199999999904,
+          "submissionId": "1972273061",
+          "solvedAt": "2026-04-08T06:00:59.000Z"
+        }
+      },
+      "id": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "dir": "0015-3sum",
+      "firstSolvedAt": "2026-04-08T06:00:59.000Z"
     }
   },
-  "updatedAt": "2026-10-25T10:49:23.911Z"
+  "updatedAt": "2026-10-25T11:00:45.313Z"
 }
