@@ -7,9 +7,9 @@
 | Difficulty | Solved |
 |:-----------|:-------|
 | 🟢 Easy | 11 |
-| 🟡 Medium | 8 |
+| 🟡 Medium | 9 |
 | 🔴 Hard | 0 |
-| **Total** | **19** |
+| **Total** | **20** |
 
 ---
 
@@ -18,11 +18,11 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 19 | 11 | 8 | 0 |
+| Arrays | 20 | 11 | 9 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
 | Hashing | 6 | 6 | 0 | 0 |
-| Two Pointers | 9 | 4 | 5 | 0 |
+| Two Pointers | 10 | 4 | 6 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
 | Linked List | 0 | 0 | 0 | 0 |
@@ -66,12 +66,13 @@ _A problem counts towards every topic it is tagged with._
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays, Hashing, Two Pointers, Binary Search, Sorting | [Java (1)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java), [Java (2)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180531353.java), [Java (3)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180534341.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
-### 🟡 Medium (8)
+### 🟡 Medium (9)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Arrays, Two Pointers, Sorting | [Java (1)](0015-3sum/3sum.java), [Java (2)](0015-3sum/3sum-2181327107.java) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Arrays, Two Pointers, Sorting | [Java](0018-4sum/4sum.java) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Arrays, Two Pointers | [Java](0031-next-permutation/next-permutation.java) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays, Maths, Matrix | [Java (1)](0048-rotate-image/rotate-image.java), [Java (2)](0048-rotate-image/rotate-image-2181307771.java) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Arrays, Divide and Conquer, Dynamic Programming | [Java](0053-maximum-subarray/maximum-subarray.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
@@ -92,11 +93,12 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (19)
+### 📦 Arrays (20)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- 🟡 [Next Permutation](https://leetcode.com/problems/next-permutation/)
 - 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -125,10 +127,11 @@ _Nothing here yet._
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 👣 Two Pointers (9)
+### 👣 Two Pointers (10)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- 🟡 [Next Permutation](https://leetcode.com/problems/next-permutation/)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)

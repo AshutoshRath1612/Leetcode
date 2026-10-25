@@ -598,7 +598,32 @@
       ],
       "dir": "0053-maximum-subarray",
       "firstSolvedAt": "2026-10-25T12:04:39.000Z"
+    },
+    "next-permutation": {
+      "solutions": {
+        "next-permutation.java": {
+          "file": "next-permutation.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "2 ms",
+          "runtimePercentile": 6.1440000000000055,
+          "memory": "44.1 MB",
+          "memoryPercentile": 95.55589999999998,
+          "submissionId": "2181386019",
+          "solvedAt": "2026-10-25T12:49:38.000Z"
+        }
+      },
+      "id": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "dir": "0031-next-permutation",
+      "firstSolvedAt": "2026-10-25T12:49:38.000Z"
     }
   },
-  "updatedAt": "2026-10-25T12:04:48.665Z"
+  "updatedAt": "2026-10-25T12:49:48.538Z"
 }
