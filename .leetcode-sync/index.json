@@ -572,7 +572,33 @@
       ],
       "dir": "0075-sort-colors",
       "firstSolvedAt": "2026-04-16T06:11:26.000Z"
+    },
+    "maximum-subarray": {
+      "solutions": {
+        "maximum-subarray.java": {
+          "file": "maximum-subarray.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "1 ms",
+          "runtimePercentile": 99.9341,
+          "memory": "76.7 MB",
+          "memoryPercentile": 92.31430000000015,
+          "submissionId": "2181356950",
+          "solvedAt": "2026-10-25T12:04:39.000Z"
+        }
+      },
+      "id": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "dir": "0053-maximum-subarray",
+      "firstSolvedAt": "2026-10-25T12:04:39.000Z"
     }
   },
-  "updatedAt": "2026-10-25T11:56:55.533Z"
+  "updatedAt": "2026-10-25T12:04:48.665Z"
 }

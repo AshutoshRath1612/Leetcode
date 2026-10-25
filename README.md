@@ -7,9 +7,9 @@
 | Difficulty | Solved |
 |:-----------|:-------|
 | 🟢 Easy | 11 |
-| 🟡 Medium | 7 |
+| 🟡 Medium | 8 |
 | 🔴 Hard | 0 |
-| **Total** | **18** |
+| **Total** | **19** |
 
 ---
 
@@ -18,7 +18,7 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 18 | 11 | 7 | 0 |
+| Arrays | 19 | 11 | 8 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
 | Hashing | 6 | 6 | 0 | 0 |
@@ -33,15 +33,15 @@
 | Sorting | 8 | 5 | 3 | 0 |
 | Binary Search | 3 | 3 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
-| Dynamic Programming | 2 | 2 | 0 | 0 |
+| Dynamic Programming | 3 | 2 | 1 | 0 |
 | Graphs | 0 | 0 | 0 | 0 |
 | Trees | 0 | 0 | 0 | 0 |
+| Divide and Conquer | 2 | 1 | 1 | 0 |
 | Simulation | 2 | 0 | 2 | 0 |
 | Bit Manipulation | 1 | 1 | 0 | 0 |
 | Boyer–Moore Majority Vote Algorithm | 1 | 1 | 0 | 0 |
 | Bubble Sort | 1 | 0 | 1 | 0 |
 | Counting | 1 | 1 | 0 | 0 |
-| Divide and Conquer | 1 | 1 | 0 | 0 |
 | Quicksort | 1 | 0 | 1 | 0 |
 
 _A problem counts towards every topic it is tagged with._
@@ -66,13 +66,14 @@ _A problem counts towards every topic it is tagged with._
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays, Hashing, Two Pointers, Binary Search, Sorting | [Java (1)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java), [Java (2)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180531353.java), [Java (3)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180534341.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
-### 🟡 Medium (7)
+### 🟡 Medium (8)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Arrays, Two Pointers, Sorting | [Java (1)](0015-3sum/3sum.java), [Java (2)](0015-3sum/3sum-2181327107.java) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Arrays, Two Pointers, Sorting | [Java](0018-4sum/4sum.java) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays, Maths, Matrix | [Java (1)](0048-rotate-image/rotate-image.java), [Java (2)](0048-rotate-image/rotate-image-2181307771.java) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Arrays, Divide and Conquer, Dynamic Programming | [Java](0053-maximum-subarray/maximum-subarray.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays, Two Pointers, Sorting, Quicksort, Bubble Sort | [Java (1)](0075-sort-colors/sort-colors.java), [Java (2)](0075-sort-colors/sort-colors-2181347783.java), [Java (3)](0075-sort-colors/sort-colors-2181352167.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
@@ -91,12 +92,13 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (18)
+### 📦 Arrays (19)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
@@ -149,9 +151,14 @@ _Nothing here yet._
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 🧑‍💻 Dynamic Programming (2)
+### 🧑‍💻 Dynamic Programming (3)
+- 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+
+### 📌 Divide and Conquer (2)
+- 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 
 ### 📌 Simulation (2)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -167,9 +174,6 @@ _Nothing here yet._
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 ### 📌 Counting (1)
-- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
-
-### 📌 Divide and Conquer (1)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 
 ### 📌 Quicksort (1)
