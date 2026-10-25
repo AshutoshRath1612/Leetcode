@@ -496,7 +496,33 @@
       ],
       "dir": "0015-3sum",
       "firstSolvedAt": "2026-04-08T06:00:59.000Z"
+    },
+    "4sum": {
+      "solutions": {
+        "4sum.java": {
+          "file": "4sum.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "18 ms",
+          "runtimePercentile": 87.80950000000001,
+          "memory": "45.3 MB",
+          "memoryPercentile": 94.6785,
+          "submissionId": "2181336445",
+          "solvedAt": "2026-10-25T11:30:53.000Z"
+        }
+      },
+      "id": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "dir": "0018-4sum",
+      "firstSolvedAt": "2026-10-25T11:30:53.000Z"
     }
   },
-  "updatedAt": "2026-10-25T11:15:58.815Z"
+  "updatedAt": "2026-10-25T11:31:02.109Z"
 }

@@ -7,9 +7,9 @@
 | Difficulty | Solved |
 |:-----------|:-------|
 | 🟢 Easy | 11 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
-| **Total** | **16** |
+| **Total** | **17** |
 
 ---
 
@@ -18,11 +18,11 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 16 | 11 | 5 | 0 |
+| Arrays | 17 | 11 | 6 | 0 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
 | Hashing | 6 | 6 | 0 | 0 |
-| Two Pointers | 7 | 4 | 3 | 0 |
+| Two Pointers | 8 | 4 | 4 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
 | Linked List | 0 | 0 | 0 | 0 |
@@ -30,7 +30,7 @@
 | Queue | 0 | 0 | 0 | 0 |
 | Heap | 0 | 0 | 0 | 0 |
 | Greedy | 0 | 0 | 0 | 0 |
-| Sorting | 6 | 5 | 1 | 0 |
+| Sorting | 7 | 5 | 2 | 0 |
 | Binary Search | 3 | 3 | 0 | 0 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Dynamic Programming | 2 | 2 | 0 | 0 |
@@ -64,11 +64,12 @@ _A problem counts towards every topic it is tagged with._
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays, Hashing, Two Pointers, Binary Search, Sorting | [Java (1)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java), [Java (2)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180531353.java), [Java (3)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180534341.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
-### 🟡 Medium (5)
+### 🟡 Medium (6)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Arrays, Two Pointers, Sorting | [Java (1)](0015-3sum/3sum.java), [Java (2)](0015-3sum/3sum-2181327107.java) |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Arrays, Two Pointers, Sorting | [Java](0018-4sum/4sum.java) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays, Maths, Matrix | [Java (1)](0048-rotate-image/rotate-image.java), [Java (2)](0048-rotate-image/rotate-image-2181307771.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
@@ -87,9 +88,10 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (16)
+### 📦 Arrays (17)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
+- 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -117,8 +119,9 @@ _Nothing here yet._
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 👣 Two Pointers (7)
+### 👣 Two Pointers (8)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
+- 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
@@ -126,8 +129,9 @@ _Nothing here yet._
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 🟡 [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
-### 🧩 Sorting (6)
+### 🧩 Sorting (7)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
+- 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
