@@ -74,7 +74,7 @@ _A problem counts towards every topic it is tagged with._
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Arrays, Two Pointers, Sorting | [Java](0018-4sum/4sum.java) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Arrays, Maths, Matrix | [Java (1)](0048-rotate-image/rotate-image.java), [Java (2)](0048-rotate-image/rotate-image-2181307771.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays, Two Pointers, Sorting, Quicksort, Bubble Sort | [Java](0075-sort-colors/sort-colors.java) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays, Two Pointers, Sorting, Quicksort, Bubble Sort | [Java (1)](0075-sort-colors/sort-colors.java), [Java (2)](0075-sort-colors/sort-colors-2181347783.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Arrays, Two Pointers, Simulation | [Java (1)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.java), [Java (2)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign-2180604189.java) |
 
