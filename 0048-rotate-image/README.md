@@ -38,4 +38,5 @@
 
 | Language | Runtime | Memory | Solved on | Submission | Solution |
 | --- | --- | --- | :---: | :---: | --- |
-| Java | 0 ms (100%) | 44 MB (15.52%) | 2026-06-09 18:12 UTC | [2027854625](https://leetcode.com/submissions/detail/2027854625/) | [rotate-image.java](./rotate-image.java) |
+| Java (1) | 0 ms (100%) | 44 MB (15.52%) | 2026-06-09 18:12 UTC | [2027854625](https://leetcode.com/submissions/detail/2027854625/) | [rotate-image.java](./rotate-image.java) |
+| Java (2) | 0 ms (100%) | 43.5 MB (77.52%) | 2026-10-25 10:44 UTC | [2181307771](https://leetcode.com/submissions/detail/2181307771/) | [rotate-image-2181307771.java](./rotate-image-2181307771.java) |

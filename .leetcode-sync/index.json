@@ -410,6 +410,17 @@
           "memoryPercentile": 15.51680000000001,
           "submissionId": "2027854625",
           "solvedAt": "2026-06-09T18:12:15.000Z"
+        },
+        "rotate-image-2181307771.java": {
+          "file": "rotate-image-2181307771.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "43.5 MB",
+          "memoryPercentile": 77.52270000000001,
+          "submissionId": "2181307771",
+          "solvedAt": "2026-10-25T10:44:59.000Z"
         }
       },
       "id": "48",
@@ -425,5 +436,5 @@
       "firstSolvedAt": "2026-06-09T18:12:15.000Z"
     }
   },
-  "updatedAt": "2026-10-25T10:35:36.505Z"
+  "updatedAt": "2026-10-25T10:45:07.857Z"
 }
