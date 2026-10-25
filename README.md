@@ -78,7 +78,7 @@ _A problem counts towards every topic it is tagged with._
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays, Two Pointers, Sorting, Quicksort, Bubble Sort | [Java (1)](0075-sort-colors/sort-colors.java), [Java (2)](0075-sort-colors/sort-colors-2181347783.java), [Java (3)](0075-sort-colors/sort-colors-2181352167.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
-| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Arrays, Hashing, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [Java](0229-majority-element-ii/majority-element-ii.java) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Arrays, Hashing, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [Java (1)](0229-majority-element-ii/majority-element-ii.java), [Java (2)](0229-majority-element-ii/majority-element-ii-2181393745.java) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Arrays, Two Pointers, Simulation | [Java (1)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.java), [Java (2)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign-2180604189.java) |
 
 ### 🔴 Hard (0)

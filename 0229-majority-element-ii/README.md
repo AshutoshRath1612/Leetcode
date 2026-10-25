@@ -45,4 +45,5 @@
 
 | Language | Runtime | Memory | Solved on | Submission | Solution |
 | --- | --- | --- | :---: | :---: | --- |
-| Java | 20 ms (8.41%) | 51.5 MB (87.02%) | 2026-10-25 12:53 UTC | [2181388670](https://leetcode.com/submissions/detail/2181388670/) | [majority-element-ii.java](./majority-element-ii.java) |
+| Java (1) | 20 ms (8.41%) | 51.5 MB (87.02%) | 2026-10-25 12:53 UTC | [2181388670](https://leetcode.com/submissions/detail/2181388670/) | [majority-element-ii.java](./majority-element-ii.java) |
+| Java (2) | 14 ms (42.32%) | 50.6 MB (98.63%) | 2026-10-25 13:00 UTC | [2181393745](https://leetcode.com/submissions/detail/2181393745/) | [majority-element-ii-2181393745.java](./majority-element-ii-2181393745.java) |

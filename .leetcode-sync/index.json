@@ -636,6 +636,17 @@
           "memoryPercentile": 87.0180999999999,
           "submissionId": "2181388670",
           "solvedAt": "2026-10-25T12:53:18.000Z"
+        },
+        "majority-element-ii-2181393745.java": {
+          "file": "majority-element-ii-2181393745.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "14 ms",
+          "runtimePercentile": 42.32330000000001,
+          "memory": "50.6 MB",
+          "memoryPercentile": 98.63419999999992,
+          "submissionId": "2181393745",
+          "solvedAt": "2026-10-25T13:00:18.000Z"
         }
       },
       "id": "229",
@@ -653,5 +664,5 @@
       "firstSolvedAt": "2026-10-25T12:53:18.000Z"
     }
   },
-  "updatedAt": "2026-10-25T12:53:27.148Z"
+  "updatedAt": "2026-10-25T13:00:28.550Z"
 }
