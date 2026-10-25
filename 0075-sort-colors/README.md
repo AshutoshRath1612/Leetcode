@@ -55,3 +55,4 @@
 | --- | --- | --- | :---: | :---: | --- |
 | Java (1) | 0 ms (100%) | 43.4 MB (68.39%) | 2026-04-16 06:11 UTC | [1979798440](https://leetcode.com/submissions/detail/1979798440/) | [sort-colors.java](./sort-colors.java) |
 | Java (2) | 0 ms (100%) | 42.8 MB (96.51%) | 2026-10-25 11:49 UTC | [2181347783](https://leetcode.com/submissions/detail/2181347783/) | [sort-colors-2181347783.java](./sort-colors-2181347783.java) |
+| Java (3) | 0 ms (100%) | 43.2 MB (79.98%) | 2026-10-25 11:56 UTC | [2181352167](https://leetcode.com/submissions/detail/2181352167/) | [sort-colors-2181352167.java](./sort-colors-2181352167.java) |

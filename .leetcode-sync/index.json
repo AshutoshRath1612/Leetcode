@@ -546,6 +546,17 @@
           "memoryPercentile": 96.50619999999998,
           "submissionId": "2181347783",
           "solvedAt": "2026-10-25T11:49:13.000Z"
+        },
+        "sort-colors-2181352167.java": {
+          "file": "sort-colors-2181352167.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "43.2 MB",
+          "memoryPercentile": 79.97659999999998,
+          "submissionId": "2181352167",
+          "solvedAt": "2026-10-25T11:56:45.000Z"
         }
       },
       "id": "75",
@@ -563,5 +574,5 @@
       "firstSolvedAt": "2026-04-16T06:11:26.000Z"
     }
   },
-  "updatedAt": "2026-10-25T11:49:22.513Z"
+  "updatedAt": "2026-10-25T11:56:55.533Z"
 }
