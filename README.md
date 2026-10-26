@@ -6,10 +6,10 @@
 
 | Difficulty | Solved |
 |:-----------|:-------|
-| 🟢 Easy | 11 |
+| 🟢 Easy | 12 |
 | 🟡 Medium | 11 |
 | 🔴 Hard | 1 |
-| **Total** | **23** |
+| **Total** | **24** |
 
 ---
 
@@ -18,11 +18,11 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 23 | 11 | 11 | 1 |
+| Arrays | 24 | 12 | 11 | 1 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
 | Hashing | 7 | 6 | 1 | 0 |
-| Two Pointers | 10 | 4 | 6 | 0 |
+| Two Pointers | 11 | 5 | 6 | 0 |
 | Sliding Window | 0 | 0 | 0 | 0 |
 | String | 0 | 0 | 0 | 0 |
 | Linked List | 0 | 0 | 0 | 0 |
@@ -30,7 +30,7 @@
 | Queue | 0 | 0 | 0 | 0 |
 | Heap | 0 | 0 | 0 | 0 |
 | Greedy | 0 | 0 | 0 | 0 |
-| Sorting | 9 | 5 | 4 | 0 |
+| Sorting | 10 | 6 | 4 | 0 |
 | Binary Search | 4 | 3 | 0 | 1 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Dynamic Programming | 4 | 2 | 2 | 0 |
@@ -55,12 +55,13 @@ _A problem counts towards every topic it is tagged with._
 
 ## 📚 Problem List (Difficulty-wise)
 
-### 🟢 Easy (11)
+### 🟢 Easy (12)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, Hashing | [Java](0001-two-sum/two-sum.java) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays, Two Pointers | [Java](0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Arrays, Two Pointers, Sorting | [Java](0088-merge-sorted-array/merge-sorted-array.java) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Arrays, Dynamic Programming | [Java](0118-pascals-triangle/pascals-triangle.java) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Arrays, Dynamic Programming | [Java](0119-pascals-triangle-ii/pascals-triangle-ii.java) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays, Hashing, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [Java](0169-majority-element/majority-element.java) |
@@ -102,7 +103,7 @@ _A problem counts towards every topic it is tagged with._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (23)
+### 📦 Arrays (24)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
@@ -112,6 +113,7 @@ _A problem counts towards every topic it is tagged with._
 - 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- 🟢 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - 🟡 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
@@ -140,22 +142,24 @@ _A problem counts towards every topic it is tagged with._
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 👣 Two Pointers (10)
+### 👣 Two Pointers (11)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟢 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - 🟡 [Next Permutation](https://leetcode.com/problems/next-permutation/)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- 🟢 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 🟡 [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
-### 🧩 Sorting (9)
+### 🧩 Sorting (10)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- 🟢 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 🟡 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)

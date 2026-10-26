@@ -729,7 +729,33 @@
       ],
       "dir": "0152-maximum-product-subarray",
       "firstSolvedAt": "2025-03-25T10:46:24.000Z"
+    },
+    "merge-sorted-array": {
+      "solutions": {
+        "merge-sorted-array.java": {
+          "file": "merge-sorted-array.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "43.3 MB",
+          "memoryPercentile": 90.29169999999998,
+          "submissionId": "2182572698",
+          "solvedAt": "2026-10-26T19:45:39.000Z"
+        }
+      },
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "dir": "0088-merge-sorted-array",
+      "firstSolvedAt": "2026-10-26T19:45:39.000Z"
     }
   },
-  "updatedAt": "2026-10-26T19:31:32.907Z"
+  "updatedAt": "2026-10-26T19:45:46.144Z"
 }
