@@ -693,7 +693,32 @@
       ],
       "dir": "0493-reverse-pairs",
       "firstSolvedAt": "2026-10-26T18:20:18.000Z"
+    },
+    "maximum-product-subarray": {
+      "solutions": {
+        "maximum-product-subarray.java": {
+          "file": "maximum-product-subarray.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "1 ms",
+          "runtimePercentile": 93.5877,
+          "memory": "44.8 MB",
+          "memoryPercentile": 99.9844,
+          "submissionId": "1585502289",
+          "solvedAt": "2025-03-25T10:46:24.000Z"
+        }
+      },
+      "id": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "dir": "0152-maximum-product-subarray",
+      "firstSolvedAt": "2025-03-25T10:46:24.000Z"
     }
   },
-  "updatedAt": "2026-10-26T18:20:26.216Z"
+  "updatedAt": "2026-10-26T18:56:28.129Z"
 }

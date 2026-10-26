@@ -7,9 +7,9 @@
 | Difficulty | Solved |
 |:-----------|:-------|
 | 🟢 Easy | 11 |
-| 🟡 Medium | 10 |
+| 🟡 Medium | 11 |
 | 🔴 Hard | 1 |
-| **Total** | **22** |
+| **Total** | **23** |
 
 ---
 
@@ -18,7 +18,7 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 22 | 11 | 10 | 1 |
+| Arrays | 23 | 11 | 11 | 1 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
 | Hashing | 7 | 6 | 1 | 0 |
@@ -33,7 +33,7 @@
 | Sorting | 9 | 5 | 4 | 0 |
 | Binary Search | 4 | 3 | 0 | 1 |
 | Recursion | 0 | 0 | 0 | 0 |
-| Dynamic Programming | 3 | 2 | 1 | 0 |
+| Dynamic Programming | 4 | 2 | 2 | 0 |
 | Graphs | 0 | 0 | 0 | 0 |
 | Trees | 0 | 0 | 0 | 0 |
 | Divide and Conquer | 3 | 1 | 1 | 1 |
@@ -71,7 +71,7 @@ _A problem counts towards every topic it is tagged with._
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Arrays, Hashing, Two Pointers, Binary Search, Sorting | [Java (1)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java), [Java (2)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180531353.java), [Java (3)](0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii-2180534341.java) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | [Java](0485-max-consecutive-ones/max-consecutive-ones.java) |
 
-### 🟡 Medium (10)
+### 🟡 Medium (11)
 
 | # | Problem | Tags | Solution |
 |:--:|:--------|:-----|:---------|
@@ -82,6 +82,7 @@ _A problem counts towards every topic it is tagged with._
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Arrays, Divide and Conquer, Dynamic Programming | [Java](0053-maximum-subarray/maximum-subarray.java) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Arrays, Matrix, Simulation | [Java (1)](0054-spiral-matrix/spiral-matrix.java), [Java (2)](0054-spiral-matrix/spiral-matrix-2180630766.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays, Two Pointers, Sorting, Quicksort, Bubble Sort | [Java (1)](0075-sort-colors/sort-colors.java), [Java (2)](0075-sort-colors/sort-colors-2181347783.java), [Java (3)](0075-sort-colors/sort-colors-2181352167.java) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Arrays, Dynamic Programming | [Java](0152-maximum-product-subarray/maximum-product-subarray.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Arrays, Maths, Two Pointers | [Java](0189-rotate-array/rotate-array.java) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Arrays, Hashing, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [Java (1)](0229-majority-element-ii/majority-element-ii.java), [Java (2)](0229-majority-element-ii/majority-element-ii-2181393745.java) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Arrays, Two Pointers, Simulation | [Java (1)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.java), [Java (2)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign-2180604189.java) |
@@ -101,7 +102,7 @@ _A problem counts towards every topic it is tagged with._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (22)
+### 📦 Arrays (23)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
@@ -113,6 +114,7 @@ _A problem counts towards every topic it is tagged with._
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+- 🟡 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -167,10 +169,11 @@ _A problem counts towards every topic it is tagged with._
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
-### 🧑‍💻 Dynamic Programming (3)
+### 🧑‍💻 Dynamic Programming (4)
 - 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+- 🟡 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 ### 📌 Divide and Conquer (3)
 - 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
