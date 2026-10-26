@@ -706,6 +706,17 @@
           "memoryPercentile": 99.9844,
           "submissionId": "1585502289",
           "solvedAt": "2025-03-25T10:46:24.000Z"
+        },
+        "maximum-product-subarray-2182564727.java": {
+          "file": "maximum-product-subarray-2182564727.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "2 ms",
+          "runtimePercentile": 71.4353,
+          "memory": "46.8 MB",
+          "memoryPercentile": 91.69529999999997,
+          "submissionId": "2182564727",
+          "solvedAt": "2026-10-26T19:31:25.000Z"
         }
       },
       "id": "152",
@@ -720,5 +731,5 @@
       "firstSolvedAt": "2025-03-25T10:46:24.000Z"
     }
   },
-  "updatedAt": "2026-10-26T18:56:28.129Z"
+  "updatedAt": "2026-10-26T19:31:32.907Z"
 }

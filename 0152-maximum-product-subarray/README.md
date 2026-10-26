@@ -42,4 +42,5 @@
 
 | Language | Runtime | Memory | Solved on | Submission | Solution |
 | --- | --- | --- | :---: | :---: | --- |
-| Java | 1 ms (93.59%) | 44.8 MB (99.98%) | 2025-03-25 10:46 UTC | [1585502289](https://leetcode.com/submissions/detail/1585502289/) | [maximum-product-subarray.java](./maximum-product-subarray.java) |
+| Java (1) | 1 ms (93.59%) | 44.8 MB (99.98%) | 2025-03-25 10:46 UTC | [1585502289](https://leetcode.com/submissions/detail/1585502289/) | [maximum-product-subarray.java](./maximum-product-subarray.java) |
+| Java (2) | 2 ms (71.44%) | 46.8 MB (91.7%) | 2026-10-26 19:31 UTC | [2182564727](https://leetcode.com/submissions/detail/2182564727/) | [maximum-product-subarray-2182564727.java](./maximum-product-subarray-2182564727.java) |
