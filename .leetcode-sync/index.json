@@ -662,7 +662,38 @@
       ],
       "dir": "0229-majority-element-ii",
       "firstSolvedAt": "2026-10-25T12:53:18.000Z"
+    },
+    "reverse-pairs": {
+      "solutions": {
+        "reverse-pairs.java": {
+          "file": "reverse-pairs.java",
+          "lang": "Java",
+          "langName": "java",
+          "runtime": "44 ms",
+          "runtimePercentile": 51.93809999999999,
+          "memory": "64.2 MB",
+          "memoryPercentile": 53.52649999999996,
+          "submissionId": "2182512328",
+          "solvedAt": "2026-10-26T18:20:18.000Z"
+        }
+      },
+      "id": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Merge Sort",
+        "Ordered Set",
+        "Treap"
+      ],
+      "dir": "0493-reverse-pairs",
+      "firstSolvedAt": "2026-10-26T18:20:18.000Z"
     }
   },
-  "updatedAt": "2026-10-25T13:00:28.550Z"
+  "updatedAt": "2026-10-26T18:20:26.216Z"
 }

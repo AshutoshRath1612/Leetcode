@@ -8,8 +8,8 @@
 |:-----------|:-------|
 | 🟢 Easy | 11 |
 | 🟡 Medium | 10 |
-| 🔴 Hard | 0 |
-| **Total** | **21** |
+| 🔴 Hard | 1 |
+| **Total** | **22** |
 
 ---
 
@@ -18,7 +18,7 @@
 | Topic | Problems Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:------|:---------------:|:------:|:--------:|:------:|
 | Maths | 3 | 1 | 2 | 0 |
-| Arrays | 21 | 11 | 10 | 0 |
+| Arrays | 22 | 11 | 10 | 1 |
 | Prefix Sum | 0 | 0 | 0 | 0 |
 | Matrix | 2 | 0 | 2 | 0 |
 | Hashing | 7 | 6 | 1 | 0 |
@@ -31,18 +31,23 @@
 | Heap | 0 | 0 | 0 | 0 |
 | Greedy | 0 | 0 | 0 | 0 |
 | Sorting | 9 | 5 | 4 | 0 |
-| Binary Search | 3 | 3 | 0 | 0 |
+| Binary Search | 4 | 3 | 0 | 1 |
 | Recursion | 0 | 0 | 0 | 0 |
 | Dynamic Programming | 3 | 2 | 1 | 0 |
 | Graphs | 0 | 0 | 0 | 0 |
 | Trees | 0 | 0 | 0 | 0 |
+| Divide and Conquer | 3 | 1 | 1 | 1 |
 | Boyer–Moore Majority Vote Algorithm | 2 | 1 | 1 | 0 |
 | Counting | 2 | 1 | 1 | 0 |
-| Divide and Conquer | 2 | 1 | 1 | 0 |
 | Simulation | 2 | 0 | 2 | 0 |
+| Binary Indexed Tree | 1 | 0 | 0 | 1 |
 | Bit Manipulation | 1 | 1 | 0 | 0 |
 | Bubble Sort | 1 | 0 | 1 | 0 |
+| Merge Sort | 1 | 0 | 0 | 1 |
+| Ordered Set | 1 | 0 | 0 | 1 |
 | Quicksort | 1 | 0 | 1 | 0 |
+| Segment Tree | 1 | 0 | 0 | 1 |
+| Treap | 1 | 0 | 0 | 1 |
 
 _A problem counts towards every topic it is tagged with._
 
@@ -81,9 +86,11 @@ _A problem counts towards every topic it is tagged with._
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Arrays, Hashing, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | [Java (1)](0229-majority-element-ii/majority-element-ii.java), [Java (2)](0229-majority-element-ii/majority-element-ii-2181393745.java) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Arrays, Two Pointers, Simulation | [Java (1)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign.java), [Java (2)](2149-rearrange-array-elements-by-sign/rearrange-array-elements-by-sign-2180604189.java) |
 
-### 🔴 Hard (0)
+### 🔴 Hard (1)
 
-_Nothing here yet._
+| # | Problem | Tags | Solution |
+|:--:|:--------|:-----|:---------|
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | Arrays, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | [Java](0493-reverse-pairs/reverse-pairs.java) |
 
 ---
 
@@ -94,7 +101,7 @@ _Nothing here yet._
 - 🟡 [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 
-### 📦 Arrays (21)
+### 📦 Arrays (22)
 - 🟢 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 🟡 [3Sum](https://leetcode.com/problems/3sum/)
 - 🟡 [4Sum](https://leetcode.com/problems/4sum/)
@@ -115,6 +122,7 @@ _Nothing here yet._
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - 🟢 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 - 🟡 [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
 ### 🏁 Matrix (2)
@@ -153,15 +161,21 @@ _Nothing here yet._
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-### 🔍 Binary Search (3)
+### 🔍 Binary Search (4)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
 - 🟢 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - 🟢 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 ### 🧑‍💻 Dynamic Programming (3)
 - 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 🟢 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 🟢 [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+
+### 📌 Divide and Conquer (3)
+- 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 ### 📌 Boyer–Moore Majority Vote Algorithm (2)
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
@@ -171,13 +185,12 @@ _Nothing here yet._
 - 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
 - 🟡 [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 
-### 📌 Divide and Conquer (2)
-- 🟡 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- 🟢 [Majority Element](https://leetcode.com/problems/majority-element/)
-
 ### 📌 Simulation (2)
 - 🟡 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - 🟡 [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+
+### 📌 Binary Indexed Tree (1)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 ### 📌 Bit Manipulation (1)
 - 🟢 [Missing Number](https://leetcode.com/problems/missing-number/)
@@ -185,8 +198,20 @@ _Nothing here yet._
 ### 📌 Bubble Sort (1)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
 
+### 📌 Merge Sort (1)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
+### 📌 Ordered Set (1)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
 ### 📌 Quicksort (1)
 - 🟡 [Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+### 📌 Segment Tree (1)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
+### 📌 Treap (1)
+- 🔴 [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 _Auto-generated by LeetCode → GitHub Sync. Edit outside the markers; anything between them is rewritten._
 
